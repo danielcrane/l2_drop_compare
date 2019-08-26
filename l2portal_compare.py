@@ -114,7 +114,7 @@ def find_diff(drops1, drops2, type):
         elif not np.array_equal(drops1[:, 1:3], drops2[:, 1:3]):
             idxs = np.where(drops1[:, 1:3] != drops2[:, 1:3])[0]
             for idx in idxs:
-                out.add(
+                out.append(
                     f"Unequal {type} amount for item {drops1[idx, 0]}: "
                     f"{tuple(drops1[idx,1:3])} (DB) vs {tuple(drops2[idx,1:3])} (Web)"
                 )
