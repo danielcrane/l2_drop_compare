@@ -128,7 +128,7 @@ def find_diff(drops1, drops2, type):
                 if not np.array_equal(d1[1:3], d2[1:3]):
                     out.append(
                         f"Unequal {type} amount for item {drop}: "
-                        f"{tuple(d1[1:3].astype(int))} (DB)"
+                        f"{tuple(d1[1:3].astype(int))} (DB) "
                         f"vs {tuple(d2[1:3].astype(int))} (Web)"
                     )
 
