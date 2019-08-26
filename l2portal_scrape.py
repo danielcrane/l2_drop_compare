@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 
 
-def compare_to_l2portal(drop_data):
+def scrape_l2portal(drop_data):
 
     num_mobs = len(drop_data)
     count = 0
