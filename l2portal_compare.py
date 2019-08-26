@@ -85,11 +85,11 @@ def find_diff(drops1, drops2, type):
     if drops1.shape[0] == 0 or drops2.shape[0] == 0:
         if drops1.shape[0] != 0:
             for drop in drops1:
-                out.append(f"Additional {type} in DB: {drop[0]}")
+                out.append(f"Additional {type} in DB, item id: {drop[0]}")
 
         if drops2.shape[0] != 0:
             for drop in drops2:
-                out.append(f"Additional {type} in Web: {drop[0]}")
+                out.append(f"Additional {type} in Web, item id: {drop[0]}")
 
         return out
 
@@ -101,36 +101,44 @@ def find_diff(drops1, drops2, type):
 
     # First check that the drops and amounts are the same:
     if not np.array_equal(drops1[:, :3], drops2[:, :3]):
+        all_drops = set(np.concatenate((drops1[:, 0].ravel(), drops2[:, 0].ravel())).astype(int))
+
         if not np.array_equal(drops1[:, 0], drops2[:, 0]):
             for drop in drops1[:, 0]:
                 if drop not in drops2[:, 0]:
-                    out.append(f"Additional {type} in DB: {drop[0]}")
+                    out.append(f"Additional {type} in DB: {drop.astype(int)}")
 
             for drop in drops2[:, 0]:
                 if drop not in drops1[:, 0]:
-                    out.append(f"Additional {type} in Web: {drop[0]}")
+                    out.append(f"Additional {type} in Web: {drop.astype(int)}")
 
-        # Note: Doing in this way may miss cases, should be done differently to be thorough
-        elif not np.array_equal(drops1[:, 1:3], drops2[:, 1:3]):
-            idxs = np.where(drops1[:, 1:3] != drops2[:, 1:3])[0]
-            for idx in idxs:
-                out.append(
-                    f"Unequal {type} amount for item {drops1[idx, 0]}: "
-                    f"{tuple(drops1[idx,1:3])} (DB) vs {tuple(drops2[idx,1:3])} (Web)"
-                )
+        for drop in all_drops:
+            w1 = np.where(drops1[:, 0] == drop)[0]
+            w2 = np.where(drops2[:, 0] == drop)[0]
+            if len(w1) == 0:
+                out.append(f"Additional {type} in Web: {drop}")
 
-    # Now check that chances are same (within 1% tolerance):
-    rtol = 0.01
-    if not np.allclose(drops1[:, 3], drops2[:, 3], rtol=rtol):
-        diff = np.abs(drops1[:, 3] - drops2[:, 3]) / np.abs(drops2[:, 3])
-        idxs = np.where(diff > rtol)[0]
-        for idx in idxs:
-            out.append(
-                f"Unequal {type} chance for item {drops1[idx, 0]}: "
-                f"{drops1[idx,3]} (DB) vs {drops2[idx,3]} (Web)"
-            )
+            elif len(w2) == 0:
+                out.append(f"Additional {type} in DB: {drop}")
 
-    # If both above checks pass, return true:
+            else:
+                d1 = drops1[w1[0], :]
+                d2 = drops2[w2[0], :]
+
+                if not np.array_equal(d1[1:3], d2[1:3]):
+                    out.append(
+                        f"Unequal {type} amount for item {drop}: "
+                        f"{tuple(d1[1:3].astype(int))} (DB)"
+                        f"vs {tuple(d2[1:3].astype(int))} (Web)"
+                    )
+
+                # Now check that chances are same (web within 1% tolerance of db):
+                rtol = 0.01
+                if not np.allclose(d1[3], d2[3], rtol=rtol):
+                    out.append(
+                        f"Unequal {type} chance for item {drop}: {d1[3]} (DB) vs {d2[3]} (Web)"
+                    )
+
     return out
 
 
