@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 
 
-def scrape_l2portal(drop_data):
+def scrape_l2portal(drop_data, out_file):
 
     num_mobs = len(drop_data)
     count = 0
@@ -67,6 +67,7 @@ def scrape_l2portal(drop_data):
             print(f"\nScraped & saved {count} / {num_mobs}\n")
 
     print("Scraping complete")
+    return drop_data
 
 
 def find_item_name(item_id):
@@ -85,4 +86,4 @@ if __name__ == "__main__":
 
     key_str2int = lambda d: {int(k) if k.lstrip('-').isdigit() else k: v for k, v in d.items()}
     drop_data = json.load(open(drop_file, 'r'), object_hook=key_str2int)
-    scrape_l2portal(drop_file, out_file)
+    drop_data = scrape_l2portal(drop_data, out_file)
