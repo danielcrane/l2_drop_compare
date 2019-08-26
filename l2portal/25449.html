@@ -1,0 +1,1191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Raid Fighter Immortal Guide - Lineage 2 Portal - Drop/Spoil Calculator
+  </title>
+  <meta content="pmfun, lineage, drop, calculator, fun, lineage2, database, drops, pmfuncom, l2pmfun, quest, lineagepmfun, raid, lineagepmfuncom, map" name="keywords"/>
+  <meta content="Lineage 2 Portal - The best drop calculaor. find information about items, monsters, npcs, quests, maps and more. have fun!" name="description"/>
+  <link href="Images/Favicon/favicon.ico" rel="shortcut icon"/>
+  <link href="Css/Global.css" rel="stylesheet" type="text/css"/>
+  <link href="Css/mouseovertabs.css" rel="stylesheet" type="text/css"/>
+  <link href="Css/dddropdownpanel.css" rel="stylesheet" type="text/css"/>
+  <script src="Scripts/mouseovertabs.js" type="text/javascript">
+  </script>
+  <script src="Scripts/Global.js" type="text/javascript">
+  </script>
+  <script src="Scripts/dddropdownpanel.js" type="text/javascript">
+  </script>
+  <script language="javascript" type="text/javascript">
+   function load()
+{
+//document.getElementById("HomeUrl").href = 'default.aspx'
+//document.getElementById("RBMapUrl").href = 'Map.aspx?Type=RaidBoss'
+   //Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+}
+  </script>
+ </head>
+ <body onload="goforit(); load();">
+  <form action="Npc.aspx?ID=25449" id="aspnetForm" method="post" name="aspnetForm" style="margin-bottom:0px;">
+   <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUKLTU1NzQyMjkxMA9kFgJmD2QWAgIDD2QWCAICD2QWAmYPZBYIAgEPEGRkFgFmZAIDDw9kFgIeCW9ua2V5ZG93bgWqAWlmKGV2ZW50LndoaWNoIHx8IGV2ZW50LmtleUNvZGUpe2lmICgoZXZlbnQud2hpY2ggPT0gMTMpIHx8IChldmVudC5rZXlDb2RlID09IDEzKSkge2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMCRUQlNlYXJjaCcpLmNsaWNrKCk7cmV0dXJuIGZhbHNlO319IGVsc2Uge3JldHVybiB0cnVlfTsgZAIFDxYCHg1TZXJ2aWNlTWV0aG9kBRBJdGVtc0FuZE5wY3NMaXN0ZAIHDxYCHg1XYXRlcm1hcmtUZXh0BRdUeXBlIGF0IGxlYXN0IDMgbGV0dGVyc2QCAw9kFgJmD2QWAgIBD2QWBAIBD2QWBGYPDxYEHghDc3NDbGFzcwUPYWNjb3JkaW9uSGVhZGVyHgRfIVNCAgJkZAIBDw8WBB8DBRBhY2NvcmRpb25Db250ZW50HwQCAhYCHgVzdHlsZQUNZGlzcGxheTpub25lOxYKAgEPDxYCHgdWaXNpYmxlZ2RkAgMPZBYEAgEPEGRkFgBkAgMPEGRkFgBkAgUPZBYEAgEPEGRkFgBkAgMPEGRkFgBkAgcPZBYCAgEPEGRkFgBkAgkPZBYGAgEPEGRkFgBkAgMPEGRkFgBkAgUPEGRkFgBkAgIPZBYEZg8PFgQfAwUPYWNjb3JkaW9uSGVhZGVyHwQCAmRkAgEPDxYEHwMFEGFjY29yZGlvbkNvbnRlbnQfBAICFgIfBQUNZGlzcGxheTpub25lOxYCAgEPFgIeBFRleHQF9AI8dWw+PGxpPk1pbmltdW0gbnVtYmVyIG9mIGNoYXJhY3RlcnMgdGhhdCBtdXN0IGJlIGVudGVyZWQgYmVmb3JlIGdldHRpbmcgc3VnZ2VzdGlvbnM6IDM8L2xpPjxsaT5OdW1iZXIgb2Ygc3VnZ2VzdGlvbnMgdG8gYmUgcmV0cmlldmVkOiBBbGwgKGFscGhhYmV0aWNhbGx5KTwvbGk+PGxpPk1pbmltdW0gbnVtYmVyIG9mIGNoYXJhY3RlcnMgdGhhdCBtdXN0IGJlIGVudGVyZWQgZm9yIHRoZSBHZW5lcmFsIFNlYXJjaDogMy4gVGhlcmUgaXMgbm8gY2hhcmFjdGVyIGxpbWl0IGZvciBvdGhlciBzZWFyY2ggc3ViamVjdHMuPC9saT48bGk+RWFjaCBzZWFyY2ggc3ViamVjdCBoYXMgZGlmZmVyZW50IGFkdmFuY2VkIHNlYXJjaCBvcHRpb25zLjwvbGk+PC91bD5kAgQPDxYCHglBY2Nlc3NLZXkFAXNkZAIID2QWSAIBDw8WAh8HBQxSYWlkIEZpZ2h0ZXJkZAIDDw8WAh8HBQ5JbW1vcnRhbCBHdWlkZWRkAgUPDxYCHwcFCChNaW5pb24pFgIfBQUOY29sb3I6I0ZGRkZGRjtkAgcPDxYCHwcFAjcwZGQCCQ8PFgIfBwUHUGFzc2l2ZRYCHwUFDmNvbG9yOiM4OGZmODg7ZAINDw8WAh8HBQUyNTQ0OWRkAg8PDxYCHwcFBG1hbGVkZAIRDw8WAh8HBQVGYWxzZWRkAhMPDxYCHwcFBWZhbHNlZGQCFw8PFgIeCEltYWdlVXJsBRVJbWFnZXMvTnBjcy9ub3BpYy5qcGdkZAIZDw8WAh8HBQU2NzY5NGRkAhsPDxYCHwcFATBkZAIdDw8WAh8HBQQxODU5ZGQCHw8PFgIfBwUBMGRkAiEPDxYCHwcFBDI2MTFkZAIjDw8WAh8HBQM5OTJkZAIlDw8WAh8HBQQxODgyZGQCJw8PFgIfBwUDNzY0ZGQCKQ8PFgIfBwUDMjc4ZGQCKw8PFgIfBwUDMzMzZGQCLQ8PFgIfBwUCODhkZAIvDw8WAh8HBQMyMDlkZAIxDw8WAh8HBQdmaWdodGVyZGQCMw8PFgIfBwUCNDBkZAI1Dw8WAh8HBQU4NC4wN2RkAjcPDxYCHwcFBDkuODFkZAI5Dw8WAh8HBQUxNS4wMGRkAjsPDxYCHwcFBTI4LjAwZGQCPQ8PFgIfBwUCNDBkZAI/Dw8WAh8HBQIzMGRkAkEPDxYCHwcFAjQzZGQCQw8PFgIfBwUCNDFkZAJFDw8WAh8HBQIyMGRkAkcPDxYCHwcFAjEwZGQCSQ88KwANAQAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCBWQWAmYPZBYMAgEPZBYIZg9kFgYCAQ8PFgIfCQUaSW1hZ2VzL2ljb25zL3NraWxsMDAwMC5wbmdkZAIDDw8WAh8HBQQ0MjEzZGQCBQ8PFgIfBwUOaWNvbi5za2lsbDAwMDBkZAIBD2QWAgIBDw8WAh8HBQpCT1NTIEhhc3RlZGQCAg9kFgICAQ8PFgIfBwUBN2RkAgMPZBYCAgEPDxYCHwcFBG5vbmVkZAICD2QWCGYPZBYGAgEPDxYCHwkFGkltYWdlcy9pY29ucy9za2lsbDAwMDAucG5nZGQCAw8PFgIfBwUENDc4M2RkAgUPDxYCHwcFDmljb24uc2tpbGwwMDAwZGQCAQ9kFgICAQ8PFgIfBwUJQk9TUyBIZWFsZGQCAg9kFgICAQ8PFgIfBwUBN2RkAgMPZBYCAgEPDxYCHwcFBG5vbmVkZAIDD2QWCGYPZBYGAgEPDxYCHwkFGkltYWdlcy9pY29ucy9za2lsbDQzMTMucG5nZGQCAw8PFgIfBwUENDQxNGRkAgUPDxYCHwcFDmljb24uc2tpbGw0MzEzZGQCAQ9kFgICAQ8PFgIfBwUQTGlnaHQgQXJtb3IgVHlwZWRkAgIPZBYCAgEPDxYCHwcFATNkZAIDD2QWAgIBDw8WAh8HBSBXZWFrIFAuIERlZi4gYW5kIHN0cm9uZyBFdmFzaW9uLmRkAgQPZBYIZg9kFgYCAQ8PFgIfCQUaSW1hZ2VzL2ljb25zL3NraWxsNDI5MS5wbmdkZAIDDw8WAh8HBQQ0NDE2ZGQCBQ8PFgIfBwUOaWNvbi5za2lsbDQyOTFkZAIBD2QWAgIBDw8WAh8HBQ9NYWdpYyBDcmVhdHVyZXNkZAICD2QWAgIBDw8WAh8HBQEyZGQCAw9kFgICAQ8PFgIfBwWtAVRoZSBjb21tb24gbmFtZSBmb3IgdGhlIGJpb3RlY2hub2xvZ2ljYWwgaXRlbXMgb2YgdGhlIE1hZ2ljIGFuZCBUaXRhbiBBZ2VzLiBUaGVpciBNLiBBdGsuIGlzIGdlbmVyYWxseSBzdHJvbmcgYW5kIHRoZXkgc29tZXRpbWVzIHVzZSBoaWdoLWxldmVsIG1hZ2ljLCBzdWNoIGFzIHRlbGVwb3J0YXRpb24uZGQCBQ9kFghmD2QWBgIBDw8WAh8JBRpJbWFnZXMvaWNvbnMvc2tpbGwwMDAwLnBuZ2RkAgMPDxYCHwcFBDQwNDVkZAIFDw8WAh8HBQ5pY29uLnNraWxsMDAwMGRkAgEPZBYCAgEPDxYCHwcFGFJlc2lzdCBGdWxsIE1hZ2ljIEF0dGFja2RkAgIPZBYCAgEPDxYCHwcFATFkZAIDD2QWAgIBDw8WAh8HBQRub25lZGQCBg8PFgIfBmhkZAJLD2QWAmYPZBYEAgEPPCsADQEADxYEHwpnHwsCAWQWAmYPZBYGAgEPZBYKZg9kFgICAQ8PFgQeDkRlc2NyaXB0aW9uVXJsBRZldGNfbWl0aHJpbF9xdWl2ZXJfaTAwHwkFJ0ltYWdlcy9pY29ucy9ldGNfbWl0aHJpbF9xdWl2ZXJfaTAwLnBuZ2RkAgEPZBYEAgEPDxYEHgtOYXZpZ2F0ZVVybAURSXRlbS5hc3B4P0lEPTEzNDQfBwUNTWl0aHJpbCBBcnJvd2RkAgMPDxYCHwdlZGQCAg9kFgICAQ8PFgIfBwUBQRYCHwUFDmNvbG9yOiNjZmNmY2Y7ZAIDD2QWBAIBDw8WAh8HBQIyMGRkAgMPDxYCHwcFBSAtIDYwZGQCBA9kFgICAQ8PFgIfBwUFOTIuOCVkZAICDw8WAh8GaGRkAgMPDxYCHwZoZGQCAw88KwANAQAPFgQfCmcfC2ZkZBgEBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUOY3RsMDAkSUJTZWFyY2gFJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkR1ZOcGNTcG9pbA88KwAKAQhmZAUjY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRHVk5wY0Ryb3APPCsACgEIAgFkBSVjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJEdWTnBjU2tpbGxzDzwrAAoBCAIBZDbV2aEZ743wt/8SEjn8JOSXE5ov"/>
+   <script src="/gracia/ScriptResource.axd?d=2RUPKrYiUhpFs3NqLEej8uOL4gYsujW4ivyC1uMyGum-HslThAdrwig7TxojOKOmTUywQEdLhgfvIZHFgu8lU0ANozpMmWc6-7uzM9nbUKaZcCHh3HI549vVHWVSg0hC-fJxKgI9FszG0k1zoSvlGv8T62UPmvH0v4diDRbBvEoQr7hA0&amp;t=3f4a792d" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=VCzdRR96jq0bqRnPVfUrKgAeDpmF6iOs0lQLnQ9855X8ZMNwsIPjcvHCO7rPsv_B2clplM-kzo--_mvoox5iyLJ0dJDh4rtrJzOU2aPPS5H2k9b557kr96DBZKJ_MXarEKz-ldiFwZhfbDCU_JtWXmKCvWc1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=5FMXLPtL-3yJa45Ohw-_r2uA5FVMkg_Sb5C26VN71Ta7Zb8N1sXSQhIHrcWQXf2u0E8VblCBN_J4ffA5-pi_-N_utX79OUdHBugGjfZ3NnQVztA2x2VJ6_mNTML4T0gKJXOy8QUAgyOpWv_THphIup1hw1Y1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=pLFU5NGTY2nkm-6ftLU4UAlqGzabqwRO3KmmsyJovI6HJ0fsk2f5VjOZAAtnljuysJ_ebeB7jGoUMKHbKZEJajtazffNAkJts-BOyRDlAuc1-eCgXXwnjHrgbFakzmvC8LN1bv61JJ4v2RPoySt6zdhrHRo1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=ZAowLSstplRpB88T1SAZnMr9Pk7bINu4Wp0Br-kO7XXoNeNPS2OGriC8-KNPjLBAcxjpL9BgOVryyvz7Gyvvh50hbJ3FHJc2OSOJrE6BMftjfy5UWk73n3klszi4Pd2kU2IyMnjjhlYolxyVCjNYV1XQmdw1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=UNcRtDYzGxRrua7ftfY6Gy-NYS8CdfgONkiAt192z84ucyHAMJkzNQnuuVEHlr_rDY87EN2QHQzqTy1UkGBNu6-tAmNbFQkDMqMcWWNgtG39lb2hzS-TT9_9fvcKMlqlcgSNyVknvEmcztVqzqI4KGrTVFg1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=nj2JXje3Ps5mehmy8GCPn-3vC1Zd1-T8UDfIjL92zc3aht_8atEPqboAb3ypVRTpYAcvpQ2EbS235EwK1TNeMTFDXVcIc698w5rb_NpjA5MjkCXoXexsDTtzVCKWfzZCOM4Ow-LwNBcyn-gl06LTUNuXO2w1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=mGBv_C6rQ25aJc7dSg_U0GPMOD7PpnMCHMcw7Lmgl6zscGQcHkxvrO5tanrGRpFeTmKypNammzqlJ8r4UvRYgx_7pwZOwpe0HJsblpFuf08R9tU7Gj-DrRWxvdK9YGytf_vDxiX_S7G-PrPfyJrcNZDo45ucnn6d2hnWDHATMyLm0-Wn0&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=bep9oEBo5id9mHIQWf1wZYiyIpRWCypPZsA9GQ7ojwIXu_t-JEkTvrijoe5t0ClizurbYyGKMaT6CYRC55HZqkJhNm6qtWeqDl-9T5SQMZ5rAjdS_g8ePtJ--5Z2K7CFVC9DBz8zEVb3i2nYquGVSIhSVaHpNBfNP8rn3ZssOr1B7iD20&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=DJAhC_ok6nNYxXqnTUmpjVhGGxI_cO3HvC_8lkBDu-DSvhIpWaQwFe1wCfCH7rnXC0WRe6497or9prqEP5uqdPCha_6GwKew5f3Ii1bcn6d_ta-Od6nX39VrYG2MCW7FRBfhhilm-CO0_iT-3clP60mzAlI1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="WebServices/WSAutoComplete.asmx/jsdebug" type="text/javascript">
+   </script>
+   <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="586FD117"/>
+   <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEWFALP3ZDBAwK809/MDwK5h4HJDwK+7dDsBAKvhL3eDQKV59fbAwKIw+rhBAK6ttufBAKD8LzXCAKsisKpAwKwu523CwLdltnHBQLRxYzCCQL9/4i/BwKakcPUBQLkvpu0DgL11/65CALZgd/3AwLFu9SQCwLcs5TRBGTQA7NJTavjXgBaPtSL8x13VmZn"/>
+   <div class="ddpanel" id="mypanel">
+    <div class="ddpanelcontent" id="mypanelcontent">
+     <p style="padding:10px">
+      <img alt="Lineage 2 Drop Calculator" class="closepanel" src="Images/Templates/Global/Lineage2Example.jpg" style="float:left; width:200px; height:172px; margin:0 10px 10px 0"/>
+      Lineage II: The Chaotic Throne (Korean: 리니지 2) is a fantasy massive multiplayer online role-playing game (MMORPG) for the PC, and a prequel set 150 years before Lineage. It has become very popular since its October 1, 2003 launch in South Korea, reporting 610,918 unique users during the month of March 2007.
+      <br/>
+      <br/>
+      Players create a character as their avatar in the game's medieval-style virtual world. Humans, Elves and Dark Elves start off in the Kingdom of Aden while Dwarves and Orcs start off in the Kingdom of Elmore (Elmore was an entirely different continent until recent versions of the game that have since joined Elmore to Aden). Players can choose from either fighter or mystic professions at the start, except for Dwarves and Kamael which are only able to select the fighter profession. This choice acts as an archetype for later profession options. Each race has its own set of classes, even if humans, elves and dark elves have a lot of classes which are very similar to their counterparts in the other two races.
+        Players have a variety of things they can do for fun in the game. They play alone or as part of a group to fight monsters and complete quests for new skills, experience points, and items. Player versus player (PvP) is a significant portion of the game. The game provides many social, political, and economic aspects which are developed through the community and by the actions, in-game, of single players. Lineage II features siege warfare like the original. To make sure PvP stays under control, the design includes a Karma system that provides negative consequences for killing other players when they are not fighting back.
+        Lineage II features greatly improved third-person 3D graphics over its predecessor. The game uses the Unreal 2.0 Engine developed by Epic Games.
+         -Source:
+      <a href="http://en.wikipedia.org/wiki/Lineage_2" style="color:white" target="_blank">
+       Wikipedia
+      </a>
+      .
+     </p>
+     <br style="clear: left"/>
+     <p>
+      Note: Click on any link or the Image auto closes the panel.
+     </p>
+     <div style="display:none">
+      <!-- google_ad_section_start -->
+      lineage 2 online |  lineage 2 adena for sale | lineage 2 free trail |  lineage 2 free | lineage 2 download client | lineage 2 quests |  lineage 2 free server | lineage quests | buy cheap adena | l2 quests
+      <!-- google_ad_section_end -->
+     </div>
+    </div>
+    <div style="width:100%; position:relative;">
+     <div class="ddpaneltab" id="mypaneltab" style="position:absolute; width:100%;">
+      <a href="#" style="margin-right:22px;">
+       <span>
+        About Lineage 2 [Toggle]
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div id="ctl00_UpdateProgress1" style="display:none;">
+     <span id="SpnImgLoadingGlobal" style="display:inline; position:fixed; bottom:0px; left:0px; background-color:Menu; width:200px; color:black; vertical-align:baseline; border-style:inset; border-width:1px; border-color:Menu;">
+      <table cellpadding="1px" cellspacing="1px" style="">
+       <tr>
+        <td>
+         Loading...
+        </td>
+        <td>
+         <img border="0" id="ctl00_ImgLoadingGlobal" src="Images/Templates/Global/ajax-loader-global.gif" title="Loading Data...."/>
+        </td>
+       </tr>
+      </table>
+     </span>
+    </div>
+   </div>
+  </form>
+ </body>
+</html>
+<table border="0px" cellpadding="0px" cellspacing="0px" style="height:411px;" width="100%">
+ <tr>
+  <td background="Images/Templates/Global/BG_Top.jpg">
+   <center>
+    <table border="0px" cellpadding="0px" cellspacing="0px" style="width:1001px; height:411px; text-align:center;">
+     <tr>
+      <td background="Images/Templates/Global/1_1.jpg" rowspan="3" style="width:30px; height:402px;">
+      </td>
+      <td background="Images/Templates/Global/1_2.jpg" style="width:311px; height:68px;">
+      </td>
+      <td background="Images/Templates/Global/1_3.jpg" style="width:204px; height:68px; color:Black;" valign="bottom">
+       <div style="padding-bottom:14px; ">
+        <script type="text/javascript">
+         /*
+                                    Live Date Script- 
+                                    © Dynamic Drive (www.dynamicdrive.com)
+                                    For full source code, installation instructions, 100's more DHTML scripts, and Terms Of Use,
+                                    visit http://www.dynamicdrive.com
+                                    */
+
+                                    var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+                                    var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+
+                                    function getthedate(){
+                                    var mydate=new Date()
+                                    var year=mydate.getYear()
+                                    if (year < 1000)
+                                    year+=1900
+                                    var day=mydate.getDay()
+                                    var month=mydate.getMonth()
+                                    var daym=mydate.getDate()
+                                    if (daym<10)
+                                    daym="0"+daym
+                                    var hours=mydate.getHours()
+                                    var minutes=mydate.getMinutes()
+                                    var seconds=mydate.getSeconds()
+                                    var dn="AM"
+                                    if (hours>=12)
+                                    dn="PM"
+                                    if (hours>12){
+                                    hours=hours-12
+                                    }
+                                    if (hours==0)
+                                    hours=12
+                                    if (minutes<=9)
+                                    minutes="0"+minutes
+                                    if (seconds<=9)
+                                    seconds="0"+seconds
+                                    //change font size here
+                                    var cdate="<small><font color='000000' face='Arial'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+" <br\>"+hours+":"+minutes+":"+seconds+" "+dn
+                                    +"</b></font></small>"
+                                    if (document.all)
+                                    document.all.clock.innerHTML=cdate
+                                    else if (document.getElementById)
+                                    document.getElementById("clock").innerHTML=cdate
+                                    else
+                                    document.write(cdate)
+                                    }
+                                    if (!document.all&&!document.getElementById)
+                                    getthedate()
+                                    function goforit(){
+                                    if (document.all||document.getElementById)
+                                    setInterval("getthedate()",1000)
+                                    }
+        </script>
+        <span id="clock">
+        </span>
+       </div>
+      </td>
+      <td background="Images/Templates/Global/1_4.jpg" style="width:231px; height:68px;">
+      </td>
+      <td background="Images/Templates/Global/1_5.jpg" style="width:191px; height:68px;">
+      </td>
+      <td background="Images/Templates/Global/1_6.jpg" rowspan="3" style="width:30px; height:402px;">
+      </td>
+     </tr>
+     <tr>
+      <td background="Images/Templates/Global/2_1.jpg" id="TD_ToMainPage" onclick="ToHomePage()" style=" text-align:left; vertical-align:bottom; width:311px; height:225px; cursor:pointer;">
+       <span style="font-size:10px; padding-left:4px; padding-bottom:22px; color:Yellow">
+        V.2.011.5357
+       </span>
+      </td>
+      <td style="background-color:#008fc9; vertical-align:top;">
+       <img alt="Gracia" src="Images/Templates/Global/Version.jpg"/>
+       <br/>
+       <img alt="Shopping" onclick="window.location.href='/Shopping.aspx'" onmouseout="this.style.cursor='default'" onmouseover="this.style.cursor='pointer'" src="/Images/Templates/Global/Shopping.jpg"/>
+      </td>
+      <td background="Images/Templates/Global/2_3.jpg" style="width:231px; height:225px;">
+      </td>
+      <td background="Images/Templates/Global/2_4.jpg" rowspan="2" style="width:195px; height:334px;">
+      </td>
+     </tr>
+     <tr>
+      <td colspan="3" style="width:746px; height:109px; background-color:#008fc9; text-align:center;">
+       <center>
+        <div id="adsense_unit" style="border-width:1px; border-style:inset; border-bottom-style:none; border-color:black; width:728px;">
+         <script type="text/javascript">
+          <!--
+                                    google_ad_client = "pub-6500739051811664";
+                                    /* 728x90_ImageAdd */
+                                    google_ad_slot = "6372395496";
+                                    google_ad_width = 728;
+                                    google_ad_height = 90;
+                                    //-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+       </center>
+      </td>
+     </tr>
+     <tr>
+      <td background="Images/Templates/Global/4_1.jpg" style="width:30px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_2.jpg" style="width:311px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_3.jpg" colspan="2" style="width:435px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_4.jpg" style="width:135px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_5.jpg" style="width:30px; height:9px;">
+      </td>
+     </tr>
+    </table>
+   </center>
+  </td>
+ </tr>
+ <tr>
+  <td style="background-color:#017eb0;">
+   <center>
+    <table border="0px" cellpadding="0px" cellspacing="0px" style="width:1001px; height:200px; text-align:center;">
+     <tr>
+      <td background="Images/Templates/Global/5_1_BodyLeft.jpg" style="width:30px;">
+      </td>
+      <td style="background-color:#008fc9; text-align:left; vertical-align:top; max-width:941px; padding-left:2px; padding-top:2px; padding-right:2px; padding-bottom:2px; margin-top:2px; margin-left:12px;">
+       <div class="tabsmenuclass" id="mytabsmenu">
+        <ul>
+         <li>
+          <a rel="gotsubmenu[selected]">
+           Quick Links
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/Library.html" rel="gotsubmenu">
+           Library
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/QuestsWalkthrough.html" rel="gotsubmenu">
+           Quests Walkthrough
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/Maps.html" rel="gotsubmenu">
+           Maps
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/ArtAndMultimedia.html" rel="gotsubmenu">
+           Art and Multimedia
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="tabsmenucontentclass" id="mysubmenuarea">
+        <!--1st link within submenu container should point to the external submenu contents file-->
+        <a href="submenucontents.htm" style="visibility:hidden">
+         Sub Menu contents
+        </a>
+       </div>
+       <script type="text/javascript">
+        //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                    mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+       </script>
+       <script language="javascript" type="text/javascript">
+        function EndRequestHandler()
+                                    {
+                                      //alert('Your record has been saved successfully');
+                                                                               
+                                    //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                    mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false);
+                                                   
+                                   }
+       </script>
+       <br/>
+       <center>
+        <img alt="Lineage 2 Drop Calculator" src="/Images/Templates/Global/Lineage2DropCalc.png"/>
+        <br/>
+        <table id="L2PortalTbl" style="text-align:center; width:78%; border:solid 0px black;">
+         <tr>
+          <td style="width:16%; vertical-align:top;">
+           <table style="border:solid 0px red; margin-left:1px;">
+            <tr>
+             <td>
+              <img alt="L2PortalSearch" src="/Images/Templates/Global/L2PortalSearchOver.jpg" title="L2Portal Search"/>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <img alt="GoogleSearch" onclick="document.getElementById('L2PortalTbl').style.display='none'; document.getElementById('GoogleTbl').style.display='block';" onmouseout="this.src='/Images/Templates/Global/GoogleSearch.jpg'; this.style.cursor='default'" onmouseover="this.src='/Images/Templates/Global/GoogleSearchOver.jpg'; this.style.cursor='pointer'" src="/Images/Templates/Global/GoogleSearch.jpg" title="Google Search"/>
+             </td>
+            </tr>
+           </table>
+          </td>
+          <td style="width:70%">
+           <center>
+            <div id="ctl00_UpdatePanel1">
+             <select id="ctl00_DDLSearchSubject" name="ctl00$DDLSearchSubject">
+              <option selected="selected" value="Search For">
+               Search For
+              </option>
+              <option value="Armor">
+               Armor
+              </option>
+              <option value="Weapon">
+               Weapon
+              </option>
+              <option value="Etc">
+               Etc
+              </option>
+              <option value="Npcs/Monsters">
+               Npcs/Monsters
+              </option>
+             </select>
+             <input id="ctl00_TBSearch" name="ctl00$TBSearch" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('ctl00$TBSearch').click();return false;}} else {return true}; " type="text"/>
+             <input id="ctl00_TBWME_TBSearch_ClientState" name="ctl00$TBWME_TBSearch_ClientState" type="hidden"/>
+             <span style="display:inline; position:absolute; float:right;">
+              <div id="ctl00_UpdateProgressPartial" style="display:none;">
+               <img align="baseline" border="0" id="ctl00_ImgLoading" src="Images/Templates/Global/ajax-loader.gif" title="Loading Data...."/>
+              </div>
+             </span>
+            </div>
+            <div style="margin-left:6px;">
+             <div style="margin-top:4px; padding-bottom:0px; margin-bottom:0px; text-align:left; border:solid 0px green; padding-left:0px; margin-left:1px; padding:0px 0px 0px 0px">
+              <script type="text/javascript">
+               <!--
+                                                google_ad_client = "pub-6500739051811664";
+                                                /* 486_5_TextLink */
+                                                google_ad_slot = "6579343672";
+                                                google_ad_width = 468;
+                                                google_ad_height = 15;
+                                                //-->
+              </script>
+              <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+              </script>
+             </div>
+             <div style="text-align:left; margin-left:6px; padding-top:4px; margin-top:0px">
+              <div id="ctl00_UpdatePanel2">
+               <div id="ctl00_AccordionAdvanced">
+                <input id="ctl00_AccordionAdvanced_AccordionExtender_ClientState" name="ctl00$AccordionAdvanced_AccordionExtender_ClientState" type="hidden" value="-1"/>
+                <div class="accordionHeader">
+                 <a class="accordionLink" style="height:14px">
+                  Advanced Search
+                 </a>
+                </div>
+                <div class="accordionContent" style="display:none;">
+                 <div id="ctl00_ctl09_PanelGeneral">
+                  Desirable Results:
+                  <span id="ctl00_ctl09_RBGeneral">
+                   <input checked="checked" id="ctl00_ctl09_RBGeneral_0" name="ctl00$ctl09$RBGeneral" type="radio" value="All"/>
+                   <label for="ctl00_ctl09_RBGeneral_0">
+                    All
+                   </label>
+                   <input id="ctl00_ctl09_RBGeneral_1" name="ctl00$ctl09$RBGeneral" type="radio" value="Items"/>
+                   <label for="ctl00_ctl09_RBGeneral_1">
+                    Items
+                   </label>
+                   <input id="ctl00_ctl09_RBGeneral_2" name="ctl00$ctl09$RBGeneral" type="radio" value="Npcs/Monsters"/>
+                   <label for="ctl00_ctl09_RBGeneral_2">
+                    Npcs/Monsters
+                   </label>
+                  </span>
+                  <span style="font-size:10px;">
+                   Each search subject (Armor, Weapon, Etc...) has different advanced search options.
+                  </span>
+                 </div>
+                </div>
+                <div class="accordionHeader">
+                 <a class="accordionLink" style="height:8px;">
+                  About Search
+                 </a>
+                </div>
+                <div class="accordionContent" style="display:none;">
+                 <ul>
+                  <li>
+                   Minimum number of characters that must be entered before getting suggestions: 3
+                  </li>
+                  <li>
+                   Number of suggestions to be retrieved: All (alphabetically)
+                  </li>
+                  <li>
+                   Minimum number of characters that must be entered for the General Search: 3. There is no character limit for other search subjects.
+                  </li>
+                  <li>
+                   Each search subject has different advanced search options.
+                  </li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </center>
+          </td>
+          <td style="width:14%; text-align:left;" valign="top">
+           <input accesskey="s" align="absbottom" border="0" id="ctl00_IBSearch" name="ctl00$IBSearch" onmouseout="this.src='/Images/Templates/Global/SearchBtn.jpg'" onmouseover="this.src='/Images/Templates/Global/SearchBtn_over.jpg'" src="" type="image"/>
+          </td>
+         </tr>
+        </table>
+        <table id="GoogleTbl" style="text-align:left; width:78%; border:solid 0px black; display:none;">
+         <tr>
+          <td style="width:16%;">
+           <table style="border:solid 0px red; margin-left:1px;">
+            <tr>
+             <td>
+              <img alt="L2PortalSearch" onclick="document.getElementById('GoogleTbl').style.display='none'; document.getElementById('L2PortalTbl').style.display='block';" onmouseout="this.src='/Images/Templates/Global/L2PortalSearch.jpg'; this.style.cursor='default'" onmouseover="this.src='/Images/Templates/Global/L2PortalSearchOver.jpg'; this.style.cursor='pointer'" src="/Images/Templates/Global/L2PortalSearch.jpg" title="L2Portal Search"/>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <img alt="GoogleSearch" src="/Images/Templates/Global/GoogleSearchOver.jpg" title="Google Search"/>
+             </td>
+            </tr>
+           </table>
+          </td>
+          <td style="width:70%">
+           <center>
+            <div>
+             <!--This form Fix IE Bug -->
+             <!-- google search -->
+             <div>
+              <input name="cx" type="hidden" value="partner-pub-6500739051811664:q02l6c86suu"/>
+              <input name="cof" type="hidden" value="FORID:10"/>
+              <input name="ie" type="hidden" value="UTF-8"/>
+              <!-- <input type="text" name="q" size="50" /> -->
+              <input id="ctl00_q" name="ctl00$q" type="text"/>
+              <!-- <input type="submit" name="sa" value="Search" /> -->
+              <input id="ctl00_sa" name="ctl00$sa" type="submit" value="Search"/>
+             </div>
+             <script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+             </script>
+             <!-- google search -->
+            </div>
+           </center>
+          </td>
+          <td style="width:14%">
+          </td>
+         </tr>
+        </table>
+        <div style="width:100%; height:3px; margin-top:120px;">
+         <div alt="">
+         </div>
+        </div>
+       </center>
+       <center>
+        <table border="0px" cellpadding="1px" cellspacing="1px" style="width:580px;">
+         <tr>
+          <td align="center" colspan="2">
+           <table border="0px">
+            <tr>
+             <td align="center">
+              <span class="Title" id="ctl00_ContentPlaceHolder1_LblTitle">
+               Raid Fighter
+              </span>
+              <span class="Title" id="ctl00_ContentPlaceHolder1_LblName">
+               Immortal Guide
+              </span>
+              <span id="ctl00_ContentPlaceHolder1_LblType" style="color:#FFFFFF;">
+               (Minion)
+              </span>
+              <br/>
+              <span style="font-size:18px;">
+               Level
+              </span>
+              <span id="ctl00_ContentPlaceHolder1_LblLevel">
+               <b>
+                70
+               </b>
+              </span>
+              <span id="ctl00_ContentPlaceHolder1_LblAggro" style="color:#88ff88;">
+               Passive
+              </span>
+             </td>
+             <td style="width:0px">
+             </td>
+            </tr>
+           </table>
+           <br/>
+           <br/>
+          </td>
+         </tr>
+         <tr>
+          <td align="center" colspan="2">
+           <span class="HeaderStyle">
+            ID:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblID">
+            25449
+           </span>
+           <span class="HeaderStyle">
+            Gender:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblSex">
+            male
+           </span>
+           <span class="HeaderStyle">
+            Undead:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblUndead">
+            False
+           </span>
+           <span class="HeaderStyle">
+            Drop Herbs:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblDropHerbs">
+            false
+           </span>
+           <br/>
+           <br/>
+          </td>
+         </tr>
+         <tr>
+          <td align="left" colspan="2" style="width:580px;">
+          </td>
+         </tr>
+         <tr style="width:100%">
+          <td>
+           <img border="1" height="320" id="ctl00_ContentPlaceHolder1_ImgNpc" src="Images/Npcs/nopic.jpg" width="280"/>
+          </td>
+          <td>
+           <div style="border-color:Black; border-style:solid; border-width:1px; width:300px; height:320px; text-align:left;">
+            <table>
+             <tr>
+              <td>
+               <span style="font-weight:bold">
+                MAIN
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               HP
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblHP">
+                67694
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Exp
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblExp">
+                0
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               MP
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMP">
+                1859
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Sp
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblSp">
+                0
+               </span>
+              </td>
+             </tr>
+            </table>
+            <br/>
+            <table>
+             <tr>
+              <td>
+               <span style="font-weight:bold">
+                COMBAT
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               P. Atk
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblPAtk">
+                2611
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               M. Atk
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMAtk">
+                992
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               P. Def
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblPDef">
+                1882
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               M. Def
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMDef">
+                764
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               Atk. Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblAtkSpd">
+                278
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Casting Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblCastingSpd">
+                333
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               Walk Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblWalkSpd">
+                88
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Run Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblRunSpd">
+                209
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               AI
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblAI">
+                fighter
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Attack Range
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblAttackRange">
+                40
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               HP Reg
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblHpReg">
+                84.07
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               MP Reg
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMpReg">
+                9.81
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               Col.Radius
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblColRad">
+                15.00
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Col.Height
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblColHeight">
+                28.00
+               </span>
+              </td>
+             </tr>
+            </table>
+            <br/>
+            <table>
+             <tr>
+              <td>
+               <span style="font-weight:bold">
+                BASIC
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               STR
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblSTR">
+                40
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               DEX
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblDEX">
+                30
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               CON
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblCON">
+                43
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               INT
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblINT">
+                41
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               WIT
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblWIT">
+                20
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               MEN
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMEN">
+                10
+               </span>
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" style="vertical-align:middle;">
+           <center>
+            <div style="border-width:1px; border-style:solid; border-color:black; width:588px; height:20px; vertical-align:middle;">
+             <script type="text/javascript">
+              <!--
+                        google_ad_client = "pub-6500739051811664";
+                        /* 486_5_TextLink */
+                        google_ad_slot = "6579343672";
+                        google_ad_width = 468;
+                        google_ad_height = 15;
+                        //-->
+             </script>
+             <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+             </script>
+            </div>
+           </center>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" style="text-align:left;">
+           <div style="border-color:Black; border-width:1px; border-style:solid;">
+            <div>
+             <table border="0" cellspacing="0" id="ctl00_ContentPlaceHolder1_GVNpcSkills" width="580">
+              <tr class="HeaderStyle2">
+               <th scope="col">
+                Skill
+               </th>
+               <th align="center" scope="col">
+                Name
+               </th>
+               <th scope="col">
+                Level
+               </th>
+               <th align="center" scope="col">
+                Description
+               </th>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_ImgSkill" src="Images/icons/skill0000.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_LblSkillName">
+                 BOSS Haste
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_LblSkillLevel">
+                 7
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_ImgSkillDesc">
+                 none
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_ImgSkill" src="Images/icons/skill0000.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_LblSkillName">
+                 BOSS Heal
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_LblSkillLevel">
+                 7
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_ImgSkillDesc">
+                 none
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_ImgSkill" src="Images/icons/skill4313.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_LblSkillName">
+                 Light Armor Type
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_LblSkillLevel">
+                 3
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_ImgSkillDesc">
+                 Weak P. Def. and strong Evasion.
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_ImgSkill" src="Images/icons/skill4291.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_LblSkillName">
+                 Magic Creatures
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_LblSkillLevel">
+                 2
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_ImgSkillDesc">
+                 The common name for the biotechnological items of the Magic and Titan Ages. Their M. Atk. is generally strong and they sometimes use high-level magic, such as teleportation.
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_ImgSkill" src="Images/icons/skill0000.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_LblSkillName">
+                 Resist Full Magic Attack
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_LblSkillLevel">
+                 1
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_ImgSkillDesc">
+                 none
+                </span>
+               </td>
+              </tr>
+             </table>
+            </div>
+           </div>
+          </td>
+         </tr>
+        </table>
+        <br/>
+        <div style="width:80%; height:3px; background-image:url(Images/Templates/Global/Seperator.jpg)">
+        </div>
+        <br/>
+       </center>
+       <div id="ctl00_ContentPlaceHolder1_UPNpc">
+        <h3>
+         Drop
+        </h3>
+        <div>
+         <table border="0" cellspacing="0" id="ctl00_ContentPlaceHolder1_GVNpcDrop" width="100%">
+          <tr class="HeaderStyle2">
+           <th align="left" scope="col">
+            Item
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Name')">
+             Name
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Grade')">
+             Grade
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Max')">
+             Amount
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Chance')">
+             Chance
+            </a>
+           </th>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_ImgPic" longdesc="etc_mithril_quiver_i00" src="Images/icons/etc_mithril_quiver_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=1344" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_HLName">
+             Mithril Arrow
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblMin">
+             20
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblMax">
+             - 60
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblChance">
+             92.8%
+            </span>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <br/>
+        <h3>
+         Spoil
+        </h3>
+        <div>
+         <table border="0" cellspacing="0" id="ctl00_ContentPlaceHolder1_GVNpcSpoil" width="100%">
+          <tr>
+           <td colspan="5">
+            No records found.
+           </td>
+          </tr>
+         </table>
+        </div>
+       </div>
+      </td>
+      <td background="Images/Templates/Global/5_3_BodyRight.jpg" style="width:30px;">
+      </td>
+     </tr>
+    </table>
+   </center>
+  </td>
+ </tr>
+ <tr>
+  <td background="Images/Templates/Global/BG_Bottom.jpg">
+   <center>
+    <table border="0px" cellpadding="0px" cellspacing="0px" style="width:1001px; height:335px; text-align:center;">
+     <tr>
+      <td background="Images/Templates/Global/6_1.jpg" rowspan="2" style="width:30px; height:335px;">
+      </td>
+      <td colspan="3" style="width:941px; height:301px; background-color:#008fc9; vertical-align:top;">
+       <div>
+       </div>
+       <table style="height:280px; width:100%; border:solid 0px black">
+        <tr>
+         <td style="text-align:center;">
+          <center>
+           <div id="amazon_carousel_div" style="width:500px; border:solid 1px black; height:174px">
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" height="175px" id="Player_1d6763eb-5b6e-47a6-9c55-579a65cc99f9" width="500px">
+             <param name="movie" value="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Flin2thepor-20%2F8010%2F1d6763eb-5b6e-47a6-9c55-579a65cc99f9&amp;Operation=GetDisplayTemplate"/>
+             <param name="quality" value="high"/>
+             <param name="bgcolor" value="#FFFFFF"/>
+             <param name="allowscriptaccess" value="always"/>
+             <embed align="middle" allowscriptaccess="always" bgcolor="#ffffff" height="175px" id="Player_1d6763eb-5b6e-47a6-9c55-579a65cc99f9" name="Player_1d6763eb-5b6e-47a6-9c55-579a65cc99f9" quality="high" src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Flin2thepor-20%2F8010%2F1d6763eb-5b6e-47a6-9c55-579a65cc99f9&amp;Operation=GetDisplayTemplate" type="application/x-shockwave-flash" width="500px"/>
+            </object>
+            <noscript>
+             <a href="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Flin2thepor-20%2F8010%2F1d6763eb-5b6e-47a6-9c55-579a65cc99f9&amp;Operation=NoScript">
+              Amazon.com Widgets
+             </a>
+            </noscript>
+           </div>
+           <div style="height:2px">
+           </div>
+          </center>
+          <div id="ExtremeTracking" style="visibility:hidden; height:1px">
+           <div id="eXTReMe">
+            <a href="http://extremetracking.com/open?login=lineage2">
+             <img alt="eXTReMe Tracker" height="38" id="EXim" src="http://t1.extreme-dm.com/i.gif" style="border: 0;" width="41"/>
+            </a>
+            <script type="text/javascript">
+             <!--
+                                            var EXlogin='lineage2' // Login
+                                            var EXvsrv='s9' // VServer
+                                            EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+                                            EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+                                            navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+                                            EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+                                            EXd.write("<img src=http://e0.extreme-dm.com",
+                                            "/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+                                            "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+                                            "l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+            </script>
+            <noscript>
+             <div id="neXTReMe">
+              <img alt="" height="1" src="http://e0.extreme-dm.com/s9.g?login=lineage2&amp;j=n&amp;jv=n" width="1"/>
+             </div>
+            </noscript>
+           </div>
+          </div>
+          <div id="addfreestats" style="visibility:hidden; height:1px;">
+           <script type="text/javascript">
+            <!--
+                                            var AFS_Account="00724538";
+                                            var AFS_Tracker="auto";
+                                            var AFS_Server="www7";
+                                            var AFS_Page="DetectName";
+                                            var AFS_Url="DetectUrl";
+                                            // -->
+           </script>
+           <script src="http://www7.addfreestats.com/cgi-bin/afstrack.cgi?usr=00724538" type="text/javascript">
+           </script>
+           <noscript>
+            <a href="http://www.addfreestats.com">
+             <img alt="AddFreeStats.com Free Web Stats!" border="0" src="http://www7.addfreestats.com/cgi-bin/connect.cgi?usr=00724538Pauto"/>
+             Web Stats
+            </a>
+           </noscript>
+          </div>
+          <div id="AmazingCounter">
+           <div align="center">
+            <a href="http://www.amazingcounter.com">
+             <img alt="Web Counter" border="0" src="http://c2.amazingcounters.com/counter.php?i=441856&amp;c=1325881"/>
+            </a>
+            <br/>
+            <small>
+             <a href="http://www.computers-coupon-gateway.com/alienware-coupon.html">
+              <font color="#FFFFFF">
+               Alienware
+              </font>
+             </a>
+             <a href="http://www.allonlinecoupons.com/st/alienware/">
+              <font color="#FFFFFF">
+               Coupons
+              </font>
+             </a>
+            </small>
+           </div>
+          </div>
+          <br/>
+          <a href="Default.aspx" style="color:White">
+           Home
+          </a>
+          |
+          <a onclick="alert('Copyright NCsoft®, the interlocking NC logo, Lineage® II, and all associated logos and designs are trademarks or registered trademarks or service marks of NCsoft Corporation. All rights reserved. All other trademarks are the property of their respective owners. NCsoft Corporation has granted permission to L2portal to use NCsoft®, Lineage® II, and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not affiliated with, L2portal in any official capacity whatsoever.')" style="text-decoration:underline; cursor:help;">
+           Copyright
+          </a>
+          |
+          <a href="mailto:Admin@L2Portal.com" style="color:White">
+           Contact Us
+          </a>
+          |
+          <a href="/interface/Feedback.aspx" style="color:White">
+           Feedback
+          </a>
+          |
+          <a href="#" style="color:White">
+           Top
+          </a>
+          <br/>
+          <br/>
+          Copyright © 2005-2010 Lineage 2 Portal All Rights Reserved.
+          <br/>
+          Lineage II game content and materials are trademarks and copyrights of NCsoft Corporation and its Licensors and used with permission.All rights reserved.
+         </td>
+        </tr>
+       </table>
+      </td>
+      <td background="Images/Templates/Global/6_3.jpg" rowspan="2" style="width:30px; height:335px;">
+      </td>
+     </tr>
+     <tr>
+      <td background="Images/Templates/Global/7_1.jpg" style="width:311px; height:34px;">
+      </td>
+      <td background="Images/Templates/Global/7_2.jpg" style="width:435px; height:34px;">
+      </td>
+      <td background="Images/Templates/Global/7_3.jpg" style="width:195px; height:34px;">
+      </td>
+     </tr>
+    </table>
+   </center>
+  </td>
+ </tr>
+</table>
+<script type="text/javascript">
+ //<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionListCssClass":"autocomplete_completionListElement","completionListItemCssClass":"autocomplete_listItem","completionSetCount":30,"delimiterCharacters":"","highlightedItemCssClass":"autocomplete_highlightedListItem","id":"ctl00_AutoCompleteExtender_TBSearch","serviceMethod":"ItemsAndNpcsList","servicePath":"WebServices/WSAutoComplete.asmx"}, null, null, $get("ctl00_TBSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_TBWME_TBSearch_ClientState","WatermarkCssClass":"WaterMarked","WatermarkText":"Type at least 3 letters","id":"ctl00_TBWME_TBSearch"}, null, null, $get("ctl00_TBSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AccordionBehavior, {"ClientStateFieldID":"ctl00_AccordionAdvanced_AccordionExtender_ClientState","ContentCssClass":"accordionContent","FadeTransitions":true,"FramesPerSecond":40,"HeaderCssClass":"accordionHeader","HeaderSelectedCssClass":"accordionHeaderSelected","SelectedIndex":-1,"id":"ctl00_AccordionAdvanced_AccordionExtender","requireOpenedPane":false,"suppressHeaderPostbacks":true}, null, null, $get("ctl00_AccordionAdvanced"));
+});
+//]]>
+</script>
+<script src="/Scripts/astrack.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+ try {
+        var pageTracker = _gat._getTracker("UA-1562548-1");
+        pageTracker._trackPageview();
+        } catch(err) {}
+</script>

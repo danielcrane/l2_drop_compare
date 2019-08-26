@@ -1,0 +1,1846 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Balrog of Destruction - Lineage 2 Portal - Drop/Spoil Calculator
+  </title>
+  <meta content="pmfun, lineage, drop, calculator, fun, lineage2, database, drops, pmfuncom, l2pmfun, quest, lineagepmfun, raid, lineagepmfuncom, map" name="keywords"/>
+  <meta content="Lineage 2 Portal - The best drop calculaor. find information about items, monsters, npcs, quests, maps and more. have fun!" name="description"/>
+  <link href="Images/Favicon/favicon.ico" rel="shortcut icon"/>
+  <link href="Css/Global.css" rel="stylesheet" type="text/css"/>
+  <link href="Css/mouseovertabs.css" rel="stylesheet" type="text/css"/>
+  <link href="Css/dddropdownpanel.css" rel="stylesheet" type="text/css"/>
+  <script src="Scripts/mouseovertabs.js" type="text/javascript">
+  </script>
+  <script src="Scripts/Global.js" type="text/javascript">
+  </script>
+  <script src="Scripts/dddropdownpanel.js" type="text/javascript">
+  </script>
+  <script language="javascript" type="text/javascript">
+   function load()
+{
+//document.getElementById("HomeUrl").href = 'default.aspx'
+//document.getElementById("RBMapUrl").href = 'Map.aspx?Type=RaidBoss'
+   //Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+}
+  </script>
+ </head>
+ <body onload="goforit(); load();">
+  <form action="Npc.aspx?ID=21389" id="aspnetForm" method="post" name="aspnetForm" style="margin-bottom:0px;">
+   <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+   <script src="/gracia/ScriptResource.axd?d=2RUPKrYiUhpFs3NqLEej8uOL4gYsujW4ivyC1uMyGum-HslThAdrwig7TxojOKOmTUywQEdLhgfvIZHFgu8lU0ANozpMmWc6-7uzM9nbUKaZcCHh3HI549vVHWVSg0hC-fJxKgI9FszG0k1zoSvlGv8T62UPmvH0v4diDRbBvEoQr7hA0&amp;t=3f4a792d" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=VCzdRR96jq0bqRnPVfUrKgAeDpmF6iOs0lQLnQ9855X8ZMNwsIPjcvHCO7rPsv_B2clplM-kzo--_mvoox5iyLJ0dJDh4rtrJzOU2aPPS5H2k9b557kr96DBZKJ_MXarEKz-ldiFwZhfbDCU_JtWXmKCvWc1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=5FMXLPtL-3yJa45Ohw-_r2uA5FVMkg_Sb5C26VN71Ta7Zb8N1sXSQhIHrcWQXf2u0E8VblCBN_J4ffA5-pi_-N_utX79OUdHBugGjfZ3NnQVztA2x2VJ6_mNTML4T0gKJXOy8QUAgyOpWv_THphIup1hw1Y1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=pLFU5NGTY2nkm-6ftLU4UAlqGzabqwRO3KmmsyJovI6HJ0fsk2f5VjOZAAtnljuysJ_ebeB7jGoUMKHbKZEJajtazffNAkJts-BOyRDlAuc1-eCgXXwnjHrgbFakzmvC8LN1bv61JJ4v2RPoySt6zdhrHRo1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=ZAowLSstplRpB88T1SAZnMr9Pk7bINu4Wp0Br-kO7XXoNeNPS2OGriC8-KNPjLBAcxjpL9BgOVryyvz7Gyvvh50hbJ3FHJc2OSOJrE6BMftjfy5UWk73n3klszi4Pd2kU2IyMnjjhlYolxyVCjNYV1XQmdw1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=UNcRtDYzGxRrua7ftfY6Gy-NYS8CdfgONkiAt192z84ucyHAMJkzNQnuuVEHlr_rDY87EN2QHQzqTy1UkGBNu6-tAmNbFQkDMqMcWWNgtG39lb2hzS-TT9_9fvcKMlqlcgSNyVknvEmcztVqzqI4KGrTVFg1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=nj2JXje3Ps5mehmy8GCPn-3vC1Zd1-T8UDfIjL92zc3aht_8atEPqboAb3ypVRTpYAcvpQ2EbS235EwK1TNeMTFDXVcIc698w5rb_NpjA5MjkCXoXexsDTtzVCKWfzZCOM4Ow-LwNBcyn-gl06LTUNuXO2w1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=mGBv_C6rQ25aJc7dSg_U0GPMOD7PpnMCHMcw7Lmgl6zscGQcHkxvrO5tanrGRpFeTmKypNammzqlJ8r4UvRYgx_7pwZOwpe0HJsblpFuf08R9tU7Gj-DrRWxvdK9YGytf_vDxiX_S7G-PrPfyJrcNZDo45ucnn6d2hnWDHATMyLm0-Wn0&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=bep9oEBo5id9mHIQWf1wZYiyIpRWCypPZsA9GQ7ojwIXu_t-JEkTvrijoe5t0ClizurbYyGKMaT6CYRC55HZqkJhNm6qtWeqDl-9T5SQMZ5rAjdS_g8ePtJ--5Z2K7CFVC9DBz8zEVb3i2nYquGVSIhSVaHpNBfNP8rn3ZssOr1B7iD20&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="/gracia/ScriptResource.axd?d=DJAhC_ok6nNYxXqnTUmpjVhGGxI_cO3HvC_8lkBDu-DSvhIpWaQwFe1wCfCH7rnXC0WRe6497or9prqEP5uqdPCha_6GwKew5f3Ii1bcn6d_ta-Od6nX39VrYG2MCW7FRBfhhilm-CO0_iT-3clP60mzAlI1&amp;t=ffffffffa2d1521b" type="text/javascript">
+   </script>
+   <script src="WebServices/WSAutoComplete.asmx/jsdebug" type="text/javascript">
+   </script>
+   <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="586FD117"/>
+   <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEWGALEz7vRDAK809/MDwK5h4HJDwK+7dDsBAKvhL3eDQKV59fbAwKIw+rhBAK6ttufBAKD8LzXCAKsisKpAwKwu523CwLdltnHBQLRxYzCCQL9/4i/BwKakcPUBQLkvpu0DgL11/65CALZgd/3AwLFu9SQCwLcs5TRBALkpMGPBQLI8uDBDgLUyOumBgLNwKvnCSh1RpyToBXPhZFZpvG+TlJOK2ht"/>
+   <div class="ddpanel" id="mypanel">
+    <div class="ddpanelcontent" id="mypanelcontent">
+     <p style="padding:10px">
+      <img alt="Lineage 2 Drop Calculator" class="closepanel" src="Images/Templates/Global/Lineage2Example.jpg" style="float:left; width:200px; height:172px; margin:0 10px 10px 0"/>
+      Lineage II: The Chaotic Throne (Korean: 리니지 2) is a fantasy massive multiplayer online role-playing game (MMORPG) for the PC, and a prequel set 150 years before Lineage. It has become very popular since its October 1, 2003 launch in South Korea, reporting 610,918 unique users during the month of March 2007.
+      <br/>
+      <br/>
+      Players create a character as their avatar in the game's medieval-style virtual world. Humans, Elves and Dark Elves start off in the Kingdom of Aden while Dwarves and Orcs start off in the Kingdom of Elmore (Elmore was an entirely different continent until recent versions of the game that have since joined Elmore to Aden). Players can choose from either fighter or mystic professions at the start, except for Dwarves and Kamael which are only able to select the fighter profession. This choice acts as an archetype for later profession options. Each race has its own set of classes, even if humans, elves and dark elves have a lot of classes which are very similar to their counterparts in the other two races.
+        Players have a variety of things they can do for fun in the game. They play alone or as part of a group to fight monsters and complete quests for new skills, experience points, and items. Player versus player (PvP) is a significant portion of the game. The game provides many social, political, and economic aspects which are developed through the community and by the actions, in-game, of single players. Lineage II features siege warfare like the original. To make sure PvP stays under control, the design includes a Karma system that provides negative consequences for killing other players when they are not fighting back.
+        Lineage II features greatly improved third-person 3D graphics over its predecessor. The game uses the Unreal 2.0 Engine developed by Epic Games.
+         -Source:
+      <a href="http://en.wikipedia.org/wiki/Lineage_2" style="color:white" target="_blank">
+       Wikipedia
+      </a>
+      .
+     </p>
+     <br style="clear: left"/>
+     <p>
+      Note: Click on any link or the Image auto closes the panel.
+     </p>
+     <div style="display:none">
+      <!-- google_ad_section_start -->
+      lineage 2 online |  lineage 2 adena for sale | lineage 2 free trail |  lineage 2 free | lineage 2 download client | lineage 2 quests |  lineage 2 free server | lineage quests | buy cheap adena | l2 quests
+      <!-- google_ad_section_end -->
+     </div>
+    </div>
+    <div style="width:100%; position:relative;">
+     <div class="ddpaneltab" id="mypaneltab" style="position:absolute; width:100%;">
+      <a href="#" style="margin-right:22px;">
+       <span>
+        About Lineage 2 [Toggle]
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div id="ctl00_UpdateProgress1" style="display:none;">
+     <span id="SpnImgLoadingGlobal" style="display:inline; position:fixed; bottom:0px; left:0px; background-color:Menu; width:200px; color:black; vertical-align:baseline; border-style:inset; border-width:1px; border-color:Menu;">
+      <table cellpadding="1px" cellspacing="1px" style="">
+       <tr>
+        <td>
+         Loading...
+        </td>
+        <td>
+         <img border="0" id="ctl00_ImgLoadingGlobal" src="Images/Templates/Global/ajax-loader-global.gif" title="Loading Data...."/>
+        </td>
+       </tr>
+      </table>
+     </span>
+    </div>
+   </div>
+  </form>
+ </body>
+</html>
+<table border="0px" cellpadding="0px" cellspacing="0px" style="height:411px;" width="100%">
+ <tr>
+  <td background="Images/Templates/Global/BG_Top.jpg">
+   <center>
+    <table border="0px" cellpadding="0px" cellspacing="0px" style="width:1001px; height:411px; text-align:center;">
+     <tr>
+      <td background="Images/Templates/Global/1_1.jpg" rowspan="3" style="width:30px; height:402px;">
+      </td>
+      <td background="Images/Templates/Global/1_2.jpg" style="width:311px; height:68px;">
+      </td>
+      <td background="Images/Templates/Global/1_3.jpg" style="width:204px; height:68px; color:Black;" valign="bottom">
+       <div style="padding-bottom:14px; ">
+        <script type="text/javascript">
+         /*
+                                    Live Date Script- 
+                                    © Dynamic Drive (www.dynamicdrive.com)
+                                    For full source code, installation instructions, 100's more DHTML scripts, and Terms Of Use,
+                                    visit http://www.dynamicdrive.com
+                                    */
+
+                                    var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+                                    var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+
+                                    function getthedate(){
+                                    var mydate=new Date()
+                                    var year=mydate.getYear()
+                                    if (year < 1000)
+                                    year+=1900
+                                    var day=mydate.getDay()
+                                    var month=mydate.getMonth()
+                                    var daym=mydate.getDate()
+                                    if (daym<10)
+                                    daym="0"+daym
+                                    var hours=mydate.getHours()
+                                    var minutes=mydate.getMinutes()
+                                    var seconds=mydate.getSeconds()
+                                    var dn="AM"
+                                    if (hours>=12)
+                                    dn="PM"
+                                    if (hours>12){
+                                    hours=hours-12
+                                    }
+                                    if (hours==0)
+                                    hours=12
+                                    if (minutes<=9)
+                                    minutes="0"+minutes
+                                    if (seconds<=9)
+                                    seconds="0"+seconds
+                                    //change font size here
+                                    var cdate="<small><font color='000000' face='Arial'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+" <br\>"+hours+":"+minutes+":"+seconds+" "+dn
+                                    +"</b></font></small>"
+                                    if (document.all)
+                                    document.all.clock.innerHTML=cdate
+                                    else if (document.getElementById)
+                                    document.getElementById("clock").innerHTML=cdate
+                                    else
+                                    document.write(cdate)
+                                    }
+                                    if (!document.all&&!document.getElementById)
+                                    getthedate()
+                                    function goforit(){
+                                    if (document.all||document.getElementById)
+                                    setInterval("getthedate()",1000)
+                                    }
+        </script>
+        <span id="clock">
+        </span>
+       </div>
+      </td>
+      <td background="Images/Templates/Global/1_4.jpg" style="width:231px; height:68px;">
+      </td>
+      <td background="Images/Templates/Global/1_5.jpg" style="width:191px; height:68px;">
+      </td>
+      <td background="Images/Templates/Global/1_6.jpg" rowspan="3" style="width:30px; height:402px;">
+      </td>
+     </tr>
+     <tr>
+      <td background="Images/Templates/Global/2_1.jpg" id="TD_ToMainPage" onclick="ToHomePage()" style=" text-align:left; vertical-align:bottom; width:311px; height:225px; cursor:pointer;">
+       <span style="font-size:10px; padding-left:4px; padding-bottom:22px; color:Yellow">
+        V.2.011.5357
+       </span>
+      </td>
+      <td style="background-color:#008fc9; vertical-align:top;">
+       <img alt="Gracia" src="Images/Templates/Global/Version.jpg"/>
+       <br/>
+       <img alt="Shopping" onclick="window.location.href='/Shopping.aspx'" onmouseout="this.style.cursor='default'" onmouseover="this.style.cursor='pointer'" src="/Images/Templates/Global/Shopping.jpg"/>
+      </td>
+      <td background="Images/Templates/Global/2_3.jpg" style="width:231px; height:225px;">
+      </td>
+      <td background="Images/Templates/Global/2_4.jpg" rowspan="2" style="width:195px; height:334px;">
+      </td>
+     </tr>
+     <tr>
+      <td colspan="3" style="width:746px; height:109px; background-color:#008fc9; text-align:center;">
+       <center>
+        <div id="adsense_unit" style="border-width:1px; border-style:inset; border-bottom-style:none; border-color:black; width:728px;">
+         <script type="text/javascript">
+          <!--
+                                    google_ad_client = "pub-6500739051811664";
+                                    /* 728x90_ImageAdd */
+                                    google_ad_slot = "6372395496";
+                                    google_ad_width = 728;
+                                    google_ad_height = 90;
+                                    //-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+       </center>
+      </td>
+     </tr>
+     <tr>
+      <td background="Images/Templates/Global/4_1.jpg" style="width:30px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_2.jpg" style="width:311px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_3.jpg" colspan="2" style="width:435px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_4.jpg" style="width:135px; height:9px;">
+      </td>
+      <td background="Images/Templates/Global/4_5.jpg" style="width:30px; height:9px;">
+      </td>
+     </tr>
+    </table>
+   </center>
+  </td>
+ </tr>
+ <tr>
+  <td style="background-color:#017eb0;">
+   <center>
+    <table border="0px" cellpadding="0px" cellspacing="0px" style="width:1001px; height:200px; text-align:center;">
+     <tr>
+      <td background="Images/Templates/Global/5_1_BodyLeft.jpg" style="width:30px;">
+      </td>
+      <td style="background-color:#008fc9; text-align:left; vertical-align:top; max-width:941px; padding-left:2px; padding-top:2px; padding-right:2px; padding-bottom:2px; margin-top:2px; margin-left:12px;">
+       <div class="tabsmenuclass" id="mytabsmenu">
+        <ul>
+         <li>
+          <a rel="gotsubmenu[selected]">
+           Quick Links
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/Library.html" rel="gotsubmenu">
+           Library
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/QuestsWalkthrough.html" rel="gotsubmenu">
+           Quests Walkthrough
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/Maps.html" rel="gotsubmenu">
+           Maps
+          </a>
+         </li>
+         <li>
+          <a href="http://Archive.l2portal.com/Menu/ArtAndMultimedia.html" rel="gotsubmenu">
+           Art and Multimedia
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="tabsmenucontentclass" id="mysubmenuarea">
+        <!--1st link within submenu container should point to the external submenu contents file-->
+        <a href="submenucontents.htm" style="visibility:hidden">
+         Sub Menu contents
+        </a>
+       </div>
+       <script type="text/javascript">
+        //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                    mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+       </script>
+       <script language="javascript" type="text/javascript">
+        function EndRequestHandler()
+                                    {
+                                      //alert('Your record has been saved successfully');
+                                                                               
+                                    //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                    mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false);
+                                                   
+                                   }
+       </script>
+       <br/>
+       <center>
+        <img alt="Lineage 2 Drop Calculator" src="/Images/Templates/Global/Lineage2DropCalc.png"/>
+        <br/>
+        <table id="L2PortalTbl" style="text-align:center; width:78%; border:solid 0px black;">
+         <tr>
+          <td style="width:16%; vertical-align:top;">
+           <table style="border:solid 0px red; margin-left:1px;">
+            <tr>
+             <td>
+              <img alt="L2PortalSearch" src="/Images/Templates/Global/L2PortalSearchOver.jpg" title="L2Portal Search"/>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <img alt="GoogleSearch" onclick="document.getElementById('L2PortalTbl').style.display='none'; document.getElementById('GoogleTbl').style.display='block';" onmouseout="this.src='/Images/Templates/Global/GoogleSearch.jpg'; this.style.cursor='default'" onmouseover="this.src='/Images/Templates/Global/GoogleSearchOver.jpg'; this.style.cursor='pointer'" src="/Images/Templates/Global/GoogleSearch.jpg" title="Google Search"/>
+             </td>
+            </tr>
+           </table>
+          </td>
+          <td style="width:70%">
+           <center>
+            <div id="ctl00_UpdatePanel1">
+             <select id="ctl00_DDLSearchSubject" name="ctl00$DDLSearchSubject">
+              <option selected="selected" value="Search For">
+               Search For
+              </option>
+              <option value="Armor">
+               Armor
+              </option>
+              <option value="Weapon">
+               Weapon
+              </option>
+              <option value="Etc">
+               Etc
+              </option>
+              <option value="Npcs/Monsters">
+               Npcs/Monsters
+              </option>
+             </select>
+             <input id="ctl00_TBSearch" name="ctl00$TBSearch" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('ctl00$TBSearch').click();return false;}} else {return true}; " type="text"/>
+             <input id="ctl00_TBWME_TBSearch_ClientState" name="ctl00$TBWME_TBSearch_ClientState" type="hidden"/>
+             <span style="display:inline; position:absolute; float:right;">
+              <div id="ctl00_UpdateProgressPartial" style="display:none;">
+               <img align="baseline" border="0" id="ctl00_ImgLoading" src="Images/Templates/Global/ajax-loader.gif" title="Loading Data...."/>
+              </div>
+             </span>
+            </div>
+            <div style="margin-left:6px;">
+             <div style="margin-top:4px; padding-bottom:0px; margin-bottom:0px; text-align:left; border:solid 0px green; padding-left:0px; margin-left:1px; padding:0px 0px 0px 0px">
+              <script type="text/javascript">
+               <!--
+                                                google_ad_client = "pub-6500739051811664";
+                                                /* 486_5_TextLink */
+                                                google_ad_slot = "6579343672";
+                                                google_ad_width = 468;
+                                                google_ad_height = 15;
+                                                //-->
+              </script>
+              <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+              </script>
+             </div>
+             <div style="text-align:left; margin-left:6px; padding-top:4px; margin-top:0px">
+              <div id="ctl00_UpdatePanel2">
+               <div id="ctl00_AccordionAdvanced">
+                <input id="ctl00_AccordionAdvanced_AccordionExtender_ClientState" name="ctl00$AccordionAdvanced_AccordionExtender_ClientState" type="hidden" value="-1"/>
+                <div class="accordionHeader">
+                 <a class="accordionLink" style="height:14px">
+                  Advanced Search
+                 </a>
+                </div>
+                <div class="accordionContent" style="display:none;">
+                 <div id="ctl00_ctl09_PanelGeneral">
+                  Desirable Results:
+                  <span id="ctl00_ctl09_RBGeneral">
+                   <input checked="checked" id="ctl00_ctl09_RBGeneral_0" name="ctl00$ctl09$RBGeneral" type="radio" value="All"/>
+                   <label for="ctl00_ctl09_RBGeneral_0">
+                    All
+                   </label>
+                   <input id="ctl00_ctl09_RBGeneral_1" name="ctl00$ctl09$RBGeneral" type="radio" value="Items"/>
+                   <label for="ctl00_ctl09_RBGeneral_1">
+                    Items
+                   </label>
+                   <input id="ctl00_ctl09_RBGeneral_2" name="ctl00$ctl09$RBGeneral" type="radio" value="Npcs/Monsters"/>
+                   <label for="ctl00_ctl09_RBGeneral_2">
+                    Npcs/Monsters
+                   </label>
+                  </span>
+                  <span style="font-size:10px;">
+                   Each search subject (Armor, Weapon, Etc...) has different advanced search options.
+                  </span>
+                 </div>
+                </div>
+                <div class="accordionHeader">
+                 <a class="accordionLink" style="height:8px;">
+                  About Search
+                 </a>
+                </div>
+                <div class="accordionContent" style="display:none;">
+                 <ul>
+                  <li>
+                   Minimum number of characters that must be entered before getting suggestions: 3
+                  </li>
+                  <li>
+                   Number of suggestions to be retrieved: All (alphabetically)
+                  </li>
+                  <li>
+                   Minimum number of characters that must be entered for the General Search: 3. There is no character limit for other search subjects.
+                  </li>
+                  <li>
+                   Each search subject has different advanced search options.
+                  </li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </center>
+          </td>
+          <td style="width:14%; text-align:left;" valign="top">
+           <input accesskey="s" align="absbottom" border="0" id="ctl00_IBSearch" name="ctl00$IBSearch" onmouseout="this.src='/Images/Templates/Global/SearchBtn.jpg'" onmouseover="this.src='/Images/Templates/Global/SearchBtn_over.jpg'" src="" type="image"/>
+          </td>
+         </tr>
+        </table>
+        <table id="GoogleTbl" style="text-align:left; width:78%; border:solid 0px black; display:none;">
+         <tr>
+          <td style="width:16%;">
+           <table style="border:solid 0px red; margin-left:1px;">
+            <tr>
+             <td>
+              <img alt="L2PortalSearch" onclick="document.getElementById('GoogleTbl').style.display='none'; document.getElementById('L2PortalTbl').style.display='block';" onmouseout="this.src='/Images/Templates/Global/L2PortalSearch.jpg'; this.style.cursor='default'" onmouseover="this.src='/Images/Templates/Global/L2PortalSearchOver.jpg'; this.style.cursor='pointer'" src="/Images/Templates/Global/L2PortalSearch.jpg" title="L2Portal Search"/>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <img alt="GoogleSearch" src="/Images/Templates/Global/GoogleSearchOver.jpg" title="Google Search"/>
+             </td>
+            </tr>
+           </table>
+          </td>
+          <td style="width:70%">
+           <center>
+            <div>
+             <!--This form Fix IE Bug -->
+             <!-- google search -->
+             <div>
+              <input name="cx" type="hidden" value="partner-pub-6500739051811664:q02l6c86suu"/>
+              <input name="cof" type="hidden" value="FORID:10"/>
+              <input name="ie" type="hidden" value="UTF-8"/>
+              <!-- <input type="text" name="q" size="50" /> -->
+              <input id="ctl00_q" name="ctl00$q" type="text"/>
+              <!-- <input type="submit" name="sa" value="Search" /> -->
+              <input id="ctl00_sa" name="ctl00$sa" type="submit" value="Search"/>
+             </div>
+             <script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+             </script>
+             <!-- google search -->
+            </div>
+           </center>
+          </td>
+          <td style="width:14%">
+          </td>
+         </tr>
+        </table>
+        <div style="width:100%; height:3px; margin-top:120px;">
+         <div alt="">
+         </div>
+        </div>
+       </center>
+       <center>
+        <table border="0px" cellpadding="1px" cellspacing="1px" style="width:580px;">
+         <tr>
+          <td align="center" colspan="2">
+           <table border="0px">
+            <tr>
+             <td align="center">
+              <span class="Title" id="ctl00_ContentPlaceHolder1_LblTitle">
+              </span>
+              <span class="Title" id="ctl00_ContentPlaceHolder1_LblName">
+               Balrog of Destruction
+              </span>
+              <span id="ctl00_ContentPlaceHolder1_LblType" style="color:#FFFFFF;">
+               (Monster)
+              </span>
+              <br/>
+              <span style="font-size:18px;">
+               Level
+              </span>
+              <span id="ctl00_ContentPlaceHolder1_LblLevel">
+               <b>
+                78
+               </b>
+              </span>
+              <span id="ctl00_ContentPlaceHolder1_LblAggro" style="color:#ff8888;">
+               Aggressive
+              </span>
+             </td>
+             <td style="width:0px">
+              <a href="Map.aspx?NpcID=21389" id="ctl00_ContentPlaceHolder1_HLMapLocation">
+               <img border="0" src="Images/Maps/MapLocBig.png"/>
+              </a>
+             </td>
+            </tr>
+           </table>
+           <br/>
+           <br/>
+          </td>
+         </tr>
+         <tr>
+          <td align="center" colspan="2">
+           <span class="HeaderStyle">
+            ID:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblID">
+            21389
+           </span>
+           <span class="HeaderStyle">
+            Gender:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblSex">
+            male
+           </span>
+           <span class="HeaderStyle">
+            Undead:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblUndead">
+            False
+           </span>
+           <span class="HeaderStyle">
+            Drop Herbs:
+           </span>
+           <span id="ctl00_ContentPlaceHolder1_LblDropHerbs">
+            false
+           </span>
+           <br/>
+           <br/>
+          </td>
+         </tr>
+         <tr>
+          <td align="left" colspan="2" style="width:580px;">
+          </td>
+         </tr>
+         <tr style="width:100%">
+          <td>
+           <img border="1" height="320" id="ctl00_ContentPlaceHolder1_ImgNpc" src="Images/Npcs/nopic.jpg" width="280"/>
+          </td>
+          <td>
+           <div style="border-color:Black; border-style:solid; border-width:1px; width:300px; height:320px; text-align:left;">
+            <table>
+             <tr>
+              <td>
+               <span style="font-weight:bold">
+                MAIN
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               HP
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblHP">
+                4716
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Exp
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblExp">
+                9888
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               MP
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMP">
+                1972
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Sp
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblSp">
+                1149
+               </span>
+              </td>
+             </tr>
+            </table>
+            <br/>
+            <table>
+             <tr>
+              <td>
+               <span style="font-weight:bold">
+                COMBAT
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               P. Atk
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblPAtk">
+                2155
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               M. Atk
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMAtk">
+                1258
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               P. Def
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblPDef">
+                553
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               M. Def
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMDef">
+                494
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               Atk. Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblAtkSpd">
+                278
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Casting Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblCastingSpd">
+                333
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               Walk Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblWalkSpd">
+                40
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Run Spd
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblRunSpd">
+                170
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               AI
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblAI">
+                fighter
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Attack Range
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblAttackRange">
+                40
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               HP Reg
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblHpReg">
+                80.58
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               MP Reg
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMpReg">
+                3.09
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               Col.Radius
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblColRad">
+                24.00
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               Col.Height
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblColHeight">
+                40.00
+               </span>
+              </td>
+             </tr>
+            </table>
+            <br/>
+            <table>
+             <tr>
+              <td>
+               <span style="font-weight:bold">
+                BASIC
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               STR
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblSTR">
+                40
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               DEX
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblDEX">
+                30
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               CON
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblCON">
+                43
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td class="DetailsHeader">
+               INT
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblINT">
+                21
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               WIT
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblWIT">
+                20
+               </span>
+              </td>
+              <td class="DetailsHeader">
+               MEN
+              </td>
+              <td>
+               <span id="ctl00_ContentPlaceHolder1_LblMEN">
+                10
+               </span>
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" style="vertical-align:middle;">
+           <center>
+            <div style="border-width:1px; border-style:solid; border-color:black; width:588px; height:20px; vertical-align:middle;">
+             <script type="text/javascript">
+              <!--
+                        google_ad_client = "pub-6500739051811664";
+                        /* 486_5_TextLink */
+                        google_ad_slot = "6579343672";
+                        google_ad_width = 468;
+                        google_ad_height = 15;
+                        //-->
+             </script>
+             <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+             </script>
+            </div>
+           </center>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" style="text-align:left;">
+           <div style="border-color:Black; border-width:1px; border-style:solid;">
+            <div>
+             <table border="0" cellspacing="0" id="ctl00_ContentPlaceHolder1_GVNpcSkills" width="580">
+              <tr class="HeaderStyle2">
+               <th scope="col">
+                Skill
+               </th>
+               <th align="center" scope="col">
+                Name
+               </th>
+               <th scope="col">
+                Level
+               </th>
+               <th align="center" scope="col">
+                Description
+               </th>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_ImgSkill" src="Images/icons/skill0096.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_LblSkillName">
+                 Bleed
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_LblSkillLevel">
+                 9
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl02_ImgSkillDesc">
+                 Inflicts a wound that reduces HP. Effect 9.
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_ImgSkill" src="Images/icons/skill4278.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_LblSkillName">
+                 Dark Attack
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_LblSkillLevel">
+                 1
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl03_ImgSkillDesc">
+                 Unleashes a dark attack.
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_ImgSkill" src="Images/icons/skill1160.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_LblSkillName">
+                 Decrease Speed
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_LblSkillLevel">
+                 9
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl04_ImgSkillDesc">
+                 Instantly reduces Speed. Effect 3.
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_ImgSkill" src="Images/icons/skill4298.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_LblSkillName">
+                 Demons
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_LblSkillLevel">
+                 9
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl05_ImgSkillDesc">
+                 This race of darkness opposes the angels. Beings that are changed by the curse of darkness become demons as well.
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_ImgSkill" src="Images/icons/skill4307.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_LblSkillName">
+                 HP Increase (6x)
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_LblSkillLevel">
+                 14
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl06_ImgSkillDesc">
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl07_ImgSkill" src="Images/icons/skill0000.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl07_LblSkillName">
+                 NPC Death Bomb
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl07_LblSkillLevel">
+                 9
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl07_ImgSkillDesc">
+                 none
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl08_ImgSkill" src="Images/icons/skill0000.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl08_LblSkillName">
+                 NPC High Level
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl08_LblSkillLevel">
+                 8
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl08_ImgSkillDesc">
+                 none
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl09_ImgSkill" src="Images/icons/skill4333.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl09_LblSkillName">
+                 Resist Dark Attack
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl09_LblSkillLevel">
+                 5
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl09_ImgSkillDesc">
+                 Resistant to dark attacks.
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl10_ImgSkill" src="Images/icons/skill4411_normal.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl10_LblSkillName">
+                 Slightly Strong M. Atk.
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl10_LblSkillLevel">
+                 12
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl10_ImgSkillDesc">
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl11_ImgSkill" src="Images/icons/skill0141.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl11_LblSkillName">
+                 Slightly Strong P. Atk.
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl11_LblSkillLevel">
+                 12
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl11_ImgSkillDesc">
+                </span>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl12_ImgSkill" src="Images/icons/skill0142.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl12_LblSkillName">
+                 Slightly Weak P. Def.
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl12_LblSkillLevel">
+                 10
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl12_ImgSkillDesc">
+                </span>
+               </td>
+              </tr>
+              <tr class="AlternatingItem">
+               <td>
+                <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl13_ImgSkill" src="Images/icons/skill4413_normal.png"/>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl13_LblSkillName">
+                 Very Strong M. Def.
+                </span>
+               </td>
+               <td>
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl13_LblSkillLevel">
+                 16
+                </span>
+               </td>
+               <td width="62%">
+                <span id="ctl00_ContentPlaceHolder1_GVNpcSkills_ctl13_ImgSkillDesc">
+                </span>
+               </td>
+              </tr>
+             </table>
+            </div>
+           </div>
+          </td>
+         </tr>
+        </table>
+        <br/>
+        <div style="width:80%; height:3px; background-image:url(Images/Templates/Global/Seperator.jpg)">
+        </div>
+        <br/>
+       </center>
+       <div id="ctl00_ContentPlaceHolder1_UPNpc">
+        <h3>
+         Drop
+        </h3>
+        <div>
+         <table border="0" cellspacing="0" id="ctl00_ContentPlaceHolder1_GVNpcDrop" width="100%">
+          <tr class="HeaderStyle2">
+           <th align="left" scope="col">
+            Item
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Name')">
+             Name
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Grade')">
+             Grade
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Max')">
+             Amount
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcDrop','Sort$Chance')">
+             Chance
+            </a>
+           </th>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_ImgPic" longdesc="etc_adena_i00" src="Images/icons/etc_adena_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=57" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_HLName">
+             Adena
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblMin">
+             7149
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblMax">
+             - 14591
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl02_LblChance">
+             70%
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl03_ImgPic" longdesc="weapon_dragon_slayer_i00" src="Images/icons/weapon_dragon_slayer_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=81" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl03_HLName">
+             Dragon Slayer
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl03_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl03_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl03_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl03_LblChance">
+             1/142857
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl04_ImgPic" longdesc="weapon_sword_of_miracle_i00" src="Images/icons/weapon_sword_of_miracle_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=151" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl04_HLName">
+             Sword of Miracles
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl04_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl04_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl04_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl04_LblChance">
+             1/142857
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl05_ImgPic" longdesc="weapon_dark_legions_edge_i00" src="Images/icons/weapon_dark_legions_edge_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=2500" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl05_HLName">
+             Dark Legion's Edge
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl05_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl05_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl05_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl05_LblChance">
+             1/142857
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl06_ImgPic" longdesc="etc_sword_body_i00" src="Images/icons/etc_sword_body_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=5529" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl06_HLName">
+             Dragon Slayer Edge
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl06_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl06_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl06_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl06_LblChance">
+             1/417
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl07_ImgPic" longdesc="etc_sword_body_i00" src="Images/icons/etc_sword_body_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=5545" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl07_HLName">
+             Dark Legion's Edge Blade
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl07_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl07_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl07_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl07_LblChance">
+             1/417
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl08_ImgPic" longdesc="etc_sword_body_i00" src="Images/icons/etc_sword_body_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=5546" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl08_HLName">
+             Sword of Miracles Edge
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl08_LblGrade" style="color:#cfcfcf;">
+             <b>
+              A
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl08_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl08_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl08_LblChance">
+             1/379
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl09_ImgPic" longdesc="etc_scroll_of_enchant_weapon_i05" src="Images/icons/etc_scroll_of_enchant_weapon_i05.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=959" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl09_HLName">
+             Scroll: Enchant Weapon (S)
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl09_LblGrade" style="color:#f8f488;">
+             <b>
+              S
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl09_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl09_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl09_LblChance">
+             1/27778
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl10_ImgPic" longdesc="etc_branch_gold_i00" src="Images/icons/etc_branch_gold_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=1864" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl10_HLName">
+             Stem
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl10_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl10_LblMin">
+             36
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl10_LblMax">
+             - 108
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl10_LblChance">
+             2.4293%
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl11_ImgPic" longdesc="etc_pouch_yellow_i00" src="Images/icons/etc_pouch_yellow_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=1865" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl11_HLName">
+             Varnish
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl11_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl11_LblMin">
+             2
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl11_LblMax">
+             - 6
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl11_LblChance">
+             17.4909%
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl12_ImgPic" longdesc="etc_suede_i00" src="Images/icons/etc_suede_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=1866" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl12_HLName">
+             Suede
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl12_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl12_LblMin">
+             3
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl12_LblMax">
+             - 9
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl12_LblChance">
+             9.7172%
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl13_ImgPic" longdesc="etc_skein_white_i00" src="Images/icons/etc_skein_white_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=1868" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl13_HLName">
+             Thread
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl13_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl13_LblMin">
+             10
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl13_LblMax">
+             - 30
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl13_LblChance">
+             8.329%
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl14_ImgPic" longdesc="etc_silver_i00" src="Images/icons/etc_silver_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=1873" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl14_HLName">
+             Silver Nugget
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl14_LblGrade" style="color:#7dbddc;">
+             <b>
+              D
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl14_LblMin">
+             4
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl14_LblMax">
+             - 12
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl14_LblChance">
+             4.3728%
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl15_ImgPic" longdesc="etc_mineral_general_i03" src="Images/icons/etc_mineral_general_i03.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=8732" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl15_HLName">
+             Life Stone: level 76
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl15_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl15_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl15_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl15_LblChance">
+             1/854
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl16_ImgPic" longdesc="etc_mineral_special_i03" src="Images/icons/etc_mineral_special_i03.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=8742" id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl16_HLName">
+             Mid-Grade Life Stone: level 76
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl16_LblGrade" style="color:#eeeeee;">
+             <b>
+              NG
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl16_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl16_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcDrop_ctl16_LblChance">
+             1/5128
+            </span>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <br/>
+        <h3>
+         Spoil
+        </h3>
+        <div>
+         <table border="0" cellspacing="0" id="ctl00_ContentPlaceHolder1_GVNpcSpoil" width="100%">
+          <tr class="HeaderStyle2">
+           <th align="left" scope="col">
+            Item
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcSpoil','Sort$Name')">
+             Name
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcSpoil','Sort$Grade')">
+             Grade
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcSpoil','Sort$Max')">
+             Amount
+            </a>
+           </th>
+           <th align="left" scope="col">
+            <a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$GVNpcSpoil','Sort$Chance')">
+             Chance
+            </a>
+           </th>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl02_ImgPic" longdesc="etc_scroll_of_enchant_weapon_i05" src="Images/icons/etc_scroll_of_enchant_weapon_i05.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=959" id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl02_HLName">
+             Scroll: Enchant Weapon (S)
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl02_LblGrade" style="color:#f8f488;">
+             <b>
+              S
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl02_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl02_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl02_LblChance">
+             1/1406
+            </span>
+           </td>
+          </tr>
+          <tr class="AlternatingItem">
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl03_ImgPic" longdesc="etc_bark_blue_i00" src="Images/icons/etc_bark_blue_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=6690" id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl03_HLName">
+             Imperial Staff Head
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl03_LblGrade" style="color:#f8f488;">
+             <b>
+              S
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl03_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl03_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl03_LblChance">
+             3.847%
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td width="40">
+            <img border="1" id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl04_ImgPic" longdesc="etc_sword_body_i00" src="Images/icons/etc_sword_body_i00.png"/>
+           </td>
+           <td>
+            <a class="Links" href="Item.aspx?ID=6691" id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl04_HLName">
+             Angel Slayer Blade
+            </a>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl04_LblGrade" style="color:#f8f488;">
+             <b>
+              S
+             </b>
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl04_LblMin">
+             1
+            </span>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl04_LblMax">
+            </span>
+           </td>
+           <td>
+            <span id="ctl00_ContentPlaceHolder1_GVNpcSpoil_ctl04_LblChance">
+             3.8397%
+            </span>
+           </td>
+          </tr>
+         </table>
+        </div>
+       </div>
+      </td>
+      <td background="Images/Templates/Global/5_3_BodyRight.jpg" style="width:30px;">
+      </td>
+     </tr>
+    </table>
+   </center>
+  </td>
+ </tr>
+ <tr>
+  <td background="Images/Templates/Global/BG_Bottom.jpg">
+   <center>
+    <table border="0px" cellpadding="0px" cellspacing="0px" style="width:1001px; height:335px; text-align:center;">
+     <tr>
+      <td background="Images/Templates/Global/6_1.jpg" rowspan="2" style="width:30px; height:335px;">
+      </td>
+      <td colspan="3" style="width:941px; height:301px; background-color:#008fc9; vertical-align:top;">
+       <div>
+       </div>
+       <table style="height:280px; width:100%; border:solid 0px black">
+        <tr>
+         <td style="text-align:center;">
+          <center>
+           <div id="amazon_carousel_div" style="width:500px; border:solid 1px black; height:174px">
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" height="175px" id="Player_1d6763eb-5b6e-47a6-9c55-579a65cc99f9" width="500px">
+             <param name="movie" value="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Flin2thepor-20%2F8010%2F1d6763eb-5b6e-47a6-9c55-579a65cc99f9&amp;Operation=GetDisplayTemplate"/>
+             <param name="quality" value="high"/>
+             <param name="bgcolor" value="#FFFFFF"/>
+             <param name="allowscriptaccess" value="always"/>
+             <embed align="middle" allowscriptaccess="always" bgcolor="#ffffff" height="175px" id="Player_1d6763eb-5b6e-47a6-9c55-579a65cc99f9" name="Player_1d6763eb-5b6e-47a6-9c55-579a65cc99f9" quality="high" src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Flin2thepor-20%2F8010%2F1d6763eb-5b6e-47a6-9c55-579a65cc99f9&amp;Operation=GetDisplayTemplate" type="application/x-shockwave-flash" width="500px"/>
+            </object>
+            <noscript>
+             <a href="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Flin2thepor-20%2F8010%2F1d6763eb-5b6e-47a6-9c55-579a65cc99f9&amp;Operation=NoScript">
+              Amazon.com Widgets
+             </a>
+            </noscript>
+           </div>
+           <div style="height:2px">
+           </div>
+          </center>
+          <div id="ExtremeTracking" style="visibility:hidden; height:1px">
+           <div id="eXTReMe">
+            <a href="http://extremetracking.com/open?login=lineage2">
+             <img alt="eXTReMe Tracker" height="38" id="EXim" src="http://t1.extreme-dm.com/i.gif" style="border: 0;" width="41"/>
+            </a>
+            <script type="text/javascript">
+             <!--
+                                            var EXlogin='lineage2' // Login
+                                            var EXvsrv='s9' // VServer
+                                            EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+                                            EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+                                            navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+                                            EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+                                            EXd.write("<img src=http://e0.extreme-dm.com",
+                                            "/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+                                            "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+                                            "l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+            </script>
+            <noscript>
+             <div id="neXTReMe">
+              <img alt="" height="1" src="http://e0.extreme-dm.com/s9.g?login=lineage2&amp;j=n&amp;jv=n" width="1"/>
+             </div>
+            </noscript>
+           </div>
+          </div>
+          <div id="addfreestats" style="visibility:hidden; height:1px;">
+           <script type="text/javascript">
+            <!--
+                                            var AFS_Account="00724538";
+                                            var AFS_Tracker="auto";
+                                            var AFS_Server="www7";
+                                            var AFS_Page="DetectName";
+                                            var AFS_Url="DetectUrl";
+                                            // -->
+           </script>
+           <script src="http://www7.addfreestats.com/cgi-bin/afstrack.cgi?usr=00724538" type="text/javascript">
+           </script>
+           <noscript>
+            <a href="http://www.addfreestats.com">
+             <img alt="AddFreeStats.com Free Web Stats!" border="0" src="http://www7.addfreestats.com/cgi-bin/connect.cgi?usr=00724538Pauto"/>
+             Web Stats
+            </a>
+           </noscript>
+          </div>
+          <div id="AmazingCounter">
+           <div align="center">
+            <a href="http://www.amazingcounter.com">
+             <img alt="Web Counter" border="0" src="http://c2.amazingcounters.com/counter.php?i=441856&amp;c=1325881"/>
+            </a>
+            <br/>
+            <small>
+             <a href="http://www.computers-coupon-gateway.com/alienware-coupon.html">
+              <font color="#FFFFFF">
+               Alienware
+              </font>
+             </a>
+             <a href="http://www.allonlinecoupons.com/st/alienware/">
+              <font color="#FFFFFF">
+               Coupons
+              </font>
+             </a>
+            </small>
+           </div>
+          </div>
+          <br/>
+          <a href="Default.aspx" style="color:White">
+           Home
+          </a>
+          |
+          <a onclick="alert('Copyright NCsoft®, the interlocking NC logo, Lineage® II, and all associated logos and designs are trademarks or registered trademarks or service marks of NCsoft Corporation. All rights reserved. All other trademarks are the property of their respective owners. NCsoft Corporation has granted permission to L2portal to use NCsoft®, Lineage® II, and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not affiliated with, L2portal in any official capacity whatsoever.')" style="text-decoration:underline; cursor:help;">
+           Copyright
+          </a>
+          |
+          <a href="mailto:Admin@L2Portal.com" style="color:White">
+           Contact Us
+          </a>
+          |
+          <a href="/interface/Feedback.aspx" style="color:White">
+           Feedback
+          </a>
+          |
+          <a href="#" style="color:White">
+           Top
+          </a>
+          <br/>
+          <br/>
+          Copyright © 2005-2010 Lineage 2 Portal All Rights Reserved.
+          <br/>
+          Lineage II game content and materials are trademarks and copyrights of NCsoft Corporation and its Licensors and used with permission.All rights reserved.
+         </td>
+        </tr>
+       </table>
+      </td>
+      <td background="Images/Templates/Global/6_3.jpg" rowspan="2" style="width:30px; height:335px;">
+      </td>
+     </tr>
+     <tr>
+      <td background="Images/Templates/Global/7_1.jpg" style="width:311px; height:34px;">
+      </td>
+      <td background="Images/Templates/Global/7_2.jpg" style="width:435px; height:34px;">
+      </td>
+      <td background="Images/Templates/Global/7_3.jpg" style="width:195px; height:34px;">
+      </td>
+     </tr>
+    </table>
+   </center>
+  </td>
+ </tr>
+</table>
+<script type="text/javascript">
+ //<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionListCssClass":"autocomplete_completionListElement","completionListItemCssClass":"autocomplete_listItem","completionSetCount":30,"delimiterCharacters":"","highlightedItemCssClass":"autocomplete_highlightedListItem","id":"ctl00_AutoCompleteExtender_TBSearch","serviceMethod":"ItemsAndNpcsList","servicePath":"WebServices/WSAutoComplete.asmx"}, null, null, $get("ctl00_TBSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_TBWME_TBSearch_ClientState","WatermarkCssClass":"WaterMarked","WatermarkText":"Type at least 3 letters","id":"ctl00_TBWME_TBSearch"}, null, null, $get("ctl00_TBSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AccordionBehavior, {"ClientStateFieldID":"ctl00_AccordionAdvanced_AccordionExtender_ClientState","ContentCssClass":"accordionContent","FadeTransitions":true,"FramesPerSecond":40,"HeaderCssClass":"accordionHeader","HeaderSelectedCssClass":"accordionHeaderSelected","SelectedIndex":-1,"id":"ctl00_AccordionAdvanced_AccordionExtender","requireOpenedPane":false,"suppressHeaderPostbacks":true}, null, null, $get("ctl00_AccordionAdvanced"));
+});
+//]]>
+</script>
+<script src="/Scripts/astrack.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+ try {
+        var pageTracker = _gat._getTracker("UA-1562548-1");
+        pageTracker._trackPageview();
+        } catch(err) {}
+</script>
