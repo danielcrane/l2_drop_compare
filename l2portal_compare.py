@@ -1,3 +1,4 @@
+import sys
 import numpy as np
 from bs4 import BeautifulSoup
 import requests
@@ -9,14 +10,18 @@ def compare_to_l2portal(drop_data):
     count = 0
 
     for mob_id, drop_actual in drop_data.items():
-
+        sys.stdout.flush()
+        
         url = f"http://gracia.l2portal.com/Npc.aspx?ID={mob_id}"
 
         r = requests.get(url)
         data = r.text
         soup = BeautifulSoup(data, features="html.parser")
 
+        mob_name = soup.find("head").find("title").text.split(' - ')[0].replace('\r\n\t','')
+
         drops = {"drop": [], "spoil": []}
+        items = {}
         for drop_type in drops.keys():
             data = soup.find(
                 "table", {"id": f"ctl00_ContentPlaceHolder1_GVNpc{drop_type.title()}"}
@@ -32,6 +37,8 @@ def compare_to_l2portal(drop_data):
                     continue
 
                 item_id = eval(parts[1].select("a")[0]["href"].split("=")[-1])
+                item_name = parts[1].select("a")[0].text
+                items[item_id] = item_name
 
                 for span in parts[3].select("span"):
                     if "LblMin" in span["id"]:
@@ -55,10 +62,10 @@ def compare_to_l2portal(drop_data):
 
                 drops[drop_type].append([item_id, item_min, item_max, item_chance])
 
-        diff_drop = find_diff(drop_actual["drop"], drops["drop"], type="drop")
-        diff_spoil = find_diff(drop_actual["spoil"], drops["spoil"], type="spoil")
+        diff_drop = find_diff(drop_actual["drop"], drops["drop"], type="drop", items=items)
+        diff_spoil = find_diff(drop_actual["spoil"], drops["spoil"], type="spoil", items=items)
         if not (diff_drop == [] and diff_spoil == []):
-            print(f"\nCheck Failed - mob_id: {mob_id}")
+            print(f"\nCheck Failed - mob_id: {mob_id} ({mob_name})")
             for i, diff in enumerate(diff_drop):
                 if i == 0:
                     print("---Drops---")
@@ -75,8 +82,20 @@ def compare_to_l2portal(drop_data):
     print("Checking complete")
 
 
-def find_diff(drops1, drops2, type):
+def find_item_name(item_id):
+    url = f"http://gracia.l2portal.com/gracia/Item.aspx?ID={item_id}"
+
+    r = requests.get(url)
+    data = r.text
+    soup = BeautifulSoup(data, features="html.parser")
+    item_name = soup.find("head").find("title").text.split(' - ')[0].replace('\r\n\t','')
+
+    return item_name
+
+
+def find_diff(drops1, drops2, type, items):
     # Check if the provided lists of drops are equivalent
+
     out = []
     drops1 = np.array(drops1)
     drops2 = np.array(drops2)
@@ -84,11 +103,11 @@ def find_diff(drops1, drops2, type):
     if drops1.shape[0] == 0 or drops2.shape[0] == 0:
         if drops1.shape[0] != 0:
             for drop in drops1:
-                out.append(f"Additional {type} in DB, item id: {drop[0]}")
+                out.append(f"Additional {type} in DB, item id: {drop[0]} ({find_item_name(drop[0])})")
 
         if drops2.shape[0] != 0:
             for drop in drops2:
-                out.append(f"Additional {type} in Web, item id: {drop[0]}")
+                out.append(f"Additional {type} in Web, item id: {drop[0]} ({items[drop[0]]})")
 
         return out
 
@@ -102,23 +121,23 @@ def find_diff(drops1, drops2, type):
     if not np.array_equal(drops1[:, :3], drops2[:, :3]):
         all_drops = set(np.concatenate((drops1[:, 0].ravel(), drops2[:, 0].ravel())).astype(int))
 
-        if not np.array_equal(drops1[:, 0], drops2[:, 0]):
-            for drop in drops1[:, 0]:
-                if drop not in drops2[:, 0]:
-                    out.append(f"Additional {type} in DB: {drop.astype(int)}")
-
-            for drop in drops2[:, 0]:
-                if drop not in drops1[:, 0]:
-                    out.append(f"Additional {type} in Web: {drop.astype(int)}")
+        # if not np.array_equal(drops1[:, 0], drops2[:, 0]):
+        #     for drop in drops1[:, 0].astype(int):
+        #         if drop not in drops2[:, 0]:
+        #             out.append(f"Additional {type} in DB: {drop} ({items[drop]})")
+        #
+        #     for drop in drops2[:, 0].astype(int):
+        #         if drop not in drops1[:, 0]:
+        #             out.append(f"Additional {type} in Web: {drop} ({items[drop]})")
 
         for drop in all_drops:
             w1 = np.where(drops1[:, 0] == drop)[0]
             w2 = np.where(drops2[:, 0] == drop)[0]
             if len(w1) == 0:
-                out.append(f"Additional {type} in Web: {drop}")
+                out.append(f"Additional {type} in Web: {drop}  ({items[drop]})")
 
             elif len(w2) == 0:
-                out.append(f"Additional {type} in DB: {drop}")
+                out.append(f"Additional {type} in DB: {drop} ({find_item_name(drop)})")
 
             else:
                 d1 = drops1[w1[0], :]
@@ -126,7 +145,7 @@ def find_diff(drops1, drops2, type):
 
                 if not np.array_equal(d1[1:3], d2[1:3]):
                     out.append(
-                        f"Unequal {type} amount for item {drop}: "
+                        f"Unequal {type} amount for item {drop} ({items[drop]}): "
                         f"{tuple(d1[1:3].astype(int))} (DB) "
                         f"vs {tuple(d2[1:3].astype(int))} (Web)"
                     )
@@ -135,7 +154,8 @@ def find_diff(drops1, drops2, type):
                 rtol = 0.01
                 if not np.allclose(d1[3], d2[3], rtol=rtol):
                     out.append(
-                        f"Unequal {type} chance for item {drop}: {d1[3]} (DB) vs {d2[3]} (Web)"
+                        f"Unequal {type} chance for item {drop} ({items[drop]}):"
+                        f"{d1[3]} (DB) vs {d2[3]} (Web)"
                     )
 
     return out
