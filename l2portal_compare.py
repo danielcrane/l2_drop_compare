@@ -68,11 +68,10 @@ def compare_to_l2portal(drop_data):
                 if i == 0:
                     print("---Spoils---")
                 print(diff)
-            print("\n")
 
         count += 1
         if count % 25 == 0 or count == num_mobs:
-            print(f"Checked {count} / {num_mobs}")
+            print(f"\nChecked {count} / {num_mobs}\n")
     print("Checking complete")
 
 
