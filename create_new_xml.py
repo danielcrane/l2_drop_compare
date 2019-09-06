@@ -316,13 +316,13 @@ def perform_checks(new_data_file):
     d1 = parse_xml_npc.parse_xml(npc_dir)
     d2 = json.load(open(new_data_file, "r"), object_hook=key_str2int)
 
-    if d1.keys() != d2.keys():
-        raise ValueError("Sources have different NPCs")
+    #if d1.keys() != d2.keys():
+    #    raise ValueError("Sources have different NPCs")
 
     check_step_1(d1, d2)
     remaining_ids = check_step_2(d1, d2)
     # remaining_ids = check_step_3(d1, d2, remaining_ids)
-    print(f"remaining_ids: {remaining_ids}")
+    print("remaining_ids: " + str(remaining_ids))
     print("--All Checks Passed--")
 
 
@@ -335,17 +335,17 @@ def check_step_1(d1, d2):
         if s1 == [] and s2 == []:
             continue
         if s1 == [] or s2 == []:
-            print(f"id: {id}")
-            print(f"s1: {s1}")
-            print(f"s2: {s2}")
+            print("id:" + str(id))
+            print("s1:" + str(s1))
+            print("s2:" + str(s2))
             raise ValueError("check_step_1 failed")
 
         dd1 = np.array(s1)[:, :-1]
         dd2 = np.array(s2)
         if not np.allclose(dd1, dd2, rtol=0.01):
-            print(f"id: {id}")
-            print(f"s1: {s1}")
-            print(f"s2: {s2}")
+            print("id:"+ str(id))
+            print("s1:"+ str(s1))
+            print("s2:"+ str(s2))
             raise ValueError("check_step_1 failed")
     print("check_step_1 passed")
 
@@ -382,8 +382,8 @@ def check_step_2(d1, d2):
         else:
             remaining_ids.append(id)
             count_ += 1
-    print(f"check_step_2 passed, {len(remaining_ids)} items remaining")
-    print(f"checked: {count}, remaining: {count_}")
+    print("check_step_2 passed, " + str(len(remaining_ids)) + " items remaining")
+    print("checked: " + str(count) + ", remaining: " + count_)
     return remaining_ids
 
 
@@ -425,7 +425,7 @@ if __name__ == "__main__":
     old_xml_dir = os.path.join(os.getcwd(), "npcs")
     new_xml_dir = os.path.join(os.getcwd(), "npcs_new")
     old_data_file = "drop_data_xml.json"
-    new_data_file = "drop_data_l2portal.json"
+    new_data_file = "drop_data_l2informer.json"
 
     # item_dir = os.path.join(os.getcwd(), "items")
     # item_data = parse_xml_item(item_dir)
@@ -433,7 +433,8 @@ if __name__ == "__main__":
     item_categories = find_item_categories(npc_dir_old)
 
     has_diff = find_item_diffs(old_data_file, new_data_file)
-    # create_new_xml(old_xml_dir, new_xml_dir, new_data_file, has_diff)
+    print has_diff
+    create_new_xml(old_xml_dir, new_xml_dir, new_data_file, has_diff)
 
     # Check results
-    perform_checks(new_data_file)
+    #perform_checks(new_data_file)

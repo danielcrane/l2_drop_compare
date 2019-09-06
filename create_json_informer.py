@@ -7,6 +7,7 @@ db_filename = 'l2.mdb'
 #for tbl in mdb.list_tables(db_filename):
 #  print(tbl)
 
+
 # Read a small table.
 df = mdb.read_table(db_filename, "drops").sort_values(by=['npc_id', 'item_id']).to_dict()
 
@@ -33,6 +34,16 @@ for k, v in df['npc_id'].iteritems():
 		drops.append(data)
 	#if k > 1500:
 	#	break
+
+# Add missing npcs with no drop/spoil
+df = mdb.read_table(db_filename, "npcnames",dtype={'level': str, 'sp': str,'attack_range': str, 'run_speed': str})
+#print df
+for k, v in df['id'].iteritems():
+	if not v in result:
+		result[v] = {"drop": [], "spoil": []}
+
+	#result[] = {"drop": drops, "spoil": spoil}
+
 file_object = open('drop_data_l2informer.json', 'w')
 json.dump(result, file_object)
 
