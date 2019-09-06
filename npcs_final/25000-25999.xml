@@ -818,20 +818,6 @@
    <skill id="4494" level="1"/>
    <skill id="4795" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="25017" max="2" min="2"/>
    <minion id="25018" max="2" min="2"/>
@@ -874,12 +860,6 @@
    <skill id="4416" level="2"/>
    <skill id="4784" level="5"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25018" name="Support of the 3rd Guardian" title="Raid Fighter">
   <set name="level" val="59"/>
@@ -916,12 +896,6 @@
    <skill id="4414" level="3"/>
    <skill id="4416" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25019" name="Pan Dryad" title="Raid Boss">
   <set name="level" val="25"/>
@@ -6097,18 +6071,6 @@
    <skill id="4740" level="4"/>
    <skill id="4832" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="25116" max="3" min="3"/>
    <minion id="25117" max="2" min="2"/>
@@ -6150,12 +6112,6 @@
    <skill id="4416" level="1"/>
    <skill id="4755" level="3"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25117" name="Icarus Sample 3" title="Raid Fighter">
   <set name="level" val="39"/>
@@ -6191,12 +6147,6 @@
    <skill id="4045" level="1"/>
    <skill id="4416" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25118" name="Guilotine Warden of the Execution Grounds" title="Raid Boss">
   <set name="level" val="35"/>
@@ -14334,16 +14284,6 @@
    <skill id="4494" level="1"/>
    <skill id="4891" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25274" name="Carnabarun" title="Raid Fighter">
   <set name="level" val="49"/>
@@ -26717,16 +26657,6 @@
    <skill id="4739" level="3"/>
    <skill id="5025" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="25502" max="3" min="3"/>
    <minion id="25503" max="2" min="2"/>
@@ -26844,16 +26774,6 @@
    <skill id="4494" level="1"/>
    <skill id="5026" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="25505" max="3" min="3"/>
   </minions>
@@ -26934,16 +26854,6 @@
    <skill id="4494" level="1"/>
    <skill id="5027" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="25507" max="1" min="1"/>
    <minion id="25508" max="3" min="3"/>
@@ -27063,16 +26973,6 @@
    <skill id="4494" level="1"/>
    <skill id="5028" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="25510" max="1" min="1"/>
    <minion id="25511" max="3" min="3"/>
@@ -27193,16 +27093,6 @@
    <skill id="4726" level="1"/>
    <skill id="5029" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25514" name="Queen Shyeed" title="Raid Boss">
   <set name="level" val="80"/>
@@ -27400,12 +27290,6 @@
    <skill id="4730" level="1"/>
    <skill id="5034" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="25524" name="Flamestone Giant" title="Raid Boss">
   <set name="level" val="76"/>
@@ -27600,13 +27484,5 @@
    <skill id="4721" level="5"/>
    <skill id="5179" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
 </list>

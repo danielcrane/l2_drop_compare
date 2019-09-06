@@ -1598,14 +1598,6 @@
    <skill id="4412" level="12"/>
    <skill id="4416" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22028" name="Vagabond of the Ruins" title="">
   <set name="level" val="40"/>
@@ -1647,14 +1639,6 @@
    <skill id="4412" level="12"/>
    <skill id="4416" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
   <minions>
    <minion id="22027" max="4" min="3"/>
   </minions>
@@ -1695,14 +1679,6 @@
    <skill id="4410" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22030" name="Ragna Orc Shaman" title="">
   <set name="level" val="42"/>
@@ -1741,14 +1717,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22031" name="Ragna Orc Archer" title="">
   <set name="level" val="43"/>
@@ -1784,14 +1752,6 @@
    <skill id="4414" level="3"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22032" name="Ragna Orc Warrior" title="">
   <set name="level" val="44"/>
@@ -1830,14 +1790,6 @@
    <skill id="4414" level="1"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22033" name="Ragna Orc Mage" title="">
   <set name="level" val="45"/>
@@ -1875,14 +1827,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22034" name="Ragna Orc Mage" title="">
   <set name="level" val="45"/>
@@ -1920,14 +1864,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22035" name="Ragna Orc Mage" title="">
   <set name="level" val="45"/>
@@ -1965,14 +1901,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22036" name="Ragna Orc Mage" title="">
   <set name="level" val="45"/>
@@ -2010,14 +1938,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22037" name="Ragna Orc Healer" title="">
   <set name="level" val="45"/>
@@ -2056,14 +1976,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22038" name="Ragna Orc Hero" title="">
   <set name="level" val="48"/>
@@ -2102,14 +2014,6 @@
    <skill id="4414" level="1"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22039" name="Ragna Orc Commander" title="">
   <set name="level" val="49"/>
@@ -2148,12 +2052,6 @@
    <skill id="4414" level="1"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22040" name="Ragna Orc Sniper" title="">
   <set name="level" val="47"/>
@@ -2189,14 +2087,6 @@
    <skill id="4414" level="3"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22041" name="Ragna Orc Sorcerer" title="">
   <set name="level" val="50"/>
@@ -2234,14 +2124,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22042" name="Ragna Orc Sorcerer" title="">
   <set name="level" val="50"/>
@@ -2279,14 +2161,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22043" name="Ragna Orc Sorcerer" title="">
   <set name="level" val="50"/>
@@ -2324,14 +2198,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22044" name="Ragna Orc Sorcerer" title="">
   <set name="level" val="50"/>
@@ -2369,16 +2235,6 @@
    <skill id="4411" level="13"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22045" name="Dark Corpse" title="">
   <set name="level" val="40"/>
@@ -2417,14 +2273,6 @@
    <skill id="4413" level="14"/>
    <skill id="4416" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22046" name="Varangka's Dre Vanul" title="">
   <set name="level" val="46"/>
@@ -2464,16 +2312,6 @@
    <skill id="4413" level="14"/>
    <skill id="4416" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22047" name="Guardian of the Ghost Town" title="">
   <set name="level" val="44"/>
@@ -2513,14 +2351,6 @@
    <skill id="4413" level="14"/>
    <skill id="4416" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22048" name="Dark Spider" title="">
   <set name="level" val="42"/>
@@ -3300,14 +3130,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22060" name="Horrifying Cannon Golem" title="">
   <set name="level" val="52"/>
@@ -3352,14 +3174,6 @@
    <skill id="4457" level="2"/>
    <skill id="4663" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22061" name="Horrifying Cannon Golem III" title="">
   <set name="level" val="51"/>
@@ -3401,16 +3215,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22062" name="Horrifying Jackhammer Golem" title="">
   <set name="level" val="52"/>
@@ -3519,14 +3323,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22064" name="Bloodthirsty Ginzu Golem II" title="">
   <set name="level" val="52"/>
@@ -3629,14 +3425,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22066" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3680,14 +3468,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22067" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3731,14 +3511,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22068" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3782,14 +3554,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22069" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3833,14 +3597,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22070" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3884,14 +3640,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22071" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3935,14 +3683,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22072" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3986,14 +3726,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22073" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -4037,14 +3769,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22074" name="Epic Cannon Golem" title="">
   <set name="level" val="53"/>
@@ -4089,14 +3813,6 @@
    <skill id="4457" level="2"/>
    <skill id="4663" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22075" name="Epic Cannon Golem Adjunct" title="">
   <set name="level" val="52"/>
@@ -4256,14 +3972,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22078" name="Deadly Ginzu Golem VIII" title="">
   <set name="level" val="54"/>
@@ -4305,14 +4013,6 @@
    <skill id="4437" level="4"/>
    <skill id="4457" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22079" name="Lost Bandersnatch" title="">
   <set name="level" val="53"/>
@@ -5751,16 +5451,6 @@
    <skill id="4438" level="5"/>
    <skill id="4439" level="5"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22100" name="Freya's Gardener" title="">
   <set name="level" val="58"/>
@@ -5802,16 +5492,6 @@
    <skill id="4414" level="1"/>
    <skill id="4416" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22101" name="Freya's Servant" title="">
   <set name="level" val="58"/>
@@ -5851,16 +5531,6 @@
    <skill id="4414" level="1"/>
    <skill id="4416" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22102" name="Freya's Servant" title="">
   <set name="level" val="58"/>
@@ -5900,16 +5570,6 @@
    <skill id="4414" level="1"/>
    <skill id="4416" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22103" name="Freya's White Bear" title="">
   <set name="level" val="57"/>
@@ -5951,16 +5611,6 @@
    <skill id="4438" level="5"/>
    <skill id="4439" level="5"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22104" name="Freya's Dog" title="">
   <set name="level" val="58"/>
@@ -7554,14 +7204,6 @@
    <skill id="4563" level="9"/>
    <skill id="4613" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22128" name="Monastery Guardian" title="">
   <set name="level" val="80"/>
@@ -10266,16 +9908,6 @@
    <skill id="4416" level="6"/>
    <skill id="4422" level="3"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22171" name="Triol's High Priest" title="">
   <set name="level" val="80"/>
@@ -10834,16 +10466,6 @@
    <skill id="4641" level="1"/>
    <skill id="4655" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22192" name="Andreas' Royal Guards" title="">
   <set name="level" val="86"/>
@@ -10884,16 +10506,6 @@
    <skill id="4622" level="9"/>
    <skill id="4665" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22193" name="Andreas' Royal Guards" title="">
   <set name="level" val="86"/>
@@ -10933,16 +10545,6 @@
    <skill id="4622" level="9"/>
    <skill id="4665" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22194" name="Penance Guard" title="">
   <set name="level" val="80"/>
@@ -11022,16 +10624,6 @@
    <skill id="4422" level="3"/>
    <skill id="4614" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="22196" name="Velociraptor" title="">
   <set name="level" val="86"/>

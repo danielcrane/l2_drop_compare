@@ -2452,56 +2452,6 @@
    <skill id="4045" level="1"/>
    <skill id="4416" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="13">
-   </category>
-   <category id="14">
-   </category>
-   <category id="15">
-   </category>
-   <category id="16">
-   </category>
-   <category id="0">
-   </category>
-   <category id="51">
-   </category>
-   <category id="52">
-   </category>
-   <category id="53">
-   </category>
-   <category id="54">
-   </category>
-   <category id="55">
-   </category>
-   <category id="56">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29048" name="Evil Spirit" title="">
   <set name="level" val="87"/>
@@ -2757,14 +2707,6 @@
    <skill id="4993" level="1"/>
    <skill id="4994" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29055" name="Teleportation Cubic" title="">
   <set name="level" val="93"/>
@@ -2839,18 +2781,6 @@
    <skill id="4494" level="1"/>
    <skill id="5036" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29057" name="Sirra's Page" title="Raid Fighter">
   <set name="level" val="59"/>
@@ -2890,12 +2820,6 @@
    <skill id="4416" level="7"/>
    <skill id="4780" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29058" name="Sirra's Beholder" title="Raid Fighter">
   <set name="level" val="59"/>
@@ -2935,12 +2859,6 @@
    <skill id="4481" level="1"/>
    <skill id="4482" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29060" name="Captain of the Ice Queen's Royal Guard" title="Raid Boss">
   <set name="level" val="59"/>
@@ -2982,16 +2900,6 @@
    <skill id="4737" level="1"/>
    <skill id="5030" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29061" name="Teleportation Cubic" title="">
   <set name="level" val="70"/>
@@ -3067,16 +2975,6 @@
    <skill id="4494" level="1"/>
    <skill id="5033" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29063" name="Andreas' Acolyte" title="Raid Fighter">
   <set name="level" val="86"/>
@@ -3114,12 +3012,6 @@
    <skill id="4414" level="3"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29064" name="Andreas' Acolyte" title="Raid Fighter">
   <set name="level" val="86"/>
@@ -3158,12 +3050,6 @@
    <skill id="4414" level="3"/>
    <skill id="4416" level="6"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29065" name="Sailren" title="Sealed Evil Power">
   <set name="level" val="87"/>
@@ -3205,16 +3091,6 @@
    <skill id="5143" level="1"/>
    <skill id="5180" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29066" name="Antharas" title="">
   <set name="level" val="79"/>
@@ -3251,80 +3127,6 @@
    <skill id="4122" level="1"/>
    <skill id="4416" level="10"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="13">
-   </category>
-   <category id="14">
-   </category>
-   <category id="15">
-   </category>
-   <category id="16">
-   </category>
-   <category id="17">
-   </category>
-   <category id="18">
-   </category>
-   <category id="19">
-   </category>
-   <category id="20">
-   </category>
-   <category id="21">
-   </category>
-   <category id="22">
-   </category>
-   <category id="23">
-   </category>
-   <category id="24">
-   </category>
-   <category id="25">
-   </category>
-   <category id="26">
-   </category>
-   <category id="27">
-   </category>
-   <category id="0">
-   </category>
-   <category id="51">
-   </category>
-   <category id="52">
-   </category>
-   <category id="53">
-   </category>
-   <category id="54">
-   </category>
-   <category id="55">
-   </category>
-   <category id="56">
-   </category>
-   <category id="57">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29067" name="Antharas" title="">
   <set name="level" val="79"/>
@@ -3361,78 +3163,6 @@
    <skill id="4122" level="1"/>
    <skill id="4416" level="10"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="13">
-   </category>
-   <category id="14">
-   </category>
-   <category id="15">
-   </category>
-   <category id="16">
-   </category>
-   <category id="17">
-   </category>
-   <category id="18">
-   </category>
-   <category id="19">
-   </category>
-   <category id="20">
-   </category>
-   <category id="21">
-   </category>
-   <category id="22">
-   </category>
-   <category id="23">
-   </category>
-   <category id="24">
-   </category>
-   <category id="25">
-   </category>
-   <category id="26">
-   </category>
-   <category id="0">
-   </category>
-   <category id="51">
-   </category>
-   <category id="52">
-   </category>
-   <category id="53">
-   </category>
-   <category id="54">
-   </category>
-   <category id="55">
-   </category>
-   <category id="56">
-   </category>
-   <category id="57">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29068" name="Antharas" title="Earth Dragon">
   <set name="level" val="79"/>
@@ -3469,78 +3199,6 @@
    <skill id="4122" level="1"/>
    <skill id="4416" level="10"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="13">
-   </category>
-   <category id="14">
-   </category>
-   <category id="15">
-   </category>
-   <category id="16">
-   </category>
-   <category id="17">
-   </category>
-   <category id="18">
-   </category>
-   <category id="19">
-   </category>
-   <category id="20">
-   </category>
-   <category id="21">
-   </category>
-   <category id="22">
-   </category>
-   <category id="23">
-   </category>
-   <category id="24">
-   </category>
-   <category id="25">
-   </category>
-   <category id="26">
-   </category>
-   <category id="0">
-   </category>
-   <category id="51">
-   </category>
-   <category id="52">
-   </category>
-   <category id="53">
-   </category>
-   <category id="54">
-   </category>
-   <category id="55">
-   </category>
-   <category id="56">
-   </category>
-   <category id="57">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29069" name="Behemoth Dragon" title="">
   <set name="level" val="78"/>
@@ -3578,40 +3236,6 @@
    <skill id="5095" level="1"/>
    <skill id="5096" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="13">
-   </category>
-   <category id="14">
-   </category>
-   <category id="15">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29070" name="Dragon Bomber" title="">
   <set name="level" val="78"/>
@@ -3891,20 +3515,6 @@
    <skill id="4733" level="1"/>
    <skill id="5181" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29096" name="Anais" title="Lord of Splendor">
   <set name="level" val="87"/>
@@ -3943,16 +3553,6 @@
    <skill id="4494" level="1"/>
    <skill id="5032" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29097" name="Splendor Disciple" title="Raid Fighter">
   <set name="level" val="86"/>
@@ -3990,12 +3590,6 @@
    <skill id="4416" level="8"/>
    <skill id="4423" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="29098" name="Splendor Worshiper" title="Raid Fighter">
   <set name="level" val="86"/>
@@ -4033,11 +3627,5 @@
    <skill id="4416" level="8"/>
    <skill id="4423" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
 </list>

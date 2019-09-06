@@ -51,7 +51,9 @@ def step_1(soups, npcs_data):
             except:
                 continue
 
-            drops = npc.select("drops")[0]
+            drops = npc.select("drops")[0] if npc.select("drops") else None
+            if not drops:
+                continue
 
             category = drops.find("category", {"id": -1})
             if category is None:
@@ -96,7 +98,9 @@ def step_2(soups, npcs_data, has_diff):
             if npc_id not in list(ids_no_diff) and npc_data["drop"] != []:
                 continue
 
-            drops = npc.select("drops")[0]
+            drops = npc.select("drops")[0] if npc.select("drops") else None
+            if not drops:
+                continue
             categories = drops.select("category")
 
             for drop in npc_data["drop"]:
@@ -153,7 +157,9 @@ def step_3(soups, npcs_data, old_xml_dir):
             except:
                 continue
 
-            drops = npc.select("drops")[0]
+            drops = npc.select("drops")[0] if npc.select("drops") else None
+            if not drops:
+                continue
             categories = drops.select("category")
 
             if len(categories) > 4:
@@ -429,12 +435,12 @@ if __name__ == "__main__":
 
     # item_dir = os.path.join(os.getcwd(), "items")
     # item_data = parse_xml_item(item_dir)
-    npc_dir_old = os.path.join(os.getcwd(), "npcs")
-    item_categories = find_item_categories(npc_dir_old)
+    #npc_dir_old = os.path.join(os.getcwd(), "npcs")
+    #item_categories = find_item_categories(npc_dir_old)
 
-    has_diff = find_item_diffs(old_data_file, new_data_file)
-    print has_diff
-    create_new_xml(old_xml_dir, new_xml_dir, new_data_file, has_diff)
+    #has_diff = find_item_diffs(old_data_file, new_data_file)
+    #print(has_diff)
+    #create_new_xml(old_xml_dir, new_xml_dir, new_data_file, has_diff)
 
     # Check results
-    #perform_checks(new_data_file)
+    perform_checks(new_data_file)

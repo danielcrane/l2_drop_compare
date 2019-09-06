@@ -136,24 +136,6 @@
   <skills>
    <skill id="4416" level="4"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="18004" name="Susceptor Prime" title="">
   <set name="level" val="49"/>
@@ -305,36 +287,6 @@
    <skill id="4333" level="5"/>
    <skill id="4416" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="18008" name="Karik" title="">
   <set name="level" val="70"/>
@@ -376,38 +328,6 @@
    <skill id="4412" level="14"/>
    <skill id="4416" level="9"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="3">
-   </category>
-   <category id="4">
-   </category>
-   <category id="5">
-   </category>
-   <category id="6">
-   </category>
-   <category id="7">
-   </category>
-   <category id="8">
-   </category>
-   <category id="9">
-   </category>
-   <category id="10">
-   </category>
-   <category id="11">
-   </category>
-   <category id="12">
-   </category>
-   <category id="13">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="18009" name="Offering of Branded Elder" title="">
   <set name="level" val="34"/>

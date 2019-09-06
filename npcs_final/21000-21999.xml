@@ -53274,14 +53274,6 @@
    <skill id="4416" level="3"/>
    <skill id="4438" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="21825" name="Alpine Kookaburra" title="">
   <set name="level" val="65"/>
@@ -53322,14 +53314,6 @@
    <skill id="4416" level="3"/>
    <skill id="4438" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="21826" name="Alpine Buffalo" title="">
   <set name="level" val="67"/>
@@ -53370,14 +53354,6 @@
    <skill id="4416" level="3"/>
    <skill id="4438" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="21827" name="Alpine Buffalo" title="">
   <set name="level" val="67"/>
@@ -53418,14 +53394,6 @@
    <skill id="4416" level="3"/>
    <skill id="4438" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="21828" name="Alpine Cougar" title="">
   <set name="level" val="69"/>
@@ -53466,14 +53434,6 @@
    <skill id="4416" level="3"/>
    <skill id="4438" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
  <npc id="21829" name="Alpine Cougar" title="">
   <set name="level" val="69"/>
@@ -53514,13 +53474,5 @@
    <skill id="4416" level="3"/>
    <skill id="4438" level="2"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="2">
-   </category>
-   <category id="-1">
-   </category>
-  </drops>
  </npc>
 </list>
