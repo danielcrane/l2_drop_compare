@@ -96,8 +96,6 @@
    <category id="57">
     <drop chance="1000000" itemid="57" max="150000" min="120000"/>
    </category>
-   <category id="-1">
-   </category>
   </drops>
   <minions>
    <minion id="29003" max="3" min="3"/>
@@ -332,8 +330,6 @@
    </category>
    <category id="55">
     <drop chance="1000000" itemid="57" max="150000" min="100000"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -661,9 +657,7 @@
    </category>
    <category id="5">
     <drop chance="100000" itemid="951" max="2" min="1"/>
-    <drop chance="100000" itemid="8744" max="4" min="4"/>
-    <drop chance="400000" itemid="8745" max="4" min="2"/>
-    <drop chance="200000" itemid="8755" max="2" min="1"/>
+    <drop chance="1000000" itemid="8744" max="3" min="1"/>
    </category>
    <category id="0">
     <drop chance="1000000" itemid="57" max="150000" min="110000"/>
@@ -682,8 +676,6 @@
    </category>
    <category id="55">
     <drop chance="1000000" itemid="57" max="150000" min="110000"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -1001,37 +993,35 @@
     <drop chance="1000000" itemid="3936" max="39" min="1"/>
    </category>
    <category id="26">
-    <drop chance="166666" itemid="8751" max="4" min="2"/>
-    <drop chance="540000" itemid="8752" max="4" min="3"/>
+    <drop chance="250000" itemid="8751" max="4" min="2"/>
+    <drop chance="730000" itemid="8752" max="4" min="3"/>
    </category>
    <category id="27">
-    <drop chance="2000000" itemid="8620" max="29" min="12"/>
+    <drop chance="166700" itemid="8762" max="1" min="1"/>
    </category>
    <category id="0">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="51">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="52">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="53">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="54">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="55">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="56">
-    <drop chance="1000000" itemid="57" max="18000000" min="14000000"/>
+    <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
    <category id="57">
     <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1103,8 +1093,6 @@
    <category id="4">
     <drop chance="400000" itemid="8751" max="2" min="1"/>
     <drop chance="355000" itemid="8752" max="2" min="1"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1257,8 +1245,6 @@
    <category id="57">
     <drop chance="1000000" itemid="57" max="220000" min="180000"/>
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29023" name="Doll Blader" title="">
@@ -1304,8 +1290,6 @@
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29024" name="Vale master" title="">
@@ -1350,8 +1334,6 @@
   <drops>
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1430,8 +1412,6 @@
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29027" name="Pirate Zombie" title="">
@@ -1473,8 +1453,6 @@
   <drops>
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1684,8 +1662,6 @@
    <category id="60">
     <drop chance="1000000" itemid="57" max="6000000" min="2000000"/>
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29029" name="Lavasaurus Pustbon" title="">
@@ -1766,8 +1742,6 @@
     <drop chance="186700" itemid="6652" max="6" min="2"/>
     <drop chance="64800" itemid="6654" max="54" min="18"/>
     <drop chance="41700" itemid="6655" max="42" min="14"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -1889,8 +1863,6 @@
     <drop chance="189400" itemid="6652" max="6" min="2"/>
     <drop chance="65800" itemid="6654" max="54" min="18"/>
     <drop chance="42300" itemid="6655" max="42" min="14"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -2016,8 +1988,6 @@
     <drop chance="66800" itemid="6654" max="54" min="18"/>
     <drop chance="42900" itemid="6655" max="42" min="14"/>
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29037" name="Fenril Hound Kinaz" title="Family of Valakas">
@@ -2064,8 +2034,6 @@
     <drop chance="195000" itemid="6652" max="6" min="2"/>
     <drop chance="67700" itemid="6654" max="54" min="18"/>
     <drop chance="43500" itemid="6655" max="42" min="14"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -2192,8 +2160,6 @@
     <drop chance="197600" itemid="6652" max="6" min="2"/>
     <drop chance="68600" itemid="6654" max="54" min="18"/>
     <drop chance="44100" itemid="6655" max="42" min="14"/>
-   </category>
-   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -2499,8 +2465,6 @@
    </category>
    <category id="56">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29048" name="Evil Spirit" title="">
@@ -2762,8 +2726,6 @@
    </category>
    <category id="2">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29055" name="Teleportation Cubic" title="">
@@ -2848,8 +2810,6 @@
    </category>
    <category id="4">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29057" name="Sirra's Page" title="Raid Fighter">
@@ -2893,8 +2853,6 @@
   <drops>
    <category id="1">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29058" name="Sirra's Beholder" title="Raid Fighter">
@@ -2937,8 +2895,6 @@
   </skills>
   <drops>
    <category id="1">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2988,8 +2944,6 @@
    <category id="2">
    </category>
    <category id="3">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3074,8 +3028,6 @@
    </category>
    <category id="3">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29063" name="Andreas' Acolyte" title="Raid Fighter">
@@ -3116,8 +3068,6 @@
   </skills>
   <drops>
    <category id="1">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3160,8 +3110,6 @@
   </skills>
   <drops>
    <category id="1">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3211,8 +3159,6 @@
    <category id="2">
    </category>
    <category id="3">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3322,8 +3268,6 @@
    </category>
    <category id="57">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29067" name="Antharas" title="">
@@ -3429,8 +3373,6 @@
    <category id="56">
    </category>
    <category id="57">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3538,8 +3480,6 @@
    </category>
    <category id="57">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29069" name="Behemoth Dragon" title="">
@@ -3608,8 +3548,6 @@
    <category id="14">
    </category>
    <category id="15">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3902,8 +3840,6 @@
    </category>
    <category id="5">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29096" name="Anais" title="Lord of Splendor">
@@ -3950,8 +3886,6 @@
    </category>
    <category id="3">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29097" name="Splendor Disciple" title="Raid Fighter">
@@ -3993,8 +3927,6 @@
   <drops>
    <category id="1">
    </category>
-   <category id="-1">
-   </category>
   </drops>
  </npc>
  <npc id="29098" name="Splendor Worshiper" title="Raid Fighter">
@@ -4035,8 +3967,6 @@
   </skills>
   <drops>
    <category id="1">
-   </category>
-   <category id="-1">
    </category>
   </drops>
  </npc>
