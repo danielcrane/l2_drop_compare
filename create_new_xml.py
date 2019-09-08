@@ -68,8 +68,12 @@ def step_1(soups, npcs_data):
                 item_id, item_min, item_max, item_chance = spoil
                 item_chance = round(item_chance * 1e6)
                 new_drop = soup.new_tag(
-                    "drop", itemid=item_id, min=item_min, max=item_max, chance=item_chance
-                )
+                    "drop", itemid=item_id
+                    )
+                new_drop['min'] = item_min
+                new_drop['max'] = item_max
+                new_drop['chance'] = item_chance
+
                 category.append(new_drop)
                 category.append("\n")
 
@@ -97,7 +101,7 @@ def step_2(soups, npcs_data, has_diff):
 
             if npc_id not in list(ids_no_diff) and npc_data["drop"] != []:
                 print("Skipping %s due different number of drops" % npc_id)
-                npc = try_fix(npc_id, npc, npc_data)
+                npc = try_fix(soup, npc_id, npc, npc_data)
                 #print(npc.prettify())
                 continue
 
@@ -201,12 +205,11 @@ def step_3(soups, npcs_data, old_xml_dir):
                         correct_cat = items[item_id]
                         if correct_cat == category_id:
                             new_drop = soup.new_tag(
-                                "drop",
-                                itemid=item_id,
-                                min=item_min,
-                                max=item_max,
-                                chance=item_chance,
-                            )
+                                "drop", itemid=item_id
+                                )
+                            new_drop['min'] = item_min
+                            new_drop['max'] = item_max
+                            new_drop['chance'] = item_chance
                             category.append(new_drop)
                             category.append("\n")
 
@@ -428,7 +431,7 @@ def get_unanimous_item_categories(d1):
 
     return items
 
-def try_fix(npc_id, npc, npc_data):
+def try_fix(soup, npc_id, npc, npc_data):
 
     drops = npc.select("drops")[0] if npc.select("drops") else None
     if not drops:
@@ -455,7 +458,8 @@ def try_fix(npc_id, npc, npc_data):
                     d["max"] = str(item_max)
                     found = True
         if not found:
-            print("Item id %s found in l2informer not found in xml for npc id %s, cannot fix this one." % (item_id, npc_id))
+            #print("Item id %s found in l2informer not found in xml for npc id %s, cannot fix this one." % (item_id, npc_id))
+            print('<drop itemid="%s" min="%s" max="%s" chance="%s"/>' % (item_id, item_min, item_max, item_chance))
             all_found = False
             missing_items.append(drop)
 
@@ -509,11 +513,106 @@ def try_fix(npc_id, npc, npc_data):
             d["min"] = str(item_min)
             d["max"] = str(item_max)
             d["itemid"] = str(item_id)
-            print(npc.prettify())
+            #print(npc.prettify())
         else:
-            print ("More than 1 item missmatch on xml, npc_id %s needs manual checking" % npc_id)
+            # There are more than 1 item on the xml that needs to be deleted, if all belong to one category replace 1 and remove the rest.
+            cats = []
+            for category in categories:
+                category_id = eval(category["id"])
+
+                if category_id == -1:
+                    # Spoils are already done, no need to worry about them here
+                    continue
+                else:
+                    drops = category.find_all("drop")
+                    for drop in drops:
+                        item_id = eval(drop["itemid"])
+                        found = False
+                        for d in npc_data["drop"]:
+                            if d[0] == item_id:
+                                found = True
+                                break
+                        if not found:
+                            if not category_id in cats:
+                                cats.append(category_id)
+
+            # Replace first one and remove the rest
+            if len(cats) == 1:
+                item_id, item_min, item_max, item_chance = missing_items[0]
+                item_chance = round(item_chance * 1e6)
+                d = replacements[0]
+                d["chance"] = str(item_chance)
+                d["min"] = str(item_min)
+                d["max"] = str(item_max)
+                d["itemid"] = str(item_id)
+                for drop in replacements[1:]:
+                    drop.decompose()
+                print("Fixed mob with one replacement and removing extra items, please review:")
+                print(npc.prettify())
+            else:
+                print ("More than 1 item missmatch on xml, and distinct from 1 category (%s), npc_id %s needs manual checking" % (",".join(str(v) for v in cats), npc_id))
     else:
-        print ("More than 1 item missmatch on l2informer, npc_id %s needs manual checking" % npc_id)
+
+        if len(missing_items):
+            # If we are here, means there are no immediate replacement, however many cases missmatches are due rune ids 87xx and 7884, 7899, etc.
+            # here we can remove the wrong ids from he xml and add the new ones in the same category
+            fixable = True
+            for item in missing_items:
+                item_id, item_min, item_max, item_chance = item
+                if int(item_id) < 7800:
+                    fixable = False
+                    break
+            if fixable:
+                print("Trying to fix mob with missmatches")
+                cats = []
+                for category in categories:
+                    category_id = eval(category["id"])
+
+                    if category_id == -1:
+                        # Spoils are already done, no need to worry about them here
+                        continue
+                    else:
+                        drops = category.find_all("drop")
+                        for drop in drops:
+                            item_id = eval(drop["itemid"])
+                            found = False
+                            for d in npc_data["drop"]:
+                                if d[0] == item_id:
+                                    found = True
+                                    break
+                            if not found:
+                                print("item_id %s from npc_id %s not existing in l2informer" % (item_id, npc_id))
+                                drop.decompose()
+                                if not category_id in cats:
+                                    cats.append(category_id)
+                # Here we have removed any extra items, hopefully from only one category, lets now add the missing items here
+                if len(cats) == 1:
+                    drops = npc.select("drops")[0]
+                    category = drops.find("category", {"id": cats[0]})
+                    for item in missing_items:
+                        item_id, item_min, item_max, item_chance = item
+                        item_chance = round(item_chance * 1e6)
+                        new_drop = soup.new_tag(
+                            "drop", itemid=item_id
+                            )
+                        new_drop['min'] = item_min
+                        new_drop['max'] = item_max
+                        new_drop['chance'] = item_chance
+
+                        category.append(new_drop)
+                        category.append("\n")
+                    print("Fixed mob with missmatches, please review:")
+                    print(npc.prettify())
+
+                else:
+                    print ("Distinct from 1 category/s found (%s), npc_id %s needs manual checking" % (",".join(str(c) for c in cats), npc_id))
+            else:
+                print ("More than 1 item missmatch on l2informer, npc_id %s needs manual checking" % npc_id)
+        else:
+            print ("No items missmatch on l2informer, but npc_id %s needs manual checking" % npc_id)
+
+
+
     return npc
 
 if __name__ == "__main__":
