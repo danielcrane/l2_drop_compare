@@ -334,21 +334,11 @@
     <drop chance="8" itemid="2390" max="1" min="1"/>
    </category>
    <category id="2">
-    <drop chance="100000" itemid="1868" max="1" min="1"/>
-    <drop chance="21739" itemid="1873" max="1" min="1"/>
-    <drop chance="10417" itemid="1876" max="1" min="1"/>
-    <drop chance="15385" itemid="1895" max="1" min="1"/>
-    <drop chance="1139" itemid="4042" max="1" min="1"/>
     <drop chance="2016" itemid="4066" max="1" min="1"/>
     <drop chance="3058" itemid="4067" max="1" min="1"/>
     <drop chance="1548" itemid="4068" max="1" min="1"/>
-    <drop chance="545" itemid="4129" max="1" min="1"/>
-    <drop chance="545" itemid="4167" max="1" min="1"/>
-    <drop chance="64" itemid="4197" max="1" min="1"/>
-    <drop chance="737" itemid="8728" max="1" min="1"/>
-    <drop chance="152" itemid="8738" max="1" min="1"/>
-    <drop chance="8" itemid="8748" max="1" min="1"/>
-    <drop chance="16" itemid="8758" max="1" min="1"/>
+    <drop chance="39800" itemid="6669" max="1" min="1"/>
+    <drop chance="64" itemid="8737" max="1" min="1"/>
    </category>
    <category id="3">
     <drop chance="5076" itemid="4911" max="1" min="1"/>
@@ -1433,6 +1423,8 @@
     <drop chance="635" itemid="4107" max="1" min="1"/>
     <drop chance="635" itemid="4108" max="1" min="1"/>
     <drop chance="2101" itemid="4167" max="1" min="1"/>
+    <drop chance="88" itemid="8737" max="1" min="1"/>
+    <drop chance="120" itemid="8738" max="1" min="1"/>
    </category>
    <category id="3">
     <drop chance="5000" itemid="4915" max="1" min="1"/>
@@ -4460,9 +4452,7 @@
     <drop chance="3226" itemid="5520" max="1" min="1"/>
     <drop chance="2273" itemid="5521" max="1" min="1"/>
     <drop chance="4926" itemid="5524" max="1" min="1"/>
-    <drop chance="3745" itemid="8731" max="1" min="1"/>
-    <drop chance="440" itemid="8741" max="1" min="1"/>
-    <drop chance="220" itemid="8751" max="1" min="1"/>
+    <drop chance="5714" itemid="5550" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8335" min="4089"/>
@@ -4535,9 +4525,8 @@
     <drop chance="4878" itemid="5485" max="1" min="1"/>
     <drop chance="3436" itemid="5486" max="1" min="1"/>
     <drop chance="7692" itemid="5489" max="1" min="1"/>
-    <drop chance="4425" itemid="8731" max="1" min="1"/>
     <drop chance="382" itemid="8741" max="1" min="1"/>
-    <drop chance="52" itemid="8761" max="1" min="1"/>
+    <drop chance="54" itemid="8751" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="9696" min="4752"/>
@@ -5582,6 +5571,7 @@
     <drop chance="1443" itemid="2186" max="1" min="1"/>
     <drop chance="4310" itemid="5549" max="1" min="1"/>
     <drop chance="576" itemid="5550" max="1" min="1"/>
+    <drop chance="67" itemid="8317" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="478" min="240"/>
@@ -7874,6 +7864,7 @@
     <drop chance="24500" itemid="1879" max="1" min="1"/>
     <drop chance="6579" itemid="2187" max="1" min="1"/>
     <drop chance="12300" itemid="6035" max="1" min="1"/>
+    <drop chance="641" itemid="8317" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1399" min="702"/>
@@ -8523,17 +8514,13 @@
     <drop chance="22" itemid="2406" max="1" min="1"/>
    </category>
    <category id="2">
-    <drop chance="331" itemid="948" max="1" min="1"/>
     <drop chance="326600" itemid="1832" max="1" min="1"/>
-    <drop chance="66667" itemid="1867" max="3" min="1"/>
-    <drop chance="100000" itemid="1872" max="3" min="1"/>
-    <drop chance="10638" itemid="1875" max="1" min="1"/>
-    <drop chance="19231" itemid="1881" max="1" min="1"/>
-    <drop chance="1103" itemid="4041" max="1" min="1"/>
     <drop chance="5780" itemid="4069" max="1" min="1"/>
     <drop chance="8772" itemid="4070" max="1" min="1"/>
     <drop chance="4444" itemid="4071" max="1" min="1"/>
-    <drop chance="1323" itemid="4162" max="1" min="1"/>
+    <drop chance="10" itemid="8747" max="1" min="1"/>
+    <drop chance="316" itemid="8737" max="1" min="1"/>
+    <drop chance="20" itemid="8757" max="1" min="1"/>
    </category>
    <category id="3">
     <drop chance="8696" itemid="5809" max="1" min="1"/>
@@ -10711,6 +10698,7 @@
     <drop chance="17900" itemid="7645" max="1" min="1"/>
     <drop chance="17900" itemid="7672" max="1" min="1"/>
     <drop chance="17900" itemid="7673" max="1" min="1"/>
+    <drop chance="150" itemid="8741" max="1" min="1"/>
    </category>
    <category id="5">
     <drop chance="17900" itemid="7645" max="1" min="1"/>
@@ -13483,14 +13471,10 @@
     <drop chance="24" itemid="2392" max="1" min="1"/>
    </category>
    <category id="2">
-    <drop chance="111111" itemid="1830" max="1" min="1"/>
-    <drop chance="200000" itemid="1866" max="1" min="1"/>
-    <drop chance="142857" itemid="1871" max="3" min="1"/>
-    <drop chance="9524" itemid="1877" max="1" min="1"/>
-    <drop chance="4566" itemid="4040" max="1" min="1"/>
-    <drop chance="2217" itemid="4041" max="1" min="1"/>
     <drop chance="4651" itemid="4082" max="1" min="1"/>
     <drop chance="4651" itemid="4083" max="1" min="1"/>
+    <drop chance="24" itemid="8749" max="1" min="1"/>
+    <drop chance="114" itemid="8739" max="1" min="1"/>
    </category>
    <category id="3">
     <drop chance="18900" itemid="6350" max="1" min="1"/>
@@ -13564,9 +13548,9 @@
     <drop chance="116" itemid="8314" max="1" min="1"/>
     <drop chance="1289" itemid="8330" max="1" min="1"/>
     <drop chance="1321" itemid="8336" max="1" min="1"/>
-    <drop chance="3115" itemid="8729" max="1" min="1"/>
     <drop chance="70" itemid="8739" max="1" min="1"/>
-    <drop chance="104" itemid="8749" max="1" min="1"/>
+    <drop chance="15" itemid="7883" max="1" min="1"/>
+    <drop chance="15" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5340" min="2634"/>
@@ -13760,18 +13744,15 @@
     <drop chance="88" itemid="6325" max="1" min="1"/>
    </category>
    <category id="2">
-    <drop chance="89" itemid="730" max="1" min="1"/>
     <drop chance="16000" itemid="1894" max="1" min="1"/>
     <drop chance="15200" itemid="4039" max="1" min="1"/>
     <drop chance="3968" itemid="4041" max="1" min="1"/>
     <drop chance="15200" itemid="4044" max="1" min="1"/>
+    <drop chance="609" itemid="5161" max="1" min="1"/>
     <drop chance="10500" itemid="6341" max="1" min="1"/>
     <drop chance="8130" itemid="6343" max="1" min="1"/>
     <drop chance="14600" itemid="6345" max="1" min="1"/>
-    <drop chance="3106" itemid="8731" max="1" min="1"/>
-    <drop chance="461" itemid="8741" max="1" min="1"/>
-    <drop chance="38" itemid="8751" max="1" min="1"/>
-    <drop chance="22" itemid="8761" max="1" min="1"/>
+    <drop chance="247" itemid="8740" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6350" min="3110"/>
@@ -13839,9 +13820,8 @@
     <drop chance="9174" itemid="5494" max="1" min="1"/>
     <drop chance="6803" itemid="5525" max="1" min="1"/>
     <drop chance="6803" itemid="5526" max="1" min="1"/>
-    <drop chance="1876" itemid="8730" max="1" min="1"/>
-    <drop chance="863" itemid="8740" max="1" min="1"/>
-    <drop chance="30" itemid="8750" max="1" min="1"/>
+    <drop chance="46" itemid="8751" max="1" min="1"/>
+    <drop chance="93" itemid="8741" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="7319" min="3587"/>
@@ -15206,11 +15186,16 @@
     <drop chance="14" itemid="5301" max="1" min="1"/>
    </category>
    <category id="2">
+    <drop chance="94000" itemid="1344" max="120" min="40"/>
+    <drop chance="40100" itemid="1867" max="15" min="5"/>
+    <drop chance="133700" itemid="1872" max="3" min="1"/>
+    <drop chance="10600" itemid="1894" max="1" min="1"/>
+    <drop chance="66800" itemid="1882" max="1" min="1"/>
+    <drop chance="5025" itemid="4042" max="1" min="1"/>
     <drop chance="402" itemid="5276" max="1" min="1"/>
     <drop chance="2950" itemid="5478" max="1" min="1"/>
     <drop chance="2079" itemid="5479" max="1" min="1"/>
     <drop chance="4630" itemid="5482" max="1" min="1"/>
-    <drop chance="70" itemid="8730" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5849" min="2875"/>
@@ -15267,6 +15252,13 @@
     <drop chance="15" itemid="5308" max="1" min="1"/>
    </category>
    <category id="2">
+    <drop chance="135900" itemid="1344" max="90" min="30"/>
+    <drop chance="81500" itemid="1868" max="12" min="4"/>
+    <drop chance="130500" itemid="1873" max="1" min="1"/>
+    <drop chance="21700" itemid="1889" max="1" min="1"/>
+    <drop chance="10900" itemid="4044" max="1" min="1"/>
+    <drop chance="436" itemid="5166" max="1" min="1"/>
+    <drop chance="32600" itemid="5549" max="1" min="1"/>
     <drop chance="3195" itemid="5485" max="1" min="1"/>
     <drop chance="2252" itemid="5486" max="1" min="1"/>
     <drop chance="5025" itemid="5489" max="1" min="1"/>
@@ -15919,8 +15911,7 @@
     <drop chance="2632" itemid="4109" max="1" min="1"/>
     <drop chance="2632" itemid="4110" max="1" min="1"/>
     <drop chance="3559" itemid="5550" max="1" min="1"/>
-    <drop chance="1205" itemid="8727" max="1" min="1"/>
-    <drop chance="1205" itemid="8737" max="1" min="1"/>
+    <drop chance="72" itemid="8735" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5190" min="2548"/>
@@ -16746,9 +16737,8 @@
     <drop chance="368" itemid="5547" max="1" min="1"/>
     <drop chance="368" itemid="5548" max="1" min="1"/>
     <drop chance="555" itemid="6339" max="1" min="1"/>
-    <drop chance="948" itemid="8730" max="1" min="1"/>
-    <drop chance="223" itemid="8740" max="1" min="1"/>
-    <drop chance="112" itemid="8750" max="1" min="1"/>
+    <drop chance="373" itemid="8331" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1200" min="590"/>
@@ -16813,8 +16803,9 @@
     <drop chance="368" itemid="5547" max="1" min="1"/>
     <drop chance="368" itemid="5548" max="1" min="1"/>
     <drop chance="555" itemid="6339" max="1" min="1"/>
-    <drop chance="1112" itemid="8730" max="1" min="1"/>
     <drop chance="88" itemid="8740" max="1" min="1"/>
+    <drop chance="373" itemid="8331" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1200" min="590"/>
@@ -16879,9 +16870,8 @@
     <drop chance="368" itemid="5547" max="1" min="1"/>
     <drop chance="368" itemid="5548" max="1" min="1"/>
     <drop chance="555" itemid="6339" max="1" min="1"/>
-    <drop chance="1000" itemid="8730" max="1" min="1"/>
-    <drop chance="250" itemid="8740" max="1" min="1"/>
-    <drop chance="36" itemid="8750" max="1" min="1"/>
+    <drop chance="373" itemid="8331" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1200" min="590"/>
@@ -16942,7 +16932,9 @@
     <drop chance="259" itemid="5547" max="1" min="1"/>
     <drop chance="259" itemid="5548" max="1" min="1"/>
     <drop chance="390" itemid="6339" max="1" min="1"/>
-    <drop chance="23" itemid="8730" max="1" min="1"/>
+    <drop chance="109" itemid="8331" max="1" min="1"/>
+    <drop chance="79" itemid="8740" max="1" min="1"/>
+    <drop chance="1" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="844" min="415"/>
@@ -17001,12 +16993,11 @@
     <drop chance="5051" itemid="1875" max="1" min="1"/>
     <drop chance="12600" itemid="1879" max="1" min="1"/>
     <drop chance="1517" itemid="4040" max="1" min="1"/>
-    <drop chance="26" itemid="5456" max="1" min="1"/>
     <drop chance="387" itemid="5547" max="1" min="1"/>
     <drop chance="387" itemid="5548" max="1" min="1"/>
-    <drop chance="1495" itemid="8730" max="1" min="1"/>
     <drop chance="30" itemid="8740" max="1" min="1"/>
-    <drop chance="26" itemid="8750" max="1" min="1"/>
+    <drop chance="206" itemid="8331" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1263" min="622"/>
@@ -17069,12 +17060,10 @@
     <drop chance="5051" itemid="1875" max="1" min="1"/>
     <drop chance="12600" itemid="1879" max="1" min="1"/>
     <drop chance="1517" itemid="4040" max="1" min="1"/>
-    <drop chance="53" itemid="5456" max="1" min="1"/>
     <drop chance="387" itemid="5547" max="1" min="1"/>
     <drop chance="387" itemid="5548" max="1" min="1"/>
-    <drop chance="1362" itemid="8730" max="1" min="1"/>
-    <drop chance="407" itemid="8740" max="1" min="1"/>
-    <drop chance="35" itemid="8750" max="1" min="1"/>
+    <drop chance="206" itemid="8331" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1263" min="622"/>
@@ -17137,12 +17126,10 @@
     <drop chance="5051" itemid="1875" max="1" min="1"/>
     <drop chance="12600" itemid="1879" max="1" min="1"/>
     <drop chance="1517" itemid="4040" max="1" min="1"/>
-    <drop chance="55" itemid="5456" max="1" min="1"/>
     <drop chance="387" itemid="5547" max="1" min="1"/>
     <drop chance="387" itemid="5548" max="1" min="1"/>
-    <drop chance="922" itemid="8730" max="1" min="1"/>
-    <drop chance="289" itemid="8740" max="1" min="1"/>
-    <drop chance="14" itemid="8750" max="1" min="1"/>
+    <drop chance="206" itemid="8331" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1263" min="622"/>
@@ -17204,7 +17191,8 @@
     <drop chance="273" itemid="5547" max="1" min="1"/>
     <drop chance="273" itemid="5548" max="1" min="1"/>
     <drop chance="78" itemid="8331" max="1" min="1"/>
-    <drop chance="64" itemid="8730" max="1" min="1"/>
+    <drop chance="58" itemid="8740" max="1" min="1"/>
+    <drop chance="1" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="888" min="437"/>
@@ -17532,9 +17520,8 @@
     <drop chance="703" itemid="4041" max="1" min="1"/>
     <drop chance="413" itemid="5547" max="1" min="1"/>
     <drop chance="413" itemid="5548" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
     <drop chance="274" itemid="8331" max="1" min="1"/>
-    <drop chance="1433" itemid="8730" max="1" min="1"/>
-    <drop chance="209" itemid="8740" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1347" min="661"/>
@@ -17599,10 +17586,8 @@
     <drop chance="703" itemid="4041" max="1" min="1"/>
     <drop chance="413" itemid="5547" max="1" min="1"/>
     <drop chance="413" itemid="5548" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
     <drop chance="274" itemid="8331" max="1" min="1"/>
-    <drop chance="771" itemid="8730" max="1" min="1"/>
-    <drop chance="297" itemid="8740" max="1" min="1"/>
-    <drop chance="59" itemid="8750" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1347" min="661"/>
@@ -17665,14 +17650,10 @@
     <drop chance="5376" itemid="1875" max="1" min="1"/>
     <drop chance="10800" itemid="1881" max="1" min="1"/>
     <drop chance="703" itemid="4041" max="1" min="1"/>
-    <drop chance="77" itemid="5456" max="1" min="1"/>
     <drop chance="413" itemid="5547" max="1" min="1"/>
     <drop chance="413" itemid="5548" max="1" min="1"/>
+    <drop chance="2" itemid="7884" max="1" min="1"/>
     <drop chance="274" itemid="8331" max="1" min="1"/>
-    <drop chance="1225" itemid="8730" max="1" min="1"/>
-    <drop chance="485" itemid="8740" max="1" min="1"/>
-    <drop chance="77" itemid="8750" max="1" min="1"/>
-    <drop chance="26" itemid="8760" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1347" min="661"/>
@@ -17734,8 +17715,8 @@
     <drop chance="290" itemid="5547" max="1" min="1"/>
     <drop chance="290" itemid="5548" max="1" min="1"/>
     <drop chance="143" itemid="8331" max="1" min="1"/>
-    <drop chance="90" itemid="8730" max="1" min="1"/>
-    <drop chance="75" itemid="8750" max="1" min="1"/>
+    <drop chance="65" itemid="8740" max="1" min="1"/>
+    <drop chance="1" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="947" min="465"/>
@@ -17796,10 +17777,9 @@
     <drop chance="1178" itemid="5547" max="1" min="1"/>
     <drop chance="1178" itemid="5548" max="1" min="1"/>
     <drop chance="3077" itemid="5550" max="1" min="1"/>
+    <drop chance="4" itemid="7884" max="1" min="1"/>
     <drop chance="800" itemid="8331" max="1" min="1"/>
-    <drop chance="2899" itemid="8730" max="1" min="1"/>
     <drop chance="36" itemid="8740" max="1" min="1"/>
-    <drop chance="126" itemid="8750" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="3844" min="1891"/>
@@ -17861,7 +17841,9 @@
     <drop chance="1252" itemid="5547" max="1" min="1"/>
     <drop chance="1252" itemid="5548" max="1" min="1"/>
     <drop chance="3268" itemid="5550" max="1" min="1"/>
+    <drop chance="5" itemid="7884" max="1" min="1"/>
     <drop chance="855" itemid="8331" max="1" min="1"/>
+    <drop chance="21" itemid="8760" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="4085" min="2012"/>
@@ -17924,6 +17906,7 @@
     <drop chance="3185" itemid="4041" max="1" min="1"/>
     <drop chance="136" itemid="5456" max="1" min="1"/>
     <drop chance="3745" itemid="5535" max="1" min="1"/>
+    <drop chance="218" itemid="8740" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6099" min="2998"/>
@@ -17987,6 +17970,7 @@
     <drop chance="6135" itemid="4042" max="1" min="1"/>
     <drop chance="163" itemid="5162" max="1" min="1"/>
     <drop chance="3759" itemid="5536" max="1" min="1"/>
+    <drop chance="231" itemid="8740" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6141" min="3013"/>
@@ -18130,8 +18114,7 @@
     <drop chance="1938" itemid="5547" max="1" min="1"/>
     <drop chance="1938" itemid="5548" max="1" min="1"/>
     <drop chance="1114" itemid="8331" max="1" min="1"/>
-    <drop chance="2551" itemid="8730" max="1" min="1"/>
-    <drop chance="715" itemid="8740" max="1" min="1"/>
+    <drop chance="133" itemid="8750" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6336" min="3103"/>
@@ -18202,9 +18185,8 @@
     <drop chance="1908" itemid="5543" max="1" min="1"/>
     <drop chance="746" itemid="8341" max="1" min="1"/>
     <drop chance="1242" itemid="8346" max="1" min="1"/>
-    <drop chance="2907" itemid="8730" max="1" min="1"/>
-    <drop chance="529" itemid="8740" max="1" min="1"/>
-    <drop chance="132" itemid="8760" max="1" min="1"/>
+    <drop chance="7" itemid="7899" max="1" min="1"/>
+    <drop chance="7" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6233" min="3053"/>
@@ -18422,11 +18404,10 @@
     <drop chance="1639" itemid="5406" max="1" min="1"/>
     <drop chance="1848" itemid="5532" max="1" min="1"/>
     <drop chance="1866" itemid="5543" max="1" min="1"/>
+    <drop chance="6" itemid="7899" max="1" min="1"/>
     <drop chance="901" itemid="8341" max="1" min="1"/>
     <drop chance="1103" itemid="8346" max="1" min="1"/>
-    <drop chance="1502" itemid="8731" max="1" min="1"/>
     <drop chance="113" itemid="8741" max="1" min="1"/>
-    <drop chance="88" itemid="8751" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6095" min="2993"/>
@@ -18496,9 +18477,8 @@
     <drop chance="2747" itemid="5543" max="1" min="1"/>
     <drop chance="1261" itemid="8341" max="1" min="1"/>
     <drop chance="1664" itemid="8346" max="1" min="1"/>
-    <drop chance="2066" itemid="8731" max="1" min="1"/>
-    <drop chance="172" itemid="8741" max="1" min="1"/>
-    <drop chance="172" itemid="8751" max="1" min="1"/>
+    <drop chance="9" itemid="7899" max="1" min="1"/>
+    <drop chance="9" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8980" min="4406"/>
@@ -18570,9 +18550,9 @@
     <drop chance="2024" itemid="5543" max="1" min="1"/>
     <drop chance="737" itemid="8341" max="1" min="1"/>
     <drop chance="829" itemid="8346" max="1" min="1"/>
-    <drop chance="3484" itemid="8731" max="1" min="1"/>
     <drop chance="380" itemid="8741" max="1" min="1"/>
-    <drop chance="174" itemid="8751" max="1" min="1"/>
+    <drop chance="7" itemid="7899" max="1" min="1"/>
+    <drop chance="7" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6613" min="3244"/>
@@ -18712,10 +18692,8 @@
     <drop chance="2571" itemid="5547" max="1" min="1"/>
     <drop chance="2571" itemid="5548" max="1" min="1"/>
     <drop chance="50400" itemid="5549" max="1" min="1"/>
+    <drop chance="9" itemid="7884" max="1" min="1"/>
     <drop chance="1629" itemid="8331" max="1" min="1"/>
-    <drop chance="2890" itemid="8731" max="1" min="1"/>
-    <drop chance="362" itemid="8741" max="1" min="1"/>
-    <drop chance="723" itemid="8751" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8414" min="4124"/>
@@ -18789,9 +18767,9 @@
     <drop chance="3425" itemid="5543" max="1" min="1"/>
     <drop chance="2183" itemid="8341" max="1" min="1"/>
     <drop chance="1761" itemid="8346" max="1" min="1"/>
-    <drop chance="3086" itemid="8731" max="1" min="1"/>
     <drop chance="287" itemid="8741" max="1" min="1"/>
-    <drop chance="154" itemid="8761" max="1" min="1"/>
+    <drop chance="11" itemid="7899" max="1" min="1"/>
+    <drop chance="11" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="11179" min="5479"/>
@@ -18870,9 +18848,8 @@
     <drop chance="187100" itemid="1344" max="120" min="40"/>
    </category>
    <category id="4">
-    <drop chance="3906" itemid="8731" max="1" min="1"/>
-    <drop chance="976" itemid="8741" max="1" min="1"/>
-    <drop chance="488" itemid="8751" max="1" min="1"/>
+    <drop chance="12" itemid="7899" max="1" min="1"/>
+    <drop chance="12" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="11652" min="5710"/>
@@ -18944,10 +18921,9 @@
     <drop chance="3521" itemid="5547" max="1" min="1"/>
     <drop chance="3521" itemid="5548" max="1" min="1"/>
     <drop chance="69000" itemid="5549" max="1" min="1"/>
+    <drop chance="12" itemid="7884" max="1" min="1"/>
     <drop chance="3135" itemid="8331" max="1" min="1"/>
-    <drop chance="3559" itemid="8732" max="1" min="1"/>
     <drop chance="465" itemid="8742" max="1" min="1"/>
-    <drop chance="76" itemid="8752" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="11517" min="5625"/>
@@ -19908,10 +19884,8 @@
     <drop chance="4566" itemid="4042" max="1" min="1"/>
     <drop chance="1631" itemid="5547" max="1" min="1"/>
     <drop chance="1631" itemid="5548" max="1" min="1"/>
+    <drop chance="6" itemid="7884" max="1" min="1"/>
     <drop chance="794" itemid="8331" max="1" min="1"/>
-    <drop chance="1131" itemid="8732" max="1" min="1"/>
-    <drop chance="696" itemid="8742" max="1" min="1"/>
-    <drop chance="87" itemid="8752" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5333" min="2610"/>
@@ -19977,9 +19951,8 @@
     <drop chance="1577" itemid="5543" max="1" min="1"/>
     <drop chance="787" itemid="8341" max="1" min="1"/>
     <drop chance="831" itemid="8346" max="1" min="1"/>
-    <drop chance="1091" itemid="8732" max="1" min="1"/>
-    <drop chance="293" itemid="8742" max="1" min="1"/>
-    <drop chance="42" itemid="8752" max="1" min="1"/>
+    <drop chance="6" itemid="7899" max="1" min="1"/>
+    <drop chance="6" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5157" min="2524"/>
@@ -20112,9 +20085,8 @@
     <drop chance="188" itemid="5277" max="1" min="1"/>
     <drop chance="1795" itemid="5547" max="1" min="1"/>
     <drop chance="1795" itemid="5548" max="1" min="1"/>
+    <drop chance="6" itemid="7884" max="1" min="1"/>
     <drop chance="1667" itemid="8331" max="1" min="1"/>
-    <drop chance="2083" itemid="8732" max="1" min="1"/>
-    <drop chance="719" itemid="8742" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5868" min="2875"/>
@@ -20183,9 +20155,8 @@
     <drop chance="28100" itemid="6671" max="1" min="1"/>
     <drop chance="814" itemid="8341" max="1" min="1"/>
     <drop chance="678" itemid="8346" max="1" min="1"/>
-    <drop chance="2033" itemid="8732" max="1" min="1"/>
-    <drop chance="170" itemid="8742" max="1" min="1"/>
-    <drop chance="57" itemid="8752" max="1" min="1"/>
+    <drop chance="6" itemid="7899" max="1" min="1"/>
+    <drop chance="6" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5626" min="2756"/>
@@ -20330,9 +20301,8 @@
     <drop chance="1344" itemid="5544" max="1" min="1"/>
     <drop chance="782" itemid="8342" max="1" min="1"/>
     <drop chance="684" itemid="8349" max="1" min="1"/>
-    <drop chance="1443" itemid="8732" max="1" min="1"/>
-    <drop chance="259" itemid="8742" max="1" min="1"/>
-    <drop chance="22" itemid="8752" max="1" min="1"/>
+    <drop chance="4" itemid="7902" max="1" min="1"/>
+    <drop chance="4" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5451" min="2671"/>
@@ -20472,9 +20442,8 @@
     <drop chance="1479" itemid="5544" max="1" min="1"/>
     <drop chance="594" itemid="8342" max="1" min="1"/>
     <drop chance="594" itemid="8349" max="1" min="1"/>
-    <drop chance="1894" itemid="8732" max="1" min="1"/>
-    <drop chance="1056" itemid="8742" max="1" min="1"/>
-    <drop chance="44" itemid="8752" max="1" min="1"/>
+    <drop chance="4" itemid="7902" max="1" min="1"/>
+    <drop chance="4" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6000" min="2939"/>
@@ -20541,9 +20510,9 @@
     <drop chance="1418" itemid="5544" max="1" min="1"/>
     <drop chance="466" itemid="8342" max="1" min="1"/>
     <drop chance="622" itemid="8349" max="1" min="1"/>
-    <drop chance="1538" itemid="8732" max="1" min="1"/>
     <drop chance="320" itemid="8742" max="1" min="1"/>
-    <drop chance="57" itemid="8752" max="1" min="1"/>
+    <drop chance="4" itemid="7902" max="1" min="1"/>
+    <drop chance="4" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="5760" min="2813"/>
@@ -21149,8 +21118,8 @@
     <drop chance="2062" itemid="5544" max="1" min="1"/>
     <drop chance="825" itemid="8342" max="1" min="1"/>
     <drop chance="891" itemid="8349" max="1" min="1"/>
-    <drop chance="2660" itemid="8732" max="1" min="1"/>
-    <drop chance="1403" itemid="8742" max="1" min="1"/>
+    <drop chance="6" itemid="7902" max="1" min="1"/>
+    <drop chance="6" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8367" min="4098"/>
@@ -23646,7 +23615,8 @@
     <drop chance="2564" itemid="5544" max="1" min="1"/>
     <drop chance="1828" itemid="8342" max="1" min="1"/>
     <drop chance="914" itemid="8349" max="1" min="1"/>
-    <drop chance="3521" itemid="8732" max="1" min="1"/>
+    <drop chance="7" itemid="7902" max="1" min="1"/>
+    <drop chance="7" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="10393" min="5093"/>
@@ -24428,8 +24398,8 @@
     <drop chance="3367" itemid="5544" max="1" min="1"/>
     <drop chance="2024" itemid="8342" max="1" min="1"/>
     <drop chance="505" itemid="8349" max="1" min="1"/>
-    <drop chance="3745" itemid="8732" max="1" min="1"/>
-    <drop chance="624" itemid="8742" max="1" min="1"/>
+    <drop chance="10" itemid="7902" max="1" min="1"/>
+    <drop chance="10" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="13681" min="6703"/>
@@ -26039,7 +26009,8 @@
     <drop chance="2597" itemid="5544" max="1" min="1"/>
     <drop chance="1818" itemid="8342" max="1" min="1"/>
     <drop chance="605" itemid="8349" max="1" min="1"/>
-    <drop chance="1887" itemid="8732" max="1" min="1"/>
+    <drop chance="8" itemid="7902" max="1" min="1"/>
+    <drop chance="8" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="10537" min="5146"/>
@@ -26372,8 +26343,9 @@
     <drop chance="2740" itemid="5544" max="1" min="1"/>
     <drop chance="1639" itemid="8342" max="1" min="1"/>
     <drop chance="1475" itemid="8349" max="1" min="1"/>
-    <drop chance="2410" itemid="8732" max="1" min="1"/>
     <drop chance="486" itemid="8742" max="1" min="1"/>
+    <drop chance="8" itemid="7902" max="1" min="1"/>
+    <drop chance="8" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="11138" min="5438"/>
@@ -26440,8 +26412,8 @@
     <drop chance="2571" itemid="5544" max="1" min="1"/>
     <drop chance="1376" itemid="8342" max="1" min="1"/>
     <drop chance="1548" itemid="8349" max="1" min="1"/>
-    <drop chance="5435" itemid="8732" max="1" min="1"/>
-    <drop chance="1209" itemid="8742" max="1" min="1"/>
+    <drop chance="7" itemid="7902" max="1" min="1"/>
+    <drop chance="7" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="10455" min="5104"/>
@@ -28028,8 +28000,8 @@
     <drop chance="578" itemid="6329" max="1" min="1"/>
     <drop chance="479" itemid="8330" max="1" min="1"/>
     <drop chance="417" itemid="8336" max="1" min="1"/>
-    <drop chance="1072" itemid="8729" max="1" min="1"/>
-    <drop chance="513" itemid="8739" max="1" min="1"/>
+    <drop chance="5" itemid="7883" max="1" min="1"/>
+    <drop chance="5" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1673" min="827"/>
@@ -31856,8 +31828,8 @@
     <drop chance="801" itemid="6337" max="1" min="1"/>
     <drop chance="335" itemid="8341" max="1" min="1"/>
     <drop chance="671" itemid="8346" max="1" min="1"/>
-    <drop chance="1041" itemid="8740" max="1" min="1"/>
-    <drop chance="1041" itemid="8750" max="1" min="1"/>
+    <drop chance="3" itemid="7899" max="1" min="1"/>
+    <drop chance="3" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="3034" min="1494"/>
@@ -32055,9 +32027,8 @@
     <drop chance="58" itemid="5272" max="1" min="1"/>
     <drop chance="661" itemid="5532" max="1" min="1"/>
     <drop chance="667" itemid="5543" max="1" min="1"/>
+    <drop chance="3" itemid="7894" max="1" min="1"/>
     <drop chance="1513" itemid="8341" max="1" min="1"/>
-    <drop chance="2674" itemid="8730" max="1" min="1"/>
-    <drop chance="2674" itemid="8740" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2179" min="1069"/>
@@ -32838,10 +32809,10 @@
     <drop chance="14700" itemid="5549" max="1" min="1"/>
     <drop chance="642" itemid="8330" max="1" min="1"/>
     <drop chance="569" itemid="8336" max="1" min="1"/>
-    <drop chance="1730" itemid="8729" max="1" min="1"/>
     <drop chance="46" itemid="8739" max="1" min="1"/>
     <drop chance="10" itemid="8749" max="1" min="1"/>
-    <drop chance="22" itemid="8759" max="1" min="1"/>
+    <drop chance="7" itemid="7883" max="1" min="1"/>
+    <drop chance="7" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2445" min="1207"/>
@@ -33452,8 +33423,9 @@
     <drop chance="504" itemid="6335" max="1" min="1"/>
     <drop chance="636" itemid="8330" max="1" min="1"/>
     <drop chance="672" itemid="8336" max="1" min="1"/>
-    <drop chance="1062" itemid="8729" max="1" min="1"/>
     <drop chance="69" itemid="8739" max="1" min="1"/>
+    <drop chance="7" itemid="7883" max="1" min="1"/>
+    <drop chance="7" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2542" min="1253"/>
@@ -33855,8 +33827,8 @@
     <drop chance="520" itemid="5392" max="1" min="1"/>
     <drop chance="738" itemid="8330" max="1" min="1"/>
     <drop chance="553" itemid="8336" max="1" min="1"/>
-    <drop chance="1230" itemid="8729" max="1" min="1"/>
-    <drop chance="122" itemid="8739" max="1" min="1"/>
+    <drop chance="8" itemid="7883" max="1" min="1"/>
+    <drop chance="8" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2731" min="1349"/>
@@ -36122,6 +36094,7 @@
     <drop chance="69" itemid="5466" max="1" min="1"/>
     <drop chance="2198" itemid="5542" max="1" min="1"/>
     <drop chance="18600" itemid="5549" max="1" min="1"/>
+    <drop chance="62" itemid="8740" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="3621" min="1780"/>
@@ -36709,13 +36682,14 @@
     <drop chance="162300" itemid="1869" max="1" min="1"/>
     <drop chance="64900" itemid="1878" max="1" min="1"/>
     <drop chance="99900" itemid="1884" max="1" min="1"/>
-    <drop chance="46" itemid="3036" max="1" min="1"/>
     <drop chance="5405" itemid="4039" max="1" min="1"/>
     <drop chance="958" itemid="5532" max="1" min="1"/>
     <drop chance="967" itemid="5543" max="1" min="1"/>
     <drop chance="163" itemid="6901" max="1" min="1"/>
     <drop chance="571" itemid="8341" max="1" min="1"/>
     <drop chance="725" itemid="8346" max="1" min="1"/>
+    <drop chance="4" itemid="7899" max="1" min="1"/>
+    <drop chance="4" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="3160" min="1548"/>
@@ -36780,13 +36754,14 @@
     <drop chance="151400" itemid="1869" max="1" min="1"/>
     <drop chance="60600" itemid="1878" max="1" min="1"/>
     <drop chance="93200" itemid="1884" max="1" min="1"/>
-    <drop chance="103" itemid="3036" max="1" min="1"/>
     <drop chance="5051" itemid="4039" max="1" min="1"/>
     <drop chance="894" itemid="5532" max="1" min="1"/>
     <drop chance="902" itemid="5543" max="1" min="1"/>
     <drop chance="152" itemid="6901" max="1" min="1"/>
     <drop chance="682" itemid="8341" max="1" min="1"/>
     <drop chance="682" itemid="8346" max="1" min="1"/>
+    <drop chance="3" itemid="7899" max="1" min="1"/>
+    <drop chance="3" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2948" min="1444"/>
@@ -37147,8 +37122,7 @@
     <drop chance="799" itemid="5548" max="1" min="1"/>
     <drop chance="135" itemid="6901" max="1" min="1"/>
     <drop chance="435" itemid="8331" max="1" min="1"/>
-    <drop chance="550" itemid="8731" max="1" min="1"/>
-    <drop chance="367" itemid="8741" max="1" min="1"/>
+    <drop chance="3" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2610" min="1282"/>
@@ -37904,7 +37878,8 @@
     <drop chance="716" itemid="5547" max="1" min="1"/>
     <drop chance="716" itemid="5548" max="1" min="1"/>
     <drop chance="454" itemid="8331" max="1" min="1"/>
-    <drop chance="1304" itemid="8730" max="1" min="1"/>
+    <drop chance="116" itemid="8740" max="1" min="1"/>
+    <drop chance="3" itemid="7884" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2336" min="1148"/>
@@ -37975,7 +37950,8 @@
     <drop chance="863" itemid="5543" max="1" min="1"/>
     <drop chance="305" itemid="8341" max="1" min="1"/>
     <drop chance="724" itemid="8346" max="1" min="1"/>
-    <drop chance="763" itemid="8730" max="1" min="1"/>
+    <drop chance="3" itemid="7899" max="1" min="1"/>
+    <drop chance="3" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2816" min="1384"/>
@@ -41396,8 +41372,8 @@
     <drop chance="16500" itemid="5549" max="1" min="1"/>
     <drop chance="351" itemid="8341" max="1" min="1"/>
     <drop chance="677" itemid="8346" max="1" min="1"/>
-    <drop chance="880" itemid="8731" max="1" min="1"/>
-    <drop chance="123" itemid="8741" max="1" min="1"/>
+    <drop chance="3" itemid="7899" max="1" min="1"/>
+    <drop chance="3" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2758" min="1352"/>
@@ -41857,12 +41833,11 @@
     <drop chance="16700" itemid="1881" max="1" min="1"/>
     <drop chance="27900" itemid="1882" max="1" min="1"/>
     <drop chance="1919" itemid="4114" max="1" min="1"/>
-    <drop chance="661" itemid="5392" max="1" min="1"/>
     <drop chance="714" itemid="8330" max="1" min="1"/>
     <drop chance="634" itemid="8336" max="1" min="1"/>
-    <drop chance="909" itemid="8729" max="1" min="1"/>
     <drop chance="12" itemid="8739" max="1" min="1"/>
-    <drop chance="41" itemid="8759" max="1" min="1"/>
+    <drop chance="7" itemid="7883" max="1" min="1"/>
+    <drop chance="7" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2433" min="1203"/>
@@ -47014,7 +46989,9 @@
     <drop chance="108" itemid="5452" max="1" min="1"/>
     <drop chance="959" itemid="8330" max="1" min="1"/>
     <drop chance="1119" itemid="8336" max="1" min="1"/>
-    <drop chance="2801" itemid="8729" max="1" min="1"/>
+    <drop chance="264" itemid="8739" max="1" min="1"/>
+    <drop chance="11" itemid="7883" max="1" min="1"/>
+    <drop chance="11" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="3831" min="1892"/>
@@ -47209,9 +47186,9 @@
     <drop chance="204" itemid="5434" max="1" min="1"/>
     <drop chance="2058" itemid="8330" max="1" min="1"/>
     <drop chance="2273" itemid="8336" max="1" min="1"/>
-    <drop chance="4854" itemid="8729" max="1" min="1"/>
     <drop chance="274" itemid="8739" max="1" min="1"/>
-    <drop chance="384" itemid="8749" max="1" min="1"/>
+    <drop chance="26" itemid="7883" max="1" min="1"/>
+    <drop chance="26" itemid="7889" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="9145" min="4510"/>
@@ -48645,7 +48622,8 @@
     <drop chance="10000" itemid="6671" max="1" min="1"/>
     <drop chance="694" itemid="8341" max="1" min="1"/>
     <drop chance="316" itemid="8346" max="1" min="1"/>
-    <drop chance="1250" itemid="8730" max="1" min="1"/>
+    <drop chance="2" itemid="7899" max="1" min="1"/>
+    <drop chance="2" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2000" min="983"/>
@@ -49019,9 +48997,8 @@
   <drops>
    <category id="1">
     <drop chance="355800" itemid="6671" max="9" min="3"/>
-    <drop chance="45455" itemid="8730" max="1" min="1"/>
+    <drop chance="60" itemid="8760" max="1" min="1"/>
     <drop chance="400" itemid="8740" max="1" min="1"/>
-    <drop chance="365" itemid="8750" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="10676" min="5248"/>
@@ -49205,10 +49182,9 @@
     <drop chance="3745" itemid="5543" max="1" min="1"/>
     <drop chance="1727" itemid="8341" max="1" min="1"/>
     <drop chance="1263" itemid="8346" max="1" min="1"/>
-    <drop chance="5556" itemid="8731" max="1" min="1"/>
-    <drop chance="1733" itemid="8741" max="1" min="1"/>
-    <drop chance="120" itemid="8751" max="1" min="1"/>
     <drop chance="14" itemid="8761" max="1" min="1"/>
+    <drop chance="13" itemid="7899" max="1" min="1"/>
+    <drop chance="13" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="12248" min="6003"/>
@@ -49799,8 +49775,7 @@
     <drop chance="3257" itemid="4041" max="1" min="1"/>
     <drop chance="1916" itemid="5522" max="1" min="1"/>
     <drop chance="1916" itemid="5523" max="1" min="1"/>
-    <drop chance="5988" itemid="8732" max="1" min="1"/>
-    <drop chance="854" itemid="8752" max="1" min="1"/>
+    <drop chance="2342" itemid="8742" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="6253" min="3063"/>
@@ -50329,8 +50304,9 @@
     <drop chance="161" itemid="5544" max="1" min="1"/>
     <drop chance="50" itemid="8342" max="1" min="1"/>
     <drop chance="50" itemid="8349" max="1" min="1"/>
-    <drop chance="329" itemid="8732" max="1" min="1"/>
     <drop chance="200" itemid="8742" max="1" min="1"/>
+    <drop chance="1" itemid="7902" max="1" min="1"/>
+    <drop chance="1" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="651" min="319"/>
@@ -50458,9 +50434,9 @@
     <drop chance="3922" itemid="5544" max="1" min="1"/>
     <drop chance="2008" itemid="8342" max="1" min="1"/>
     <drop chance="2141" itemid="8349" max="1" min="1"/>
-    <drop chance="4651" itemid="8732" max="1" min="1"/>
-    <drop chance="903" itemid="8742" max="1" min="1"/>
     <drop chance="118" itemid="8752" max="1" min="1"/>
+    <drop chance="11" itemid="7902" max="1" min="1"/>
+    <drop chance="11" itemid="7895" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="15940" min="7810"/>
@@ -50958,9 +50934,8 @@
     <drop chance="2681" itemid="6901" max="1" min="1"/>
     <drop chance="1001" itemid="8341" max="1" min="1"/>
     <drop chance="723" itemid="8346" max="1" min="1"/>
-    <drop chance="5882" itemid="8732" max="1" min="1"/>
-    <drop chance="1016" itemid="8742" max="1" min="1"/>
-    <drop chance="381" itemid="8752" max="1" min="1"/>
+    <drop chance="8" itemid="7899" max="1" min="1"/>
+    <drop chance="8" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="7457" min="3642"/>
@@ -51027,8 +51002,8 @@
     <drop chance="1157" itemid="5543" max="1" min="1"/>
     <drop chance="436" itemid="8341" max="1" min="1"/>
     <drop chance="374" itemid="8346" max="1" min="1"/>
-    <drop chance="1062" itemid="8732" max="1" min="1"/>
-    <drop chance="228" itemid="8742" max="1" min="1"/>
+    <drop chance="4" itemid="7899" max="1" min="1"/>
+    <drop chance="4" itemid="7894" max="1" min="1"/>
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="3785" min="1853"/>
