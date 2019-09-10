@@ -27,7 +27,7 @@ def create_new_xml(old_xml_dir, new_xml_dir, new_data_file, has_diff):
             contents = f.read()
         soups[file] = BeautifulSoup(contents, "xml")
 
-    #soups = step_1(soups, npcs_data)
+    soups = step_1(soups, npcs_data)
     soups = step_2(soups, npcs_data, has_diff)
     soups = step_3(soups, npcs_data, old_xml_dir)
 

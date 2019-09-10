@@ -96,6 +96,8 @@
    <category id="57">
     <drop chance="1000000" itemid="57" max="150000" min="120000"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="29003" max="3" min="3"/>
@@ -330,6 +332,8 @@
    </category>
    <category id="55">
     <drop chance="1000000" itemid="57" max="150000" min="100000"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -677,6 +681,8 @@
    <category id="55">
     <drop chance="1000000" itemid="57" max="150000" min="110000"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="29016" max="4" min="4"/>
@@ -1023,6 +1029,8 @@
    <category id="57">
     <drop chance="1000000" itemid="57" max="13000000" min="9000000"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="29020" name="Baium" title="">
@@ -1093,6 +1101,8 @@
    <category id="4">
     <drop chance="400000" itemid="8751" max="2" min="1"/>
     <drop chance="355000" itemid="8752" max="2" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1245,6 +1255,8 @@
    <category id="57">
     <drop chance="1000000" itemid="57" max="220000" min="180000"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="29023" name="Doll Blader" title="">
@@ -1290,6 +1302,8 @@
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="29024" name="Vale master" title="">
@@ -1334,6 +1348,8 @@
   <drops>
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1412,6 +1428,8 @@
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="29027" name="Pirate Zombie" title="">
@@ -1453,6 +1471,8 @@
   <drops>
    <category id="1">
     <drop chance="200000" itemid="1061" max="8" min="4"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1662,6 +1682,8 @@
    <category id="60">
     <drop chance="1000000" itemid="57" max="6000000" min="2000000"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="29029" name="Lavasaurus Pustbon" title="">
@@ -1742,6 +1764,8 @@
     <drop chance="186700" itemid="6652" max="6" min="2"/>
     <drop chance="64800" itemid="6654" max="54" min="18"/>
     <drop chance="41700" itemid="6655" max="42" min="14"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -1863,6 +1887,8 @@
     <drop chance="189400" itemid="6652" max="6" min="2"/>
     <drop chance="65800" itemid="6654" max="54" min="18"/>
     <drop chance="42300" itemid="6655" max="42" min="14"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -1988,6 +2014,8 @@
     <drop chance="66800" itemid="6654" max="54" min="18"/>
     <drop chance="42900" itemid="6655" max="42" min="14"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="29037" name="Fenril Hound Kinaz" title="Family of Valakas">
@@ -2034,6 +2062,8 @@
     <drop chance="195000" itemid="6652" max="6" min="2"/>
     <drop chance="67700" itemid="6654" max="54" min="18"/>
     <drop chance="43500" itemid="6655" max="42" min="14"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -2160,6 +2190,8 @@
     <drop chance="197600" itemid="6652" max="6" min="2"/>
     <drop chance="68600" itemid="6654" max="54" min="18"/>
     <drop chance="44100" itemid="6655" max="42" min="14"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>

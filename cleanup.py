@@ -15,7 +15,7 @@ def cleanup(old_xml_dir, new_xml_dir):
                     drops = npc.find_all("drop")
                     if dropblock and not drops:
                         npc_id = eval(npc["id"])
-                        print npc_id
+                        print(npc_id)
                         dropblock.decompose()
 
             with open(os.path.join(new_xml_dir, file), "w") as f:

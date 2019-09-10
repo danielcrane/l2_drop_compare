@@ -58,6 +58,8 @@
    <category id="4">
     <drop chance="286600" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25002" max="3" min="3"/>
@@ -105,6 +107,8 @@
    <category id="1">
     <drop chance="919300" itemid="17" max="30" min="10"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25003" name="Pawn of Kutus" title="Raid Fighter">
@@ -146,6 +150,8 @@
   <drops>
    <category id="1">
     <drop chance="408600" itemid="1060" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -206,6 +212,8 @@
     <drop chance="421300" itemid="2038" max="12" min="4"/>
     <drop chance="275700" itemid="6387" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25005" max="3" min="3"/>
@@ -252,6 +260,8 @@
    <category id="1">
     <drop chance="8621" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25006" name="Turek Mercenary Warrior" title="Raid Fighter">
@@ -291,6 +301,8 @@
   <drops>
    <category id="1">
     <drop chance="859400" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -353,6 +365,8 @@
     <drop chance="674600" itemid="952" max="36" min="12"/>
     <drop chance="216000" itemid="2086" max="22" min="8"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25008" max="2" min="2"/>
@@ -400,6 +414,8 @@
    <category id="1">
     <drop chance="16200" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25009" name="Cletu's Pawn" title="Raid Fighter">
@@ -439,6 +455,8 @@
   <drops>
    <category id="1">
     <drop chance="810700" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -502,6 +520,8 @@
     <drop chance="250000" itemid="8171" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25011" max="3" min="3"/>
@@ -548,6 +568,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25012" name="Follower of Thieles" title="Raid Fighter">
@@ -588,6 +610,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -657,6 +681,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="7" min="7"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25014" max="1" min="1"/>
@@ -705,6 +731,8 @@
    <category id="1">
     <drop chance="154500" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25015" name="Ghost of Peasant" title="Raid Fighter">
@@ -747,6 +775,8 @@
   <drops>
    <category id="1">
     <drop chance="695200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -926,6 +956,8 @@
    <category id="4">
     <drop chance="586100" itemid="956" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25020" name="Breka Warlock Pastu" title="Raid Boss">
@@ -988,6 +1020,8 @@
     <drop chance="202000" itemid="2048" max="6" min="2"/>
     <drop chance="361900" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25021" max="2" min="2"/>
@@ -1037,6 +1071,8 @@
    <category id="1">
     <drop chance="10700" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25022" name="Pastu's Shadow" title="Raid Fighter">
@@ -1079,6 +1115,8 @@
   <drops>
    <category id="1">
     <drop chance="536000" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1137,6 +1175,8 @@
    <category id="4">
     <drop chance="796400" itemid="951" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25024" max="1" min="1"/>
@@ -1182,6 +1222,8 @@
    <category id="1">
     <drop chance="10700" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25025" name="Jeruna's Guard" title="Raid Fighter">
@@ -1221,6 +1263,8 @@
   <drops>
    <category id="1">
     <drop chance="536000" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1286,6 +1330,8 @@
     <drop chance="250000" itemid="8158" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25027" max="3" min="3"/>
@@ -1332,6 +1378,8 @@
    <category id="1">
     <drop chance="666400" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25028" name="Katu Van Raider" title="Raid Fighter">
@@ -1371,6 +1419,8 @@
   <drops>
    <category id="1">
     <drop chance="148100" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1434,6 +1484,8 @@
     <drop chance="229300" itemid="4614" max="4" min="2"/>
     <drop chance="172000" itemid="4615" max="6" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25030" max="2" min="2"/>
@@ -1481,6 +1533,8 @@
    <category id="1">
     <drop chance="174600" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25031" name="Atraiban's Disciple" title="Raid Fighter">
@@ -1520,6 +1574,8 @@
   <drops>
    <category id="1">
     <drop chance="785600" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1581,6 +1637,8 @@
    <category id="4">
     <drop chance="168200" itemid="6570" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25033" max="3" min="3"/>
@@ -1628,6 +1686,8 @@
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25034" name="Mellenu Guard Warrior" title="Raid Fighter">
@@ -1670,6 +1730,8 @@
   <drops>
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1736,6 +1798,8 @@
    <category id="4">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25036" max="3" min="3"/>
@@ -1784,6 +1848,8 @@
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25037" name="Cabrio Blader" title="Raid Fighter">
@@ -1825,6 +1891,8 @@
   <drops>
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -1889,6 +1957,8 @@
    <category id="4">
     <drop chance="841700" itemid="955" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25039" max="1" min="1"/>
@@ -1936,6 +2006,8 @@
    <category id="1">
     <drop chance="7812" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25040" name="Tirak's Knight" title="Raid Fighter">
@@ -1978,6 +2050,8 @@
   <drops>
    <category id="1">
     <drop chance="781200" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2036,6 +2110,8 @@
     <drop chance="130300" itemid="2933" max="136" min="46"/>
     <drop chance="283400" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25042" max="3" min="3"/>
@@ -2082,6 +2158,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25043" name="Remmel's Guard" title="Raid Fighter">
@@ -2121,6 +2199,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2190,6 +2270,8 @@
     <drop chance="250000" itemid="8158" max="2" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25045" max="2" min="2"/>
@@ -2237,6 +2319,8 @@
    <category id="1">
     <drop chance="612000" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25046" name="Barion's Grunt" title="Raid Fighter">
@@ -2279,6 +2363,8 @@
   <drops>
    <category id="1">
     <drop chance="136000" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2355,6 +2441,8 @@
    <category id="5">
     <drop chance="250000" itemid="8158" max="9" min="9"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25048" max="1" min="1"/>
@@ -2402,6 +2490,8 @@
    <category id="1">
     <drop chance="666400" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25049" name="Karte's Royal Guard" title="Raid Fighter">
@@ -2444,6 +2534,8 @@
   <drops>
    <category id="1">
     <drop chance="148100" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2507,6 +2599,8 @@
     <drop chance="133000" itemid="4611" max="4" min="2"/>
     <drop chance="250000" itemid="8159" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2573,6 +2667,8 @@
     <drop chance="250000" itemid="8160" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="4" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25052" max="2" min="2"/>
@@ -2620,6 +2716,8 @@
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25053" name="Fanatics of Rahha" title="Raid Fighter">
@@ -2660,6 +2758,8 @@
   <drops>
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2730,6 +2830,8 @@
     <drop chance="47700" itemid="959" max="1" min="1"/>
     <drop chance="477300" itemid="960" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25055" max="1" min="1"/>
@@ -2777,6 +2879,8 @@
    <category id="1">
     <drop chance="349200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25056" name="Vemsk" title="Raid Fighter">
@@ -2818,6 +2922,8 @@
   <drops>
    <category id="1">
     <drop chance="349200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -2881,6 +2987,8 @@
    </category>
    <category id="5">
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25058" max="3" min="3"/>
@@ -2929,6 +3037,8 @@
    <category id="1">
     <drop chance="559200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25059" name="Biconne's Warrior" title="Raid Fighter">
@@ -2970,6 +3080,8 @@
   <drops>
    <category id="1">
     <drop chance="124300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3030,6 +3142,8 @@
     <drop chance="247300" itemid="956" max="22" min="8"/>
     <drop chance="92700" itemid="6387" max="72" min="24"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25061" max="3" min="3"/>
@@ -3077,6 +3191,8 @@
    <category id="1">
     <drop chance="116400" itemid="1061" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25062" name="Kael's Escort" title="Raid Fighter">
@@ -3118,6 +3234,8 @@
   <drops>
    <category id="1">
     <drop chance="213300" itemid="1832" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3178,6 +3296,8 @@
    </category>
    <category id="4">
     <drop chance="901600" itemid="951" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3260,6 +3380,8 @@
     <drop chance="250000" itemid="8170" max="5" min="5"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25065" max="1" min="1"/>
@@ -3305,6 +3427,8 @@
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25066" name="Teruk's Knight" title="Raid Fighter">
@@ -3344,6 +3468,8 @@
   <drops>
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3413,6 +3539,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25068" max="3" min="3"/>
@@ -3459,6 +3587,8 @@
    <category id="1">
     <drop chance="167800" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25069" name="Shaka's Follower" title="Raid Fighter">
@@ -3498,6 +3628,8 @@
   <drops>
    <category id="1">
     <drop chance="755200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3566,6 +3698,8 @@
     <drop chance="250000" itemid="8171" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25071" max="3" min="3"/>
@@ -3613,6 +3747,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25072" name="Ruell's Unicorn" title="Raid Fighter">
@@ -3654,6 +3790,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3722,6 +3860,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25074" max="2" min="2"/>
@@ -3770,6 +3910,8 @@
    <category id="1">
     <drop chance="870500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25075" name="Rudelto's Dre Vanul" title="Raid Fighter">
@@ -3811,6 +3953,8 @@
   <drops>
    <category id="1">
     <drop chance="870500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -3870,6 +4014,8 @@
    <category id="3">
     <drop chance="93800" itemid="6575" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25077" max="1" min="1"/>
@@ -3915,6 +4061,8 @@
    <category id="1">
     <drop chance="225300" itemid="1834" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25078" name="Princess' Guard" title="Raid Fighter">
@@ -3954,6 +4102,8 @@
   <drops>
    <category id="1">
     <drop chance="507000" itemid="17" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4008,6 +4158,8 @@
     <drop chance="39600" itemid="1945" max="576" min="192"/>
     <drop chance="221400" itemid="2042" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25080" max="2" min="2"/>
@@ -4055,6 +4207,8 @@
    <category id="1">
     <drop chance="8621" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25081" name="Cat's Eye Bandit" title="Raid Fighter">
@@ -4094,6 +4248,8 @@
   <drops>
    <category id="1">
     <drop chance="859400" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4154,6 +4310,8 @@
     <drop chance="221400" itemid="4590" max="4" min="2"/>
     <drop chance="113900" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25083" max="3" min="3"/>
@@ -4200,6 +4358,8 @@
    <category id="1">
     <drop chance="698700" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25084" name="Cat Gang" title="Raid Fighter">
@@ -4240,6 +4400,8 @@
   <drops>
    <category id="1">
     <drop chance="14000" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4298,6 +4460,8 @@
     <drop chance="170800" itemid="4603" max="6" min="2"/>
     <drop chance="250000" itemid="8164" max="3" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25086" max="3" min="3"/>
@@ -4344,6 +4508,8 @@
    <category id="1">
     <drop chance="17800" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25087" name="Timak Orc Ranger" title="Raid Fighter">
@@ -4383,6 +4549,8 @@
   <drops>
    <category id="1">
     <drop chance="890700" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4444,6 +4612,8 @@
     <drop chance="436400" itemid="2083" max="12" min="4"/>
     <drop chance="90800" itemid="6573" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="3"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4513,6 +4683,8 @@
     <drop chance="250000" itemid="8165" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25090" max="1" min="1"/>
@@ -4560,6 +4732,8 @@
    <category id="1">
     <drop chance="219600" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25091" name="Soulless Bear" title="Raid Fighter">
@@ -4600,6 +4774,8 @@
   <drops>
    <category id="1">
     <drop chance="988000" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4670,6 +4846,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25093" max="1" min="1"/>
@@ -4715,6 +4893,8 @@
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25094" name="Korim Guards" title="Raid Fighter">
@@ -4754,6 +4934,8 @@
   <drops>
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4814,6 +4996,8 @@
    <category id="5">
     <drop chance="841700" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25096" max="3" min="3"/>
@@ -4861,6 +5045,8 @@
    <category id="1">
     <drop chance="8197" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25097" name="Renoa's Hog" title="Raid Fighter">
@@ -4901,6 +5087,8 @@
   <drops>
    <category id="1">
     <drop chance="821200" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4961,6 +5149,8 @@
     <drop chance="367300" itemid="952" max="9" min="3"/>
     <drop chance="137700" itemid="4589" max="6" min="2"/>
     <drop chance="110200" itemid="4590" max="7" min="3"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5034,6 +5224,8 @@
    <category id="5">
     <drop chance="382100" itemid="952" max="9" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25100" max="2" min="2"/>
@@ -5081,6 +5273,8 @@
    <category id="1">
     <drop chance="17800" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25101" name="Fighter of Sea of Spores" title="Raid Fighter">
@@ -5120,6 +5314,8 @@
   <drops>
    <category id="1">
     <drop chance="890700" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5186,6 +5382,8 @@
     <drop chance="498000" itemid="4609" max="1" min="1"/>
     <drop chance="14900" itemid="6573" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5256,6 +5454,8 @@
     <drop chance="250000" itemid="8165" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25104" max="1" min="1"/>
@@ -5301,6 +5501,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25105" name="Isirr's Guards" title="Raid Fighter">
@@ -5340,6 +5542,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5407,6 +5611,8 @@
     <drop chance="250000" itemid="8159" max="4" min="4"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25107" max="3" min="3"/>
@@ -5455,6 +5661,8 @@
    <category id="1">
     <drop chance="813700" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25108" name="Lidia's Fighter" title="Raid Fighter">
@@ -5496,6 +5704,8 @@
   <drops>
    <category id="1">
     <drop chance="813700" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5564,6 +5774,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25110" max="3" min="3"/>
@@ -5612,6 +5824,8 @@
    <category id="1">
     <drop chance="339000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25111" name="Cloe's Servitor" title="Raid Fighter">
@@ -5654,6 +5868,8 @@
   <drops>
    <category id="1">
     <drop chance="339000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5715,6 +5931,8 @@
    <category id="4">
     <drop chance="746600" itemid="956" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25113" max="3" min="3"/>
@@ -5764,6 +5982,8 @@
    <category id="1">
     <drop chance="8621" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25114" name="Meana's Guard Doll" title="Raid Fighter">
@@ -5806,6 +6026,8 @@
   <drops>
    <category id="1">
     <drop chance="859400" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5995,6 +6217,8 @@
     <drop chance="532200" itemid="4593" max="1" min="1"/>
     <drop chance="10600" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25119" name="Messenger of Fairy Queen Berun" title="Raid Boss">
@@ -6063,6 +6287,8 @@
     <drop chance="284000" itemid="4609" max="6" min="2"/>
     <drop chance="34100" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25120" max="3" min="3"/>
@@ -6109,6 +6335,8 @@
    <category id="1">
     <drop chance="154500" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25121" name="Berun's Prattler" title="Raid Fighter">
@@ -6150,6 +6378,8 @@
   <drops>
    <category id="1">
     <drop chance="695200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6216,6 +6446,8 @@
     <drop chance="250000" itemid="8165" max="2" min="2"/>
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25123" max="1" min="1"/>
@@ -6261,6 +6493,8 @@
    <category id="1">
     <drop chance="196300" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25124" name="Leo's Steward" title="Raid Fighter">
@@ -6300,6 +6534,8 @@
   <drops>
    <category id="1">
     <drop chance="883200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6357,6 +6593,8 @@
     <drop chance="168200" itemid="6570" max="1" min="1"/>
     <drop chance="250000" itemid="8166" max="2" min="2"/>
     <drop chance="250000" itemid="8176" max="7" min="7"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6427,6 +6665,8 @@
     <drop chance="48600" itemid="6689" max="48" min="16"/>
     <drop chance="75700" itemid="6690" max="31" min="11"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25127" name="Langk Matriarch Rashkos" title="Raid Boss">
@@ -6483,6 +6723,8 @@
     <drop chance="31300" itemid="6575" max="1" min="1"/>
     <drop chance="281600" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25128" name="Vuku Grand Seer Gharmash" title="Raid Boss">
@@ -6537,6 +6779,8 @@
     <drop chance="52000" itemid="1907" max="420" min="140"/>
     <drop chance="10900" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25129" max="3" min="3"/>
@@ -6584,6 +6828,8 @@
    <category id="1">
     <drop chance="10100" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25130" name="Gharmash's Pet Trimden" title="Raid Fighter">
@@ -6624,6 +6870,8 @@
   <drops>
    <category id="1">
     <drop chance="505300" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6691,6 +6939,8 @@
     <drop chance="250000" itemid="8159" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25132" max="3" min="3"/>
@@ -6737,6 +6987,8 @@
    <category id="1">
     <drop chance="154500" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25133" name="Gato's Troop Leader" title="Raid Fighter">
@@ -6776,6 +7028,8 @@
   <drops>
    <category id="1">
     <drop chance="695200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6842,6 +7096,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25135" max="2" min="2"/>
@@ -6889,6 +7145,8 @@
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25136" name="Talkin's Bodyguard" title="Raid Fighter">
@@ -6928,6 +7186,8 @@
   <drops>
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6996,6 +7256,8 @@
    <category id="5">
     <drop chance="250000" itemid="8159" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25138" max="3" min="3"/>
@@ -7042,6 +7304,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25139" name="Sephia's Salve" title="Raid Fighter">
@@ -7084,6 +7348,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7150,6 +7416,8 @@
     <drop chance="250000" itemid="8169" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="8" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25141" max="1" min="1"/>
@@ -7195,6 +7463,8 @@
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25142" name="Hekaton Chires" title="Raid Fighter">
@@ -7234,6 +7504,8 @@
   <drops>
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7290,6 +7562,8 @@
     <drop chance="507300" itemid="960" max="1" min="1"/>
     <drop chance="8475" itemid="6577" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25144" max="2" min="2"/>
@@ -7337,6 +7611,8 @@
    <category id="1">
     <drop chance="391800" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25145" name="Shuriel's Paladin" title="Raid Fighter">
@@ -7376,6 +7652,8 @@
   <drops>
    <category id="1">
     <drop chance="391800" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7432,6 +7710,8 @@
     <drop chance="37000" itemid="6575" max="1" min="1"/>
     <drop chance="332800" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25147" max="3" min="3"/>
@@ -7478,6 +7758,8 @@
    <category id="1">
     <drop chance="13700" itemid="735" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25148" name="Butcher of Bifrons" title="Raid Fighter">
@@ -7517,6 +7799,8 @@
   <drops>
    <category id="1">
     <drop chance="13700" itemid="6035" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7575,6 +7859,8 @@
     <drop chance="278900" itemid="2026" max="9" min="3"/>
     <drop chance="540700" itemid="6576" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25150" max="3" min="3"/>
@@ -7623,6 +7909,8 @@
    <category id="1">
     <drop chance="450600" itemid="1060" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25151" name="Evil Spirit Warrior" title="Raid Fighter">
@@ -7665,6 +7953,8 @@
   <drops>
    <category id="1">
     <drop chance="540800" itemid="1831" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7728,6 +8018,8 @@
     <drop chance="133100" itemid="4596" max="6" min="2"/>
     <drop chance="91200" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25153" max="1" min="1"/>
@@ -7774,6 +8066,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25154" name="Whip of Shadar" title="Raid Fighter">
@@ -7816,6 +8110,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7879,6 +8175,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="2" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25156" max="3" min="3"/>
@@ -7926,6 +8224,8 @@
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25157" name="Fanatic Soldier" title="Raid Fighter">
@@ -7966,6 +8266,8 @@
   <drops>
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8036,6 +8338,8 @@
     <drop chance="250000" itemid="8167" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25159" name="Paniel the Unicorn" title="Raid Boss">
@@ -8097,6 +8401,8 @@
     <drop chance="250000" itemid="8171" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25160" max="2" min="2"/>
@@ -8144,6 +8450,8 @@
    <category id="1">
     <drop chance="181700" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25161" name="Ririf the Unicorn" title="Raid Fighter">
@@ -8184,6 +8492,8 @@
   <drops>
    <category id="1">
     <drop chance="817600" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8249,6 +8559,8 @@
     <drop chance="127900" itemid="4624" max="7" min="3"/>
     <drop chance="250000" itemid="8168" max="8" min="4"/>
     <drop chance="250000" itemid="8176" max="6" min="5"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8322,6 +8634,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25166" name="Ikuntai" title="Raid Boss">
@@ -8378,6 +8692,8 @@
     <drop chance="210400" itemid="2027" max="36" min="12"/>
     <drop chance="249800" itemid="6387" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25167" max="2" min="2"/>
@@ -8426,6 +8742,8 @@
    <category id="1">
     <drop chance="540800" itemid="1833" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25168" name="Pawn of Ikuntai" title="Raid Fighter">
@@ -8468,6 +8786,8 @@
   <drops>
    <category id="1">
     <drop chance="33800" itemid="734" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8542,6 +8862,8 @@
     <drop chance="186300" itemid="4555" max="6" min="2"/>
     <drop chance="41400" itemid="6575" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25170" name="Lizardmen Leader Hellion" title="Raid Boss">
@@ -8602,6 +8924,8 @@
    <category id="4">
     <drop chance="539500" itemid="951" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25171" max="3" min="3"/>
@@ -8648,6 +8972,8 @@
    <category id="1">
     <drop chance="664000" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25172" name="Hellion's Guards" title="Raid Fighter">
@@ -8687,6 +9013,8 @@
   <drops>
    <category id="1">
     <drop chance="13300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8742,6 +9070,8 @@
    <category id="3">
     <drop chance="128100" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25174" max="2" min="2"/>
@@ -8788,6 +9118,8 @@
    <category id="1">
     <drop chance="559200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25175" name="Karuta's Inferiors" title="Raid Fighter">
@@ -8827,6 +9159,8 @@
   <drops>
    <category id="1">
     <drop chance="124300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8898,6 +9232,8 @@
     <drop chance="250000" itemid="8159" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25177" max="1" min="1"/>
@@ -8945,6 +9281,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25178" name="Servitor of Black Lily" title="Raid Fighter">
@@ -8986,6 +9324,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -9051,6 +9391,8 @@
     <drop chance="250000" itemid="8169" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25180" max="3" min="3"/>
@@ -9097,6 +9439,8 @@
    <category id="1">
     <drop chance="227700" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25181" name="Karum's Warrior" title="Raid Fighter">
@@ -9137,6 +9481,8 @@
   <drops>
    <category id="1">
     <drop chance="341600" itemid="1342" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -9202,6 +9548,8 @@
     <drop chance="286200" itemid="5548" max="12" min="4"/>
     <drop chance="96900" itemid="6570" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25183" max="2" min="2"/>
@@ -9250,6 +9598,8 @@
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25184" name="Devil Blader of Chaos" title="Raid Fighter">
@@ -9291,6 +9641,8 @@
   <drops>
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -9353,6 +9705,8 @@
     <drop chance="177400" itemid="4598" max="4" min="2"/>
     <drop chance="133100" itemid="4599" max="6" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25186" max="3" min="3"/>
@@ -9399,6 +9753,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25187" name="Helena's Soldier" title="Raid Fighter">
@@ -9438,6 +9794,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -9510,6 +9868,8 @@
     <drop chance="420100" itemid="4558" max="1" min="1"/>
     <drop chance="210100" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25189" name="Cronos's Servitor Mumu" title="Raid Boss">
@@ -9563,6 +9923,8 @@
    <category id="4">
     <drop chance="273200" itemid="952" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25190" max="3" min="3"/>
@@ -9609,6 +9971,8 @@
    <category id="1">
     <drop chance="10700" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25191" name="Mumu's Warrior" title="Raid Fighter">
@@ -9649,6 +10013,8 @@
   <drops>
    <category id="1">
     <drop chance="536000" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -9709,6 +10075,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25193" max="1" min="1"/>
@@ -9754,6 +10122,8 @@
    <category id="1">
     <drop chance="17000" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25194" name="Panathen's Protectors" title="Raid Fighter">
@@ -9794,6 +10164,8 @@
   <drops>
    <category id="1">
     <drop chance="849300" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -9862,6 +10234,8 @@
    <category id="5">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25199" name="Water Dragon Seer Sheshark" title="Raid Boss">
@@ -9928,6 +10302,8 @@
    <category id="5">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25200" max="3" min="3"/>
@@ -9974,6 +10350,8 @@
    <category id="1">
     <drop chance="957000" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25201" name="Guard of Sheshark" title="Raid Fighter">
@@ -10014,6 +10392,8 @@
   <drops>
    <category id="1">
     <drop chance="957000" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10084,6 +10464,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25203" max="2" min="2"/>
@@ -10130,6 +10512,8 @@
    <category id="1">
     <drop chance="339000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25204" name="Krokian Padisha Sobekk" title="Raid Fighter">
@@ -10170,6 +10554,8 @@
   <drops>
    <category id="1">
     <drop chance="339000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10233,6 +10619,8 @@
    <category id="4">
     <drop chance="806600" itemid="3936" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25206" max="1" min="1"/>
@@ -10278,6 +10666,8 @@
    <category id="1">
     <drop chance="359700" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25207" name="Ashakiel's Rod" title="Raid Fighter">
@@ -10318,6 +10708,8 @@
   <drops>
    <category id="1">
     <drop chance="359700" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10374,6 +10766,8 @@
     <drop chance="250000" itemid="8164" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25209" max="3" min="3"/>
@@ -10420,6 +10814,8 @@
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25210" name="Ateka's Grunt" title="Raid Fighter">
@@ -10460,6 +10856,8 @@
   <drops>
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10518,6 +10916,8 @@
    <category id="4">
     <drop chance="42900" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25212" max="3" min="3"/>
@@ -10564,6 +10964,8 @@
    <category id="1">
     <drop chance="597300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25213" name="Sebek's Fanatic" title="Raid Fighter">
@@ -10603,6 +11005,8 @@
   <drops>
    <category id="1">
     <drop chance="11900" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10665,6 +11069,8 @@
     <drop chance="250000" itemid="8161" max="6" min="5"/>
     <drop chance="250000" itemid="8167" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25215" max="3" min="3"/>
@@ -10712,6 +11118,8 @@
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25216" name="Sika's Fighter" title="Raid Fighter">
@@ -10753,6 +11161,8 @@
   <drops>
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10819,6 +11229,8 @@
     <drop chance="250000" itemid="8165" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25218" max="3" min="3"/>
@@ -10865,6 +11277,8 @@
    <category id="1">
     <drop chance="154500" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25219" name="Clara's Pawn" title="Raid Fighter">
@@ -10904,6 +11318,8 @@
   <drops>
    <category id="1">
     <drop chance="695200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10966,6 +11382,8 @@
    <category id="4">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25221" max="3" min="3"/>
@@ -11014,6 +11432,8 @@
    <category id="1">
     <drop chance="986500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25222" name="Death Fighter Harik" title="Raid Fighter">
@@ -11056,6 +11476,8 @@
   <drops>
    <category id="1">
     <drop chance="986500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11123,6 +11545,8 @@
     <drop chance="551000" itemid="952" max="9" min="3"/>
     <drop chance="206600" itemid="4600" max="6" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25224" max="3" min="3"/>
@@ -11172,6 +11596,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25225" name="Soul Strainer" title="Raid Fighter">
@@ -11215,6 +11641,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11282,6 +11710,8 @@
     <drop chance="250000" itemid="8166" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="8" min="5"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25227" max="2" min="2"/>
@@ -11329,6 +11759,8 @@
    <category id="1">
     <drop chance="244400" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25228" name="Kastor's Prefect" title="Raid Fighter">
@@ -11369,6 +11801,8 @@
   <drops>
    <category id="1">
     <drop chance="366700" itemid="1342" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11432,6 +11866,8 @@
    </category>
    <category id="4">
     <drop chance="894900" itemid="3936" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11498,6 +11934,8 @@
     <drop chance="250000" itemid="8165" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25231" max="1" min="1"/>
@@ -11543,6 +11981,8 @@
    <category id="1">
     <drop chance="203900" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25232" name="Ragoth's Herald" title="Raid Fighter">
@@ -11582,6 +12022,8 @@
   <drops>
    <category id="1">
     <drop chance="917600" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11656,6 +12098,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25234" name="Ancient Weird Drake" title="Raid Boss">
@@ -11724,6 +12168,8 @@
    </category>
    <category id="5">
     <drop chance="250000" itemid="8176" max="3" min="2"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11794,6 +12240,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25236" max="2" min="2"/>
@@ -11841,6 +12289,8 @@
    <category id="1">
     <drop chance="957000" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25237" name="Kandra's Guard" title="Raid Fighter">
@@ -11880,6 +12330,8 @@
   <drops>
    <category id="1">
     <drop chance="957000" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11946,6 +12398,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25239" max="2" min="2"/>
@@ -11993,6 +12447,8 @@
    <category id="1">
     <drop chance="932000" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25240" name="Wild Beast of Abyss Brukunt" title="Raid Fighter">
@@ -12033,6 +12489,8 @@
   <drops>
    <category id="1">
     <drop chance="932000" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12100,6 +12558,8 @@
     <drop chance="207100" itemid="4620" max="4" min="2"/>
     <drop chance="155400" itemid="4621" max="6" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25242" max="3" min="3"/>
@@ -12147,6 +12607,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25243" name="Tamash's Servant" title="Raid Fighter">
@@ -12187,6 +12649,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12244,6 +12708,8 @@
     <drop chance="200000" itemid="6691" max="36" min="12"/>
     <drop chance="305600" itemid="6707" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25245" name="Last Lesser Giant Glaki" title="Raid Boss">
@@ -12299,6 +12765,8 @@
     <drop chance="314400" itemid="6707" max="36" min="12"/>
     <drop chance="208100" itemid="7579" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25246" max="1" min="1"/>
@@ -12344,6 +12812,8 @@
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25247" name="Glaki's Servant" title="Raid Fighter">
@@ -12383,6 +12853,8 @@
   <drops>
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12457,6 +12929,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25249" name="Palatanos of Horrific Power" title="Raid Boss">
@@ -12513,6 +12987,8 @@
     <drop chance="719600" itemid="3936" max="1" min="1"/>
     <drop chance="64000" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25250" max="3" min="3"/>
@@ -12561,6 +13037,8 @@
    <category id="1">
     <drop chance="349200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25251" name="Sapling of Palatanos" title="Raid Fighter">
@@ -12605,6 +13083,8 @@
   <drops>
    <category id="1">
     <drop chance="349200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12674,6 +13154,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25253" max="3" min="3"/>
@@ -12723,6 +13205,8 @@
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25254" name="Themis's Sentinel" title="Raid Fighter">
@@ -12767,6 +13251,8 @@
   <drops>
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12832,6 +13318,8 @@
     <drop chance="250000" itemid="8169" max="2" min="2"/>
     <drop chance="250000" itemid="8176" max="8" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25256" name="Taik High Prefect Arak" title="Raid Boss">
@@ -12888,6 +13376,8 @@
    <category id="3">
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25257" max="3" min="3"/>
@@ -12934,6 +13424,8 @@
    <category id="1">
     <drop chance="227700" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25258" name="Arak's Footman" title="Raid Fighter">
@@ -12973,6 +13465,8 @@
   <drops>
    <category id="1">
     <drop chance="341600" itemid="1342" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13030,6 +13524,8 @@
     <drop chance="207100" itemid="4622" max="4" min="2"/>
     <drop chance="155400" itemid="4623" max="6" min="2"/>
     <drop chance="124300" itemid="4624" max="7" min="3"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13109,6 +13605,8 @@
    <category id="5">
     <drop chance="250000" itemid="8167" max="6" min="6"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25261" max="3" min="3"/>
@@ -13155,6 +13653,8 @@
    <category id="1">
     <drop chance="559200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25262" name="Totem Guard" title="Raid Fighter">
@@ -13194,6 +13694,8 @@
   <drops>
    <category id="1">
     <drop chance="124300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13258,6 +13760,8 @@
     <drop chance="250000" itemid="8166" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="8" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25264" max="3" min="3"/>
@@ -13308,6 +13812,8 @@
    <category id="1">
     <drop chance="932000" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25265" name="Kelone's Secret Knight" title="Raid Fighter">
@@ -13349,6 +13855,8 @@
   <drops>
    <category id="1">
     <drop chance="932000" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13410,6 +13918,8 @@
     <drop chance="477300" itemid="960" max="1" min="1"/>
     <drop chance="7937" itemid="6577" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25267" max="4" min="4"/>
@@ -13458,6 +13968,8 @@
    <category id="1">
     <drop chance="349200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25268" name="Decarbia's Escort" title="Raid Fighter">
@@ -13502,6 +14014,8 @@
   <drops>
    <category id="1">
     <drop chance="349200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13570,6 +14084,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25270" max="3" min="3"/>
@@ -13616,6 +14132,8 @@
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25271" name="Behemoth Flare" title="Raid Fighter">
@@ -13655,6 +14173,8 @@
   <drops>
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13717,6 +14237,8 @@
    </category>
    <category id="4">
     <drop chance="748200" itemid="956" max="36" min="12"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13903,6 +14425,8 @@
    <category id="5">
     <drop chance="894900" itemid="3936" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25277" name="Lilith's Witch Marilion" title="Raid Boss">
@@ -13968,6 +14492,8 @@
     <drop chance="182400" itemid="4605" max="7" min="3"/>
     <drop chance="152000" itemid="4606" max="9" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25278" max="3" min="2"/>
@@ -14018,6 +14544,8 @@
    <category id="1">
     <drop chance="154500" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25279" name="Evil Spirit of Stigma" title="Raid Fighter">
@@ -14061,6 +14589,8 @@
   <drops>
    <category id="1">
     <drop chance="695200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14124,6 +14654,8 @@
     <drop chance="279700" itemid="948" max="9" min="3"/>
     <drop chance="19200" itemid="6571" max="1" min="1"/>
     <drop chance="250000" itemid="8171" max="6" min="6"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14192,6 +14724,8 @@
     <drop chance="6173" itemid="6577" max="1" min="1"/>
     <drop chance="250000" itemid="8160" max="3" min="3"/>
     <drop chance="250000" itemid="8176" max="8" min="5"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14271,6 +14805,8 @@
     <drop chance="7937" itemid="6577" max="1" min="1"/>
     <drop chance="45800" itemid="6689" max="48" min="16"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25283" name="Lilith" title="Raid Boss">
@@ -14327,6 +14863,8 @@
     <drop chance="482900" itemid="3936" max="3" min="1"/>
     <drop chance="85800" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25284" max="4" min="4"/>
@@ -14375,6 +14913,8 @@
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25285" name="Lilith's Escort" title="Raid Fighter">
@@ -14418,6 +14958,8 @@
   <drops>
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14478,6 +15020,8 @@
    <category id="3">
     <drop chance="515100" itemid="960" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25287" max="3" min="3"/>
@@ -14525,6 +15069,8 @@
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25288" name="Anakim's Royal Guard" title="Raid Fighter">
@@ -14566,6 +15112,8 @@
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25289" name="Anakim's Executor" title="">
@@ -14605,6 +15153,8 @@
   <drops>
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14664,6 +15214,8 @@
     <drop chance="468400" itemid="3936" max="3" min="1"/>
     <drop chance="83300" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25291" max="3" min="3"/>
@@ -14711,6 +15263,8 @@
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25292" name="Family of Daimon" title="Raid Fighter">
@@ -14755,6 +15309,8 @@
   <drops>
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14807,6 +15363,8 @@
     <drop chance="6579" itemid="6577" max="1" min="1"/>
     <drop chance="157200" itemid="6711" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25294" max="1" min="1"/>
@@ -14853,6 +15411,8 @@
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25295" name="Follower of Hestia" title="Raid Fighter">
@@ -14893,6 +15453,8 @@
   <drops>
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -14966,6 +15528,8 @@
    <category id="7">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25297" max="3" min="3"/>
@@ -15016,6 +15580,8 @@
    <category id="1">
     <drop chance="339000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25298" name="Icicle Giant" title="Raid Fighter">
@@ -15060,6 +15626,8 @@
   <drops>
    <category id="1">
     <drop chance="339000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15115,6 +15683,8 @@
     <drop chance="539800" itemid="3936" max="1" min="1"/>
     <drop chance="48000" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25300" max="3" min="3"/>
@@ -15161,6 +15731,8 @@
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25301" name="Servant of Hekaton" title="Raid Fighter">
@@ -15201,6 +15773,8 @@
   <drops>
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15256,6 +15830,8 @@
     <drop chance="556300" itemid="3936" max="1" min="1"/>
     <drop chance="49400" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25303" max="3" min="3"/>
@@ -15303,6 +15879,8 @@
    <category id="1">
     <drop chance="447700" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25304" name="Tayr's Guard" title="Raid Fighter">
@@ -15344,6 +15922,8 @@
   <drops>
    <category id="1">
     <drop chance="447700" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15406,6 +15986,8 @@
     <drop chance="303500" itemid="960" max="1" min="1"/>
     <drop chance="5051" itemid="6577" max="1" min="1"/>
     <drop chance="644000" itemid="6694" max="9" min="3"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15477,6 +16059,8 @@
    <category id="4">
     <drop chance="569100" itemid="3936" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25307" max="1" min="1"/>
@@ -15525,6 +16109,8 @@
    <category id="1">
     <drop chance="481200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25308" name="Family of Nastron" title="Raid Fighter">
@@ -15567,6 +16153,8 @@
   <drops>
    <category id="1">
     <drop chance="481200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15623,6 +16211,8 @@
     <drop chance="287900" itemid="960" max="1" min="1"/>
     <drop chance="4808" itemid="6577" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25310" max="1" min="1"/>
@@ -15669,6 +16259,8 @@
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25311" name="Shadith's Sentinel" title="Raid Fighter">
@@ -15709,6 +16301,8 @@
   <drops>
    <category id="1">
     <drop chance="403000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15771,6 +16365,8 @@
     <drop chance="4950" itemid="6577" max="1" min="1"/>
     <drop chance="123700" itemid="6688" max="22" min="8"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25313" max="2" min="2"/>
@@ -15818,6 +16414,8 @@
    <category id="1">
     <drop chance="447700" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25314" name="Mos' Guard" title="Raid Fighter">
@@ -15858,6 +16456,8 @@
   <drops>
    <category id="1">
     <drop chance="447700" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -15929,6 +16529,8 @@
     <drop chance="5051" itemid="6577" max="1" min="1"/>
     <drop chance="232700" itemid="6689" max="6" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25316" name="Soul of Water Ashutar" title="Raid Boss">
@@ -15987,6 +16589,8 @@
     <drop chance="569100" itemid="3936" max="1" min="1"/>
     <drop chance="50600" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25317" max="1" min="1"/>
@@ -16035,6 +16639,8 @@
    <category id="1">
     <drop chance="481200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25318" name="Family of Ashutar" title="Raid Fighter">
@@ -16077,6 +16683,8 @@
   <drops>
    <category id="1">
     <drop chance="481200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16150,6 +16758,8 @@
     <drop chance="82500" itemid="6690" max="31" min="11"/>
     <drop chance="146800" itemid="6693" max="18" min="6"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25320" max="3" min="3"/>
@@ -16200,6 +16810,8 @@
    <category id="1">
     <drop chance="458800" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25321" name="Messenger of Ember" title="Raid Fighter">
@@ -16242,6 +16854,8 @@
   <drops>
    <category id="1">
     <drop chance="458800" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16304,6 +16918,8 @@
     <drop chance="250000" itemid="8160" max="2" min="1"/>
     <drop chance="250000" itemid="8176" max="7" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25323" max="3" min="3"/>
@@ -16353,6 +16969,8 @@
    <category id="1">
     <drop chance="901700" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25324" name="Servant of Falston" title="Raid Fighter">
@@ -16394,6 +17012,8 @@
   <drops>
    <category id="1">
     <drop chance="901700" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16457,6 +17077,8 @@
    <category id="4">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25326" max="1" min="1"/>
@@ -16503,6 +17125,8 @@
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25327" name="Barakiel's Acolyte" title="Raid Fighter">
@@ -16543,6 +17167,8 @@
   <drops>
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16614,6 +17240,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25329" max="1" min="1"/>
@@ -16665,6 +17293,8 @@
    <category id="1">
     <drop chance="928000" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25330" name="Kurstin" title="Raid Fighter">
@@ -16709,6 +17339,8 @@
   <drops>
    <category id="1">
     <drop chance="928000" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16755,6 +17387,8 @@
    <category id="1">
     <drop chance="928000" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25332" name="Dorian" title="Raid Fighter">
@@ -16798,6 +17432,8 @@
   <drops>
    <category id="1">
     <drop chance="928000" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16854,6 +17490,8 @@
    <category id="3">
     <drop chance="73900" itemid="6575" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25334" name="Anakazel" title="Invaders' Leader">
@@ -16907,6 +17545,8 @@
     <drop chance="260200" itemid="952" max="36" min="12"/>
     <drop chance="91800" itemid="1961" max="157" min="53"/>
     <drop chance="41700" itemid="2935" max="576" min="192"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -16981,6 +17621,8 @@
     <drop chance="250000" itemid="8158" max="3" min="3"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25336" name="Anakazel" title="Invaders' Leader">
@@ -17054,6 +17696,8 @@
    <category id="6">
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25337" name="Anakazel" title="Invaders' Leader">
@@ -17121,6 +17765,8 @@
    <category id="5">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25338" name="Anakazel" title="Invaders' Leader">
@@ -17183,6 +17829,8 @@
    </category>
    <category id="4">
     <drop chance="331200" itemid="3936" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17247,6 +17895,8 @@
    <category id="4">
     <drop chance="16800" itemid="959" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25340" max="2" min="2"/>
@@ -17296,6 +17946,8 @@
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25341" name="Knight of Shadow" title="">
@@ -17338,6 +17990,8 @@
   <drops>
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17395,6 +18049,8 @@
     <drop chance="315100" itemid="3936" max="1" min="1"/>
     <drop chance="28000" itemid="6578" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25343" max="1" min="1"/>
@@ -17445,6 +18101,8 @@
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25344" name="Knight of Shadow" title="">
@@ -17488,6 +18146,8 @@
   <drops>
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17533,6 +18193,8 @@
   <drops>
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17591,6 +18253,8 @@
     <drop chance="115000" itemid="6701" max="22" min="8"/>
     <drop chance="277600" itemid="6702" max="12" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25347" max="3" min="3"/>
@@ -17640,6 +18304,8 @@
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25348" name="Knight of Shadow" title="">
@@ -17685,6 +18351,8 @@
   <drops>
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17738,6 +18406,8 @@
     <drop chance="28000" itemid="6578" max="1" min="1"/>
     <drop chance="334500" itemid="6711" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25350" max="3" min="3"/>
@@ -17787,6 +18457,8 @@
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25351" name="Knight of Shadow" title="">
@@ -17831,6 +18503,8 @@
   <drops>
    <category id="1">
     <drop chance="414200" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17890,6 +18564,8 @@
     <drop chance="331900" itemid="4561" max="1" min="1"/>
     <drop chance="138300" itemid="6387" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25353" max="3" min="3"/>
@@ -17934,6 +18610,8 @@
   <drops>
    <category id="1">
     <drop chance="8621" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -17995,6 +18673,8 @@
     <drop chance="473100" itemid="952" max="9" min="3"/>
     <drop chance="14200" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25355" max="4" min="4"/>
@@ -18043,6 +18723,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25356" name="Sirocco's Guards" title="Raid Fighter">
@@ -18087,6 +18769,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -18140,6 +18824,8 @@
     <drop chance="246500" itemid="956" max="22" min="8"/>
     <drop chance="92400" itemid="6387" max="72" min="24"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25358" max="2" min="2"/>
@@ -18186,6 +18872,8 @@
    <category id="1">
     <drop chance="99800" itemid="1061" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25359" name="Sukar Wererat Priest" title="Raid Fighter">
@@ -18228,6 +18916,8 @@
   <drops>
    <category id="1">
     <drop chance="182900" itemid="1832" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -18286,6 +18976,8 @@
     <drop chance="333700" itemid="2030" max="9" min="3"/>
     <drop chance="665800" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25361" max="3" min="3"/>
@@ -18330,6 +19022,8 @@
   <drops>
    <category id="1">
     <drop chance="710300" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -18400,6 +19094,8 @@
     <drop chance="251600" itemid="956" max="22" min="8"/>
     <drop chance="94400" itemid="6387" max="72" min="24"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25363" max="2" min="2"/>
@@ -18445,6 +19141,8 @@
    <category id="1">
     <drop chance="490300" itemid="1831" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25364" name="Sharuk's Marksman" title="Raid Fighter">
@@ -18486,6 +19184,8 @@
   <drops>
    <category id="1">
     <drop chance="490300" itemid="1833" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -18541,6 +19241,8 @@
    <category id="3">
     <drop chance="554800" itemid="6387" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25366" name="Kuroboros' Priest" title="Raid Boss">
@@ -18594,6 +19296,8 @@
     <drop chance="37700" itemid="6575" max="1" min="1"/>
     <drop chance="339700" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25367" max="2" min="2"/>
@@ -18640,6 +19344,8 @@
    <category id="1">
     <drop chance="30600" itemid="734" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25368" name="Kuroboros' Discipline" title="Raid Fighter">
@@ -18682,6 +19388,8 @@
   <drops>
    <category id="1">
     <drop chance="15300" itemid="735" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -18744,6 +19452,8 @@
     <drop chance="666900" itemid="955" max="3" min="1"/>
     <drop chance="60900" itemid="1940" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25370" max="1" min="1"/>
@@ -18794,6 +19504,8 @@
    <category id="1">
     <drop chance="16900" itemid="735" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25371" name="Anima Scavenger" title="Raid Fighter">
@@ -18838,6 +19550,8 @@
   <drops>
    <category id="1">
     <drop chance="16900" itemid="6035" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -18902,6 +19616,8 @@
    <category id="4">
     <drop chance="79800" itemid="6387" max="72" min="24"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25373" name="Malex Herald of Dagoniel" title="Raid Boss">
@@ -18956,6 +19672,8 @@
     <drop chance="24700" itemid="6575" max="1" min="1"/>
     <drop chance="221900" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25374" max="3" min="3"/>
@@ -19000,6 +19718,8 @@
   <drops>
    <category id="1">
     <drop chance="182900" itemid="1834" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19059,6 +19779,8 @@
     <drop chance="21300" itemid="6575" max="1" min="1"/>
     <drop chance="191500" itemid="6576" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25376" max="2" min="2"/>
@@ -19109,6 +19831,8 @@
    <category id="1">
     <drop chance="795700" itemid="17" max="30" min="10"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25377" name="Priest Zombie of Farakelsus" title="Raid Fighter">
@@ -19155,6 +19879,8 @@
   <drops>
    <category id="1">
     <drop chance="353600" itemid="1060" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19208,6 +19934,8 @@
     <drop chance="212800" itemid="956" max="22" min="8"/>
     <drop chance="79800" itemid="6387" max="72" min="24"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25379" max="3" min="3"/>
@@ -19252,6 +19980,8 @@
   <drops>
    <category id="1">
     <drop chance="424400" itemid="1831" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19309,6 +20039,8 @@
     <drop chance="246500" itemid="956" max="22" min="8"/>
     <drop chance="92400" itemid="6387" max="72" min="24"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25381" max="1" min="1"/>
@@ -19355,6 +20087,8 @@
    <category id="1">
     <drop chance="424400" itemid="1833" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25382" name="Hostile Flyer" title="Raid Fighter">
@@ -19395,6 +20129,8 @@
   <drops>
    <category id="1">
     <drop chance="26500" itemid="734" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19455,6 +20191,8 @@
     <drop chance="433600" itemid="2052" max="9" min="3"/>
     <drop chance="25900" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25384" max="3" min="3"/>
@@ -19503,6 +20241,8 @@
   <drops>
    <category id="1">
     <drop chance="10700" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19569,6 +20309,8 @@
     <drop chance="41600" itemid="2933" max="136" min="46"/>
     <drop chance="226000" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25386" max="1" min="1"/>
@@ -19619,6 +20361,8 @@
    <category id="1">
     <drop chance="597300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25387" name="Malignant Spirit of the Execution Grounds" title="Raid Fighter">
@@ -19663,6 +20407,8 @@
   <drops>
    <category id="1">
     <drop chance="11900" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19715,6 +20461,8 @@
     <drop chance="416900" itemid="2055" max="9" min="3"/>
     <drop chance="224100" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25389" max="3" min="3"/>
@@ -19761,6 +20509,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25390" name="Red Eye Guards" title="Raid Fighter">
@@ -19801,6 +20551,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -19866,6 +20618,8 @@
     <drop chance="40600" itemid="2933" max="136" min="46"/>
     <drop chance="220700" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25392" name="Captain of Queen's Royal Guards" title="Raid Boss">
@@ -19926,6 +20680,8 @@
     <drop chance="127500" itemid="4563" max="4" min="2"/>
     <drop chance="95600" itemid="4564" max="6" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25393" max="3" min="3"/>
@@ -19970,6 +20726,8 @@
   <drops>
    <category id="1">
     <drop chance="954700" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20035,6 +20793,8 @@
    <category id="4">
     <drop chance="94500" itemid="2062" max="15" min="5"/>
     <drop chance="31200" itemid="6573" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20112,6 +20872,8 @@
     <drop chance="304500" itemid="4605" max="1" min="1"/>
     <drop chance="304500" itemid="4606" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25396" max="1" min="1"/>
@@ -20159,6 +20921,8 @@
    <category id="1">
     <drop chance="559200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25397" name="Gustos Suscepter" title="Raid Fighter">
@@ -20200,6 +20964,8 @@
   <drops>
    <category id="1">
     <drop chance="124300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20260,6 +21026,8 @@
    <category id="4">
     <drop chance="713100" itemid="951" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25399" max="3" min="3"/>
@@ -20307,6 +21075,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25400" name="Page of Watchman" title="Raid Fighter">
@@ -20349,6 +21119,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20409,6 +21181,8 @@
    <category id="5">
     <drop chance="531200" itemid="956" max="36" min="12"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25402" max="1" min="1"/>
@@ -20455,6 +21229,8 @@
    <category id="1">
     <drop chance="9524" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25403" name="Follower of Skyla" title="Raid Fighter">
@@ -20497,6 +21273,8 @@
   <drops>
    <category id="1">
     <drop chance="954700" itemid="1341" max="30" min="10"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20559,6 +21337,8 @@
     <drop chance="430700" itemid="2967" max="4" min="2"/>
     <drop chance="25800" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25405" max="2" min="2"/>
@@ -20609,6 +21389,8 @@
    <category id="1">
     <drop chance="10100" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25406" name="Kylon's Mate" title="Raid Fighter">
@@ -20654,6 +21436,8 @@
   <drops>
    <category id="1">
     <drop chance="505300" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20727,6 +21511,8 @@
    <category id="6">
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25408" max="1" min="1"/>
@@ -20777,6 +21563,8 @@
    <category id="1">
     <drop chance="227700" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25409" name="Ishka's Elite Soldier" title="Raid Fighter">
@@ -20822,6 +21610,8 @@
   <drops>
    <category id="1">
     <drop chance="341600" itemid="1342" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20884,6 +21674,8 @@
     <drop chance="250000" itemid="8158" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25411" max="3" min="3"/>
@@ -20928,6 +21720,8 @@
   <drops>
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -20999,6 +21793,8 @@
     <drop chance="250000" itemid="8158" max="2" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25413" max="3" min="3"/>
@@ -21049,6 +21845,8 @@
    <category id="1">
     <drop chance="612000" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25414" name="Necrosentinel Soldier" title="Raid Fighter">
@@ -21093,6 +21891,8 @@
   <drops>
    <category id="1">
     <drop chance="136000" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -21161,6 +21961,8 @@
     <drop chance="250000" itemid="8161" max="2" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25416" max="3" min="3"/>
@@ -21208,6 +22010,8 @@
    <category id="1">
     <drop chance="565300" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25417" name="Nakondas' Chain" title="Raid Fighter">
@@ -21252,6 +22056,8 @@
   <drops>
    <category id="1">
     <drop chance="11300" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -21337,6 +22143,8 @@
     <drop chance="250000" itemid="8158" max="5" min="5"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25419" max="3" min="3"/>
@@ -21381,6 +22189,8 @@
   <drops>
    <category id="1">
     <drop chance="17800" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -21448,6 +22258,8 @@
     <drop chance="250000" itemid="8164" max="9" min="9"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25421" max="3" min="3"/>
@@ -21495,6 +22307,8 @@
    <category id="1">
     <drop chance="638400" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25422" name="Page of Rotting Tree" title="Raid Fighter">
@@ -21537,6 +22351,8 @@
   <drops>
    <category id="1">
     <drop chance="141900" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -21608,6 +22424,8 @@
     <drop chance="250000" itemid="8172" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25424" max="4" min="4"/>
@@ -21653,6 +22471,8 @@
    <category id="1">
     <drop chance="196300" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25425" name="Timiniel's Royal Guard Captain" title="Raid Fighter">
@@ -21694,6 +22514,8 @@
   <drops>
    <category id="1">
     <drop chance="883200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -21746,6 +22568,8 @@
     <drop chance="463100" itemid="956" max="36" min="12"/>
     <drop chance="511400" itemid="2029" max="9" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25427" max="2" min="2"/>
@@ -21792,6 +22616,8 @@
    <category id="1">
     <drop chance="122900" itemid="1061" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25428" name="Freki's Wild Bear" title="Raid Fighter">
@@ -21833,6 +22659,8 @@
   <drops>
    <category id="1">
     <drop chance="225300" itemid="1832" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -21895,6 +22723,8 @@
     <drop chance="339600" itemid="2028" max="9" min="3"/>
     <drop chance="74100" itemid="6575" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25430" max="3" min="3"/>
@@ -21942,6 +22772,8 @@
   <drops>
    <category id="1">
     <drop chance="15300" itemid="6035" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -22002,6 +22834,8 @@
     <drop chance="302500" itemid="4612" max="1" min="1"/>
     <drop chance="77800" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25432" max="2" min="2"/>
@@ -22052,6 +22886,8 @@
    <category id="1">
     <drop chance="890700" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25433" name="Elemental of Spark" title="Raid Fighter">
@@ -22095,6 +22931,8 @@
   <drops>
    <category id="1">
     <drop chance="17800" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -22164,6 +23002,8 @@
     <drop chance="250000" itemid="8159" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="3"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25435" max="1" min="1"/>
@@ -22210,6 +23050,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25436" name="Barda's Shaman" title="Raid Fighter">
@@ -22252,6 +23094,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -22318,6 +23162,8 @@
     <drop chance="250000" itemid="8158" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25438" name="Thief Kelbar" title="Raid Boss">
@@ -22379,6 +23225,8 @@
     <drop chance="250000" itemid="8158" max="5" min="5"/>
     <drop chance="250000" itemid="8176" max="2" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25439" max="1" min="1"/>
@@ -22425,6 +23273,8 @@
    <category id="1">
     <drop chance="890700" itemid="1341" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25440" name="Kelbar's Wizard" title="Raid Fighter">
@@ -22467,6 +23317,8 @@
   <drops>
    <category id="1">
     <drop chance="17800" itemid="6036" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -22536,6 +23388,8 @@
     <drop chance="250000" itemid="8161" max="4" min="4"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25442" max="4" min="4"/>
@@ -22581,6 +23435,8 @@
    <category id="1">
     <drop chance="559200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25443" name="Anger of Forest" title="Raid Fighter">
@@ -22622,6 +23478,8 @@
   <drops>
    <category id="1">
     <drop chance="124300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -22688,6 +23546,8 @@
     <drop chance="250000" itemid="8160" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25445" max="3" min="3"/>
@@ -22737,6 +23597,8 @@
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25446" name="Shooter of Enmity" title="Raid Fighter">
@@ -22782,6 +23644,8 @@
   <drops>
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -22852,6 +23716,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25448" max="2" min="2"/>
@@ -22901,6 +23767,8 @@
    <category id="1">
     <drop chance="928000" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25449" name="Immortal Guide" title="Raid Fighter">
@@ -22943,6 +23811,8 @@
   <drops>
    <category id="1">
     <drop chance="928000" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -23013,6 +23883,8 @@
     <drop chance="8333" itemid="6577" max="1" min="1"/>
     <drop chance="396700" itemid="6696" max="12" min="4"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25451" max="3" min="3"/>
@@ -23060,6 +23932,8 @@
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25452" name="Messenger of Angel" title="Raid Fighter">
@@ -23102,6 +23976,8 @@
   <drops>
    <category id="1">
     <drop chance="381000" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -23170,6 +24046,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25454" max="3" min="3"/>
@@ -23217,6 +24095,8 @@
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25455" name="Succubus of Marsh" title="Raid Fighter">
@@ -23261,6 +24141,8 @@
   <drops>
    <category id="1">
     <drop chance="898500" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -23318,6 +24200,8 @@
    <category id="3">
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25457" max="1" min="1"/>
@@ -23368,6 +24252,8 @@
    <category id="1">
     <drop chance="666400" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25458" name="Shadow of Oblivion" title="Raid Fighter">
@@ -23415,6 +24301,8 @@
    <category id="1">
     <drop chance="148100" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25459" name="Shards of Oblivion" title="Raid Fighter">
@@ -23459,6 +24347,8 @@
   <drops>
    <category id="1">
     <drop chance="666400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -23530,6 +24420,8 @@
     <drop chance="250000" itemid="8159" max="2" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25461" max="2" min="2"/>
@@ -23580,6 +24472,8 @@
    <category id="1">
     <drop chance="161100" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25462" name="Ereve's Squire" title="Raid Fighter">
@@ -23625,6 +24519,8 @@
   <drops>
    <category id="1">
     <drop chance="724800" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -23680,6 +24576,8 @@
     <drop chance="7634" itemid="6571" max="1" min="1"/>
     <drop chance="250000" itemid="8165" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25464" max="1" min="1"/>
@@ -23727,6 +24625,8 @@
    <category id="1">
     <drop chance="196300" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25465" name="Garangky Guard Shaman" title="Raid Fighter">
@@ -23770,6 +24670,8 @@
    <category id="1">
     <drop chance="883200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25466" name="Garangky Guard" title="Raid Fighter">
@@ -23811,6 +24713,8 @@
   <drops>
    <category id="1">
     <drop chance="196300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -23879,6 +24783,8 @@
     <drop chance="250000" itemid="8169" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="3" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25468" max="4" min="4"/>
@@ -23926,6 +24832,8 @@
    <category id="1">
     <drop chance="842300" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25469" name="Cursed Soul" title="Raid Fighter">
@@ -23969,6 +24877,8 @@
   <drops>
    <category id="1">
     <drop chance="842300" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24041,6 +24951,8 @@
    <category id="6">
     <drop chance="250000" itemid="8619" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25471" max="3" min="3"/>
@@ -24091,6 +25003,8 @@
    <category id="1">
     <drop chance="901700" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25472" name="Utenus's Guard" title="Raid Fighter">
@@ -24135,6 +25049,8 @@
   <drops>
    <category id="1">
     <drop chance="901700" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24202,6 +25118,8 @@
     <drop chance="250000" itemid="8165" max="2" min="2"/>
     <drop chance="250000" itemid="8176" max="3" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25474" max="3" min="3"/>
@@ -24246,6 +25164,8 @@
   <drops>
    <category id="1">
     <drop chance="167800" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24321,6 +25241,8 @@
     <drop chance="250000" itemid="8159" max="1" min="1"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25476" max="3" min="3"/>
@@ -24370,6 +25292,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25477" name="Kabed's Archer" title="Raid Fighter">
@@ -24415,6 +25339,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24480,6 +25406,8 @@
    <category id="5">
     <drop chance="250000" itemid="8176" max="3" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25479" max="3" min="3"/>
@@ -24527,6 +25455,8 @@
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25480" name="Hisilrome's Page" title="Raid Fighter">
@@ -24569,6 +25499,8 @@
   <drops>
    <category id="1">
     <drop chance="871400" itemid="1343" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24636,6 +25568,8 @@
    <category id="5">
     <drop chance="271400" itemid="4618" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25482" max="2" min="2"/>
@@ -24684,6 +25618,8 @@
    <category id="1">
     <drop chance="174600" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25483" name="Phantom of Kenishee" title="Raid Fighter">
@@ -24728,6 +25664,8 @@
   <drops>
    <category id="1">
     <drop chance="785600" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24799,6 +25737,8 @@
     <drop chance="367700" itemid="4609" max="1" min="1"/>
     <drop chance="11000" itemid="6573" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25485" max="1" min="1"/>
@@ -24849,6 +25789,8 @@
    <category id="1">
     <drop chance="154500" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25486" name="Tillion's Bat" title="Raid Fighter">
@@ -24890,6 +25832,8 @@
   <drops>
    <category id="1">
     <drop chance="695200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -24978,6 +25922,8 @@
     <drop chance="250000" itemid="8170" max="3" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25488" max="3" min="3"/>
@@ -25027,6 +25973,8 @@
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25489" name="Guardian of Gildor" title="Raid Fighter">
@@ -25070,6 +26018,8 @@
   <drops>
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -25132,6 +26082,8 @@
     <drop chance="250000" itemid="8164" max="2" min="1"/>
     <drop chance="250000" itemid="8176" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25491" max="3" min="3"/>
@@ -25178,6 +26130,8 @@
    <category id="1">
     <drop chance="14700" itemid="6036" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25492" name="Follower of Gwindorr" title="Raid Fighter">
@@ -25218,6 +26172,8 @@
   <drops>
    <category id="1">
     <drop chance="736000" itemid="1341" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -25289,6 +26245,8 @@
     <drop chance="250000" itemid="8165" max="3" min="3"/>
     <drop chance="250000" itemid="8176" max="2" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25494" max="1" min="1"/>
@@ -25335,6 +26293,8 @@
    <category id="1">
     <drop chance="189000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25495" name="Spirit of Niniel" title="Raid Fighter">
@@ -25375,6 +26335,8 @@
   <drops>
    <category id="1">
     <drop chance="850400" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -25443,6 +26405,8 @@
     <drop chance="434400" itemid="4612" max="1" min="1"/>
     <drop chance="111700" itemid="6574" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25497" max="3" min="3"/>
@@ -25487,6 +26451,8 @@
   <drops>
    <category id="1">
     <drop chance="755200" itemid="1342" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -25556,6 +26522,8 @@
     <drop chance="250000" itemid="8164" max="5" min="4"/>
     <drop chance="250000" itemid="8176" max="3" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25499" max="1" min="1"/>
@@ -25602,6 +26570,8 @@
    <category id="1">
     <drop chance="559200" itemid="1342" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25500" name="Alligator of Istary" title="Raid Fighter">
@@ -25642,6 +26612,8 @@
   <drops>
    <category id="1">
     <drop chance="124300" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -26178,6 +27150,8 @@
     <drop chance="112300" itemid="8742" max="1" min="1"/>
     <drop chance="88200" itemid="8752" max="4" min="2"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25515" max="1" min="1"/>
@@ -26225,6 +27199,8 @@
    <category id="1">
     <drop chance="403000" itemid="1344" max="60" min="20"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25516" name="Spiked Stakato" title="Raid Fighter">
@@ -26266,6 +27242,8 @@
   <drops>
    <category id="1">
     <drop chance="403000" itemid="1344" max="60" min="20"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -26367,6 +27345,8 @@
     <drop chance="152700" itemid="8751" max="1" min="1"/>
     <drop chance="86100" itemid="8761" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="25525" max="2" min="2"/>
@@ -26414,6 +27394,8 @@
    <category id="1">
     <drop chance="359700" itemid="1344" max="180" min="60"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="25526" name="Charged Spirit" title="Raid Fighter">
@@ -26454,6 +27436,8 @@
   <drops>
    <category id="1">
     <drop chance="359700" itemid="1344" max="180" min="60"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>

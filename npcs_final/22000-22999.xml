@@ -53,7 +53,7 @@
    <category id="-1">
     <drop chance="250000" itemid="1867" max="2" min="1"/>
     <drop chance="25000" itemid="1899" max="1" min="1"/>
-    <drop chance="6500" itemid="2152" max="1" min="1"/>
+    <drop chance="6494" itemid="2152" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -109,9 +109,9 @@
     <drop chance="700000" itemid="57" max="270" min="141"/>
    </category>
    <category id="-1">
-    <drop chance="25000" itemid="1931" max="1" min="1"/>
     <drop chance="25000" itemid="1932" max="1" min="1"/>
-    <drop chance="6000" itemid="2178" max="1" min="1"/>
+    <drop chance="25000" itemid="1931" max="1" min="1"/>
+    <drop chance="5988" itemid="2178" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -167,9 +167,9 @@
     <drop chance="700000" itemid="57" max="334" min="173"/>
    </category>
    <category id="-1">
-    <drop chance="150000" itemid="1874" max="1" min="1"/>
-    <drop chance="250000" itemid="1878" max="2" min="1"/>
+    <drop chance="250000" itemid="1878" max="1" min="1"/>
     <drop chance="25000" itemid="1934" max="1" min="1"/>
+    <drop chance="142857" itemid="1874" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -230,9 +230,9 @@
     <drop chance="700000" itemid="57" max="397" min="207"/>
    </category>
    <category id="-1">
-    <drop chance="6786" itemid="2017" max="1" min="1"/>
-    <drop chance="6280" itemid="2180" max="1" min="1"/>
-    <drop chance="6348" itemid="2181" max="1" min="1"/>
+    <drop chance="6289" itemid="2180" max="1" min="1"/>
+    <drop chance="6329" itemid="2181" max="1" min="1"/>
+    <drop chance="6803" itemid="2017" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -289,9 +289,9 @@
     <drop chance="700000" itemid="57" max="353" min="182"/>
    </category>
    <category id="-1">
-    <drop chance="150000" itemid="1876" max="2" min="1"/>
-    <drop chance="250000" itemid="1880" max="2" min="1"/>
     <drop chance="5000" itemid="2018" max="1" min="1"/>
+    <drop chance="142857" itemid="1876" max="1" min="1"/>
+    <drop chance="250000" itemid="1880" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -348,8 +348,8 @@
     <drop chance="700000" itemid="57" max="371" min="187"/>
    </category>
    <category id="-1">
-    <drop chance="26129" itemid="1061" max="2" min="1"/>
-    <drop chance="25000" itemid="1900" max="2" min="1"/>
+    <drop chance="25000" itemid="1900" max="1" min="1"/>
+    <drop chance="26316" itemid="1061" max="1" min="1"/>
     <drop chance="5000" itemid="2153" max="1" min="1"/>
    </category>
   </drops>
@@ -408,8 +408,8 @@
    </category>
    <category id="-1">
     <drop chance="5000" itemid="1933" max="1" min="1"/>
+    <drop chance="6289" itemid="2183" max="1" min="1"/>
     <drop chance="5000" itemid="1935" max="1" min="1"/>
-    <drop chance="6280" itemid="2183" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -469,9 +469,9 @@
     <drop chance="700000" itemid="57" max="390" min="200"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="955" max="1" min="1"/>
     <drop chance="25000" itemid="1877" max="1" min="1"/>
-    <drop chance="58667" itemid="1881" max="2" min="1"/>
+    <drop chance="58824" itemid="1881" max="3" min="1"/>
+    <drop chance="5000" itemid="955" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -536,9 +536,9 @@
     <drop chance="700000" itemid="57" max="451" min="226"/>
    </category>
    <category id="-1">
-    <drop chance="25641" itemid="1832" max="2" min="1"/>
-    <drop chance="6882" itemid="1936" max="1" min="1"/>
-    <drop chance="58192" itemid="2184" max="1" min="1"/>
+    <drop chance="25641" itemid="1832" max="3" min="1"/>
+    <drop chance="58824" itemid="2184" max="1" min="1"/>
+    <drop chance="6897" itemid="1936" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -597,9 +597,9 @@
     <drop chance="700000" itemid="57" max="479" min="239"/>
    </category>
    <category id="-1">
+    <drop chance="8197" itemid="2185" max="1" min="1"/>
     <drop chance="5714" itemid="1937" max="1" min="1"/>
-    <drop chance="6882" itemid="2021" max="1" min="1"/>
-    <drop chance="8192" itemid="2185" max="1" min="1"/>
+    <drop chance="6897" itemid="2021" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -652,8 +652,8 @@
     <drop chance="700000" itemid="57" max="547" min="276"/>
    </category>
    <category id="-1">
-    <drop chance="76923" itemid="1866" max="3" min="1"/>
     <drop chance="250000" itemid="1871" max="3" min="1"/>
+    <drop chance="76923" itemid="1866" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -760,9 +760,9 @@
     <drop chance="700000" itemid="57" max="546" min="274"/>
    </category>
    <category id="-1">
-    <drop chance="25000" itemid="1865" max="1" min="1"/>
     <drop chance="25000" itemid="1870" max="1" min="1"/>
     <drop chance="5000" itemid="1939" max="1" min="1"/>
+    <drop chance="25000" itemid="1865" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -813,6 +813,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="548" min="275"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -917,7 +919,7 @@
    </category>
    <category id="-1">
     <drop chance="250000" itemid="1889" max="1" min="1"/>
-    <drop chance="5862" itemid="2187" max="1" min="1"/>
+    <drop chance="5848" itemid="2187" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -980,8 +982,8 @@
     <drop chance="700000" itemid="57" max="416" min="208"/>
    </category>
    <category id="-1">
-    <drop chance="25000" itemid="1900" max="1" min="1"/>
     <drop chance="25000" itemid="1933" max="1" min="1"/>
+    <drop chance="25000" itemid="1900" max="1" min="1"/>
     <drop chance="5000" itemid="2153" max="1" min="1"/>
    </category>
   </drops>
@@ -1036,9 +1038,9 @@
     <drop chance="700000" itemid="57" max="355" min="178"/>
    </category>
    <category id="-1">
+    <drop chance="250000" itemid="1872" max="2" min="1"/>
+    <drop chance="50000" itemid="1882" max="2" min="1"/>
     <drop chance="5000" itemid="956" max="1" min="1"/>
-    <drop chance="250000" itemid="1872" max="4" min="1"/>
-    <drop chance="50000" itemid="1882" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1104,8 +1106,8 @@
    </category>
    <category id="-1">
     <drop chance="50000" itemid="1834" max="2" min="1"/>
-    <drop chance="25000" itemid="1935" max="1" min="1"/>
     <drop chance="5000" itemid="2183" max="1" min="1"/>
+    <drop chance="25000" itemid="1935" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1166,9 +1168,9 @@
     <drop chance="700000" itemid="57" max="399" min="200"/>
    </category>
    <category id="-1">
-    <drop chance="25000" itemid="1901" max="1" min="1"/>
     <drop chance="25000" itemid="1938" max="1" min="1"/>
     <drop chance="5000" itemid="2154" max="1" min="1"/>
+    <drop chance="25000" itemid="1901" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1229,9 +1231,9 @@
     <drop chance="700000" itemid="57" max="484" min="242"/>
    </category>
    <category id="-1">
-    <drop chance="50000" itemid="1874" max="1" min="1"/>
-    <drop chance="25000" itemid="1939" max="1" min="1"/>
     <drop chance="50000" itemid="5220" max="1" min="1"/>
+    <drop chance="25000" itemid="1939" max="1" min="1"/>
+    <drop chance="50000" itemid="1874" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1292,8 +1294,8 @@
    </category>
    <category id="-1">
     <drop chance="25000" itemid="1940" max="2" min="1"/>
-    <drop chance="5000" itemid="2155" max="1" min="1"/>
     <drop chance="5000" itemid="2156" max="1" min="1"/>
+    <drop chance="5000" itemid="2155" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1355,9 +1357,9 @@
     <drop chance="700000" itemid="57" max="656" min="327"/>
    </category>
    <category id="-1">
-    <drop chance="50000" itemid="1868" max="3" min="1"/>
-    <drop chance="50000" itemid="1873" max="2" min="1"/>
     <drop chance="25000" itemid="8295" max="1" min="1"/>
+    <drop chance="50000" itemid="1873" max="1" min="1"/>
+    <drop chance="50000" itemid="1868" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1417,9 +1419,9 @@
     <drop chance="700000" itemid="57" max="614" min="308"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="1825" max="1" min="1"/>
     <drop chance="25000" itemid="1902" max="1" min="1"/>
     <drop chance="5000" itemid="6036" max="1" min="1"/>
+    <drop chance="5000" itemid="1825" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -1481,8 +1483,8 @@
     <drop chance="700000" itemid="57" max="613" min="307"/>
    </category>
    <category id="-1">
+    <drop chance="14925" itemid="1904" max="1" min="1"/>
     <drop chance="25000" itemid="1903" max="1" min="1"/>
-    <drop chance="15000" itemid="1904" max="1" min="1"/>
     <drop chance="5000" itemid="2145" max="1" min="1"/>
    </category>
   </drops>
@@ -1549,9 +1551,9 @@
     <drop chance="700000" itemid="57" max="795" min="398"/>
    </category>
    <category id="-1">
-    <drop chance="50000" itemid="1864" max="5" min="1"/>
-    <drop chance="50000" itemid="1869" max="3" min="1"/>
     <drop chance="5000" itemid="6036" max="1" min="1"/>
+    <drop chance="50000" itemid="1869" max="1" min="1"/>
+    <drop chance="50000" itemid="1864" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2403,9 +2405,9 @@
     <drop chance="700000" itemid="57" max="309" min="153"/>
    </category>
    <category id="-1">
-    <drop chance="15211" itemid="1875" max="3" min="1"/>
-    <drop chance="11356" itemid="1885" max="2" min="1"/>
-    <drop chance="1452" itemid="4469" max="1" min="1"/>
+    <drop chance="1451" itemid="4469" max="1" min="1"/>
+    <drop chance="11364" itemid="1885" max="2" min="1"/>
+    <drop chance="15152" itemid="1875" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2462,9 +2464,9 @@
     <drop chance="700000" itemid="57" max="418" min="205"/>
    </category>
    <category id="-1">
-    <drop chance="53216" itemid="1911" max="1" min="1"/>
-    <drop chance="35421" itemid="1912" max="1" min="1"/>
-    <drop chance="18742" itemid="2166" max="1" min="1"/>
+    <drop chance="52632" itemid="1911" max="1" min="1"/>
+    <drop chance="18868" itemid="2166" max="1" min="1"/>
+    <drop chance="35714" itemid="1912" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2527,9 +2529,9 @@
     <drop chance="700000" itemid="57" max="1070" min="523"/>
    </category>
    <category id="-1">
-    <drop chance="25135" itemid="1881" max="2" min="1"/>
-    <drop chance="9745" itemid="1908" max="1" min="1"/>
-    <drop chance="11524" itemid="2163" max="1" min="1"/>
+    <drop chance="25000" itemid="1881" max="2" min="1"/>
+    <drop chance="9709" itemid="1908" max="1" min="1"/>
+    <drop chance="11494" itemid="2163" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2595,9 +2597,9 @@
     <drop chance="700000" itemid="57" max="820" min="402"/>
    </category>
    <category id="-1">
-    <drop chance="8456" itemid="1894" max="1" min="1"/>
-    <drop chance="9142" itemid="1911" max="1" min="1"/>
-    <drop chance="17321" itemid="4589" max="1" min="1"/>
+    <drop chance="8475" itemid="1894" max="1" min="1"/>
+    <drop chance="9174" itemid="1911" max="1" min="1"/>
+    <drop chance="17241" itemid="4589" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2664,9 +2666,9 @@
     <drop chance="700000" itemid="57" max="1202" min="589"/>
    </category>
    <category id="-1">
-    <drop chance="8521" itemid="1912" max="2" min="1"/>
-    <drop chance="13584" itemid="2166" max="1" min="1"/>
-    <drop chance="15241" itemid="2167" max="1" min="1"/>
+    <drop chance="13514" itemid="2166" max="1" min="1"/>
+    <drop chance="15152" itemid="2167" max="1" min="1"/>
+    <drop chance="8547" itemid="1912" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2735,9 +2737,10 @@
     <drop chance="700000" itemid="57" max="1179" min="580"/>
    </category>
    <category id="-1">
-    <drop chance="5235" itemid="952" max="1" min="1"/>
-    <drop chance="16725" itemid="1866" max="3" min="1"/>
-    <drop chance="8125" itemid="1913" max="1" min="1"/>
+    <drop chance="13514" itemid="1870" max="6" min="1"/>
+    <drop chance="8130" itemid="1913" max="2" min="1"/>
+    <drop chance="5236" itemid="952" max="1" min="1"/>
+    <drop chance="16667" itemid="1866" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2813,9 +2816,9 @@
     <drop chance="700000" itemid="57" max="1216" min="598"/>
    </category>
    <category id="-1">
-    <drop chance="370370" itemid="1884" max="3" min="1"/>
-    <drop chance="35012" itemid="1966" max="1" min="1"/>
-    <drop chance="17325" itemid="4590" max="1" min="1"/>
+    <drop chance="333333" itemid="1884" max="1" min="1"/>
+    <drop chance="17241" itemid="4590" max="1" min="1"/>
+    <drop chance="34483" itemid="1966" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2883,9 +2886,9 @@
     <drop chance="700000" itemid="57" max="1309" min="642"/>
    </category>
    <category id="-1">
-    <drop chance="25123" itemid="1967" max="1" min="1"/>
-    <drop chance="26541" itemid="2168" max="1" min="1"/>
-    <drop chance="13211" itemid="2222" max="1" min="1"/>
+    <drop chance="25000" itemid="1967" max="1" min="1"/>
+    <drop chance="13158" itemid="2222" max="1" min="1"/>
+    <drop chance="26316" itemid="2168" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -2950,9 +2953,9 @@
     <drop chance="700000" itemid="57" max="1177" min="577"/>
    </category>
    <category id="-1">
-    <drop chance="5195" itemid="951" max="1" min="1"/>
-    <drop chance="216210" itemid="1876" max="3" min="1"/>
-    <drop chance="83717" itemid="1968" max="2" min="1"/>
+    <drop chance="83333" itemid="1968" max="1" min="1"/>
+    <drop chance="200000" itemid="1876" max="2" min="1"/>
+    <drop chance="5208" itemid="951" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -3013,9 +3016,9 @@
     <drop chance="700000" itemid="57" max="930" min="457"/>
    </category>
    <category id="-1">
-    <drop chance="131157" itemid="1539" max="2" min="1"/>
-    <drop chance="91969" itemid="1875" max="2" min="1"/>
-    <drop chance="25142" itemid="4601" max="1" min="1"/>
+    <drop chance="25000" itemid="4601" max="1" min="1"/>
+    <drop chance="125000" itemid="1539" max="3" min="1"/>
+    <drop chance="90909" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -3084,9 +3087,6 @@
     <drop chance="700000" itemid="57" max="1705" min="839"/>
    </category>
    <category id="-1">
-    <drop chance="125051" itemid="1914" max="1" min="1"/>
-    <drop chance="85712" itemid="1915" max="1" min="1"/>
-    <drop chance="91521" itemid="2169" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -3131,17 +3131,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-    <drop chance="352544" itemid="1869" max="10" min="1"/>
-    <drop chance="84878" itemid="1916" max="1" min="1"/>
-    <drop chance="89377" itemid="2170" max="1" min="1"/>
-   </category>
-  </drops>
  </npc>
  <npc id="22060" name="Horrifying Cannon Golem" title="">
   <set name="level" val="52"/>
@@ -3186,17 +3175,6 @@
    <skill id="4457" level="2"/>
    <skill id="4663" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-    <drop chance="131157" itemid="1539" max="3" min="1"/>
-    <drop chance="132522" itemid="1870" max="9" min="1"/>
-    <drop chance="42852" itemid="4602" max="1" min="1"/>
-   </category>
-  </drops>
  </npc>
  <npc id="22061" name="Horrifying Cannon Golem III" title="">
   <set name="level" val="51"/>
@@ -3288,6 +3266,8 @@
    </category>
    <category id="0">
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22063" name="Ginzu Golem Prodigy X" title="">
@@ -3331,16 +3311,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-    <drop chance="131157" itemid="1539" max="2" min="1"/>
-    <drop chance="200000" itemid="1864" max="10" min="1"/>
-   </category>
-  </drops>
  </npc>
  <npc id="22064" name="Bloodthirsty Ginzu Golem II" title="">
   <set name="level" val="52"/>
@@ -3399,9 +3369,6 @@
     <drop chance="700000" itemid="57" max="4602" min="2301"/>
    </category>
    <category id="-1">
-    <drop chance="11217" itemid="1983" max="1" min="1"/>
-    <drop chance="12504" itemid="2089" max="1" min="1"/>
-    <drop chance="6215" itemid="2233" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -3446,17 +3413,6 @@
    <skill id="4457" level="2"/>
    <skill id="4641" level="1"/>
   </skills>
-  <drops>
-   <category id="1">
-   </category>
-   <category id="0">
-   </category>
-   <category id="-1">
-    <drop chance="189351" itemid="1864" max="13" min="13"/>
-    <drop chance="127027" itemid="1895" max="3" min="1"/>
-    <drop chance="87027" itemid="1918" max="1" min="1"/>
-   </category>
-  </drops>
  </npc>
  <npc id="22066" name="Horrifying Cannon Golem VI" title="">
   <set name="level" val="53"/>
@@ -3901,6 +3857,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="2623" min="1299"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22076" name="Deadly Ginzu Golem V" title="">
@@ -3956,6 +3914,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="4574" min="2567"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4095,9 +4055,9 @@
     <drop chance="700000" itemid="57" max="1581" min="466"/>
    </category>
    <category id="-1">
-    <drop chance="20680" itemid="2121" max="1" min="1"/>
-    <drop chance="16626" itemid="2122" max="1" min="1"/>
-    <drop chance="19075" itemid="4145" max="1" min="1"/>
+    <drop chance="20833" itemid="2121" max="1" min="1"/>
+    <drop chance="16667" itemid="2122" max="1" min="1"/>
+    <drop chance="19231" itemid="4145" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4159,9 +4119,9 @@
     <drop chance="700000" itemid="57" max="1703" min="511"/>
    </category>
    <category id="-1">
-    <drop chance="823561" itemid="1867" max="5" min="1"/>
-    <drop chance="802482" itemid="1872" max="4" min="1"/>
-    <drop chance="76144" itemid="2917" max="1" min="1"/>
+    <drop chance="1000000" itemid="1872" max="5" min="1"/>
+    <drop chance="1000000" itemid="1867" max="5" min="1"/>
+    <drop chance="76923" itemid="2917" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -4232,9 +4192,9 @@
     <drop chance="700000" itemid="57" max="986" min="485"/>
    </category>
    <category id="-1">
-    <drop chance="22577" itemid="2954" max="2" min="1"/>
-    <drop chance="58761" itemid="4146" max="1" min="1"/>
     <drop chance="1135" itemid="4147" max="2" min="1"/>
+    <drop chance="58824" itemid="4146" max="1" min="1"/>
+    <drop chance="22727" itemid="2954" max="2" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4295,9 +4255,10 @@
     <drop chance="700000" itemid="57" max="1134" min="557"/>
    </category>
    <category id="-1">
-    <drop chance="854850" itemid="1872" max="5" min="1"/>
-    <drop chance="81734" itemid="2955" max="2" min="1"/>
-    <drop chance="12537" itemid="4041" max="1" min="1"/>
+    <drop chance="1000000" itemid="1872" max="3" min="1"/>
+    <drop chance="1000000" itemid="1881" max="1" min="1"/>
+    <drop chance="12500" itemid="4041" max="1" min="1"/>
+    <drop chance="83333" itemid="2955" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -4362,9 +4323,9 @@
     <drop chance="700000" itemid="57" max="1710" min="502"/>
    </category>
    <category id="-1">
-    <drop chance="20931" itemid="2959" max="2" min="1"/>
-    <drop chance="106563" itemid="2960" max="2" min="1"/>
-    <drop chance="10906" itemid="4148" max="1" min="1"/>
+    <drop chance="111111" itemid="2960" max="2" min="1"/>
+    <drop chance="20833" itemid="2959" max="1" min="1"/>
+    <drop chance="10870" itemid="4148" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4425,10 +4386,10 @@
     <drop chance="700000" itemid="57" max="1778" min="521"/>
    </category>
    <category id="-1">
-    <drop chance="952" itemid="947" max="1" min="1"/>
-    <drop chance="63959" itemid="4049" max="1" min="1"/>
-    <drop chance="13197" itemid="4129" max="1" min="1"/>
+    <drop chance="62500" itemid="4049" max="1" min="1"/>
+    <drop chance="13158" itemid="4129" max="1" min="1"/>
     <drop chance="810" itemid="8311" max="1" min="1"/>
+    <drop chance="952" itemid="947" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -4495,9 +4456,9 @@
     <drop chance="700000" itemid="57" max="937" min="460"/>
    </category>
    <category id="-1">
-    <drop chance="113674" itemid="1874" max="2" min="1"/>
-    <drop chance="197438" itemid="1918" max="1" min="1"/>
-    <drop chance="121204" itemid="4043" max="1" min="1"/>
+    <drop chance="125000" itemid="4043" max="1" min="1"/>
+    <drop chance="200000" itemid="1918" max="2" min="1"/>
+    <drop chance="111111" itemid="1874" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4561,9 +4522,9 @@
     <drop chance="700000" itemid="57" max="1091" min="534"/>
    </category>
    <category id="-1">
-    <drop chance="85625" itemid="4049" max="1" min="1"/>
-    <drop chance="43219" itemid="4130" max="1" min="1"/>
-    <drop chance="23438" itemid="4131" max="1" min="1"/>
+    <drop chance="83333" itemid="4049" max="1" min="1"/>
+    <drop chance="23256" itemid="4131" max="1" min="1"/>
+    <drop chance="43478" itemid="4130" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -4627,9 +4588,9 @@
     <drop chance="700000" itemid="57" max="1751" min="857"/>
    </category>
    <category id="-1">
-    <drop chance="19531" itemid="948" max="1" min="1"/>
-    <drop chance="767500" itemid="1865" max="5" min="1"/>
-    <drop chance="233550" itemid="4050" max="1" min="1"/>
+    <drop chance="250000" itemid="4050" max="2" min="1"/>
+    <drop chance="19608" itemid="948" max="1" min="1"/>
+    <drop chance="1000000" itemid="1865" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4685,6 +4646,11 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1065" min="521"/>
+   </category>
+   <category id="-1">
+    <drop chance="4975" itemid="4051" max="1" min="1"/>
+    <drop chance="1000000" itemid="1867" max="5" min="1"/>
+    <drop chance="6452" itemid="4613" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4746,9 +4712,9 @@
     <drop chance="700000" itemid="57" max="1224" min="599"/>
    </category>
    <category id="-1">
-    <drop chance="22188" itemid="4056" max="1" min="1"/>
-    <drop chance="19594" itemid="4154" max="1" min="1"/>
-    <drop chance="4531" itemid="4155" max="1" min="1"/>
+    <drop chance="4525" itemid="4155" max="1" min="1"/>
+    <drop chance="19608" itemid="4154" max="1" min="1"/>
+    <drop chance="22222" itemid="4056" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4811,8 +4777,8 @@
    </category>
    <category id="-1">
     <drop chance="593" itemid="947" max="1" min="1"/>
-    <drop chance="791445" itemid="1866" max="3" min="1"/>
-    <drop chance="64320" itemid="4057" max="1" min="1"/>
+    <drop chance="1000000" itemid="1866" max="3" min="1"/>
+    <drop chance="62500" itemid="4057" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -4880,8 +4846,8 @@
     <drop chance="700000" itemid="57" max="2324" min="656"/>
    </category>
    <category id="-1">
-    <drop chance="535000" itemid="1869" max="5" min="1"/>
-    <drop chance="6535" itemid="4614" max="1" min="1"/>
+    <drop chance="6536" itemid="4614" max="1" min="1"/>
+    <drop chance="500000" itemid="1869" max="5" min="1"/>
     <drop chance="500" itemid="8306" max="1" min="1"/>
    </category>
   </drops>
@@ -4953,9 +4919,9 @@
     <drop chance="700000" itemid="57" max="2410" min="680"/>
    </category>
    <category id="-1">
-    <drop chance="48737" itemid="4065" max="1" min="1"/>
-    <drop chance="5149" itemid="4157" max="1" min="1"/>
-    <drop chance="3533" itemid="4158" max="1" min="1"/>
+    <drop chance="47619" itemid="4065" max="1" min="1"/>
+    <drop chance="5155" itemid="4157" max="1" min="1"/>
+    <drop chance="3534" itemid="4158" max="1" min="1"/>
     <drop chance="986" itemid="8314" max="1" min="1"/>
    </category>
   </drops>
@@ -5017,9 +4983,9 @@
     <drop chance="700000" itemid="57" max="2021" min="994"/>
    </category>
    <category id="-1">
-    <drop chance="6406" itemid="4615" max="1" min="1"/>
-    <drop chance="425" itemid="8300" max="1" min="1"/>
+    <drop chance="6410" itemid="4615" max="1" min="1"/>
     <drop chance="425" itemid="8316" max="1" min="1"/>
+    <drop chance="425" itemid="8300" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5083,6 +5049,11 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1227" min="605"/>
    </category>
+   <category id="-1">
+    <drop chance="5917" itemid="4615" max="1" min="1"/>
+    <drop chance="1000000" itemid="1876" max="1" min="1"/>
+    <drop chance="166667" itemid="4067" max="1" min="1"/>
+   </category>
   </drops>
  </npc>
  <npc id="22095" name="Ursus Cub" title="">
@@ -5141,9 +5112,9 @@
     <drop chance="700000" itemid="57" max="2127" min="627"/>
    </category>
    <category id="-1">
-    <drop chance="14500" itemid="4068" max="2" min="1"/>
-    <drop chance="8750" itemid="4159" max="1" min="1"/>
-    <drop chance="8750" itemid="4160" max="1" min="1"/>
+    <drop chance="14493" itemid="4068" max="1" min="1"/>
+    <drop chance="8772" itemid="4159" max="1" min="1"/>
+    <drop chance="8772" itemid="4160" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5207,9 +5178,9 @@
     <drop chance="700000" itemid="57" max="2201" min="650"/>
    </category>
    <category id="-1">
-    <drop chance="136158" itemid="1875" max="1" min="1"/>
-    <drop chance="38815" itemid="4041" max="1" min="1"/>
-    <drop chance="88462" itemid="4052" max="1" min="1"/>
+    <drop chance="90909" itemid="4052" max="1" min="1"/>
+    <drop chance="38462" itemid="4041" max="1" min="1"/>
+    <drop chance="142857" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -5277,9 +5248,9 @@
     <drop chance="700000" itemid="57" max="1536" min="758"/>
    </category>
    <category id="-1">
-    <drop chance="3431" itemid="1807" max="1" min="1"/>
-    <drop chance="315000" itemid="4053" max="2" min="1"/>
-    <drop chance="38425" itemid="4054" max="2" min="1"/>
+    <drop chance="38462" itemid="4054" max="1" min="1"/>
+    <drop chance="3436" itemid="1807" max="1" min="1"/>
+    <drop chance="333333" itemid="4053" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5353,9 +5324,9 @@
     <drop chance="700000" itemid="57" max="1590" min="785"/>
    </category>
    <category id="-1">
-    <drop chance="3141" itemid="3035" max="1" min="1"/>
-    <drop chance="61038" itemid="4039" max="2" min="1"/>
-    <drop chance="105674" itemid="4077" max="2" min="1"/>
+    <drop chance="111111" itemid="4077" max="1" min="1"/>
+    <drop chance="62500" itemid="4039" max="1" min="1"/>
+    <drop chance="3145" itemid="3035" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -5611,7 +5582,8 @@
    </category>
    <category id="0">
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22105" name="Spiked Stakato" title="">
@@ -5675,9 +5647,9 @@
     <drop chance="700000" itemid="57" max="7046" min="3454"/>
    </category>
    <category id="-1">
-    <drop chance="500000" itemid="1875" max="2" min="1"/>
     <drop chance="5000" itemid="5434" max="1" min="1"/>
-    <drop chance="50000" itemid="5478" max="2" min="1"/>
+    <drop chance="25000" itemid="5478" max="1" min="1"/>
+    <drop chance="50000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5741,8 +5713,8 @@
    </category>
    <category id="-1">
     <drop chance="5000" itemid="5440" max="1" min="1"/>
-    <drop chance="25000" itemid="5479" max="2" min="1"/>
-    <drop chance="25000" itemid="5482" max="2" min="1"/>
+    <drop chance="25000" itemid="5482" max="1" min="1"/>
+    <drop chance="25000" itemid="5479" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5800,9 +5772,9 @@
     <drop chance="700000" itemid="57" max="7472" min="3670"/>
    </category>
    <category id="-1">
-    <drop chance="2500" itemid="729" max="1" min="1"/>
-    <drop chance="500000" itemid="4039" max="2" min="1"/>
+    <drop chance="50000" itemid="4039" max="1" min="1"/>
     <drop chance="50000" itemid="4041" max="1" min="1"/>
+    <drop chance="2500" itemid="729" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5872,8 +5844,8 @@
    </category>
    <category id="-1">
     <drop chance="5000" itemid="5442" max="1" min="1"/>
-    <drop chance="25000" itemid="5485" max="1" min="1"/>
     <drop chance="25000" itemid="5486" max="1" min="1"/>
+    <drop chance="25000" itemid="5485" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -5939,6 +5911,11 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="10280" min="5048"/>
    </category>
+   <category id="-1">
+    <drop chance="5000" itemid="5448" max="1" min="1"/>
+    <drop chance="500" itemid="730" max="1" min="1"/>
+    <drop chance="14925" itemid="5489" max="1" min="1"/>
+   </category>
   </drops>
  </npc>
  <npc id="22110" name="Male Spiked Stakato" title="">
@@ -5998,6 +5975,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="7792" min="3824"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6129,9 +6108,9 @@
     <drop chance="700000" itemid="57" max="9526" min="4684"/>
    </category>
    <category id="-1">
+    <drop chance="50000" itemid="4041" max="1" min="1"/>
     <drop chance="2500" itemid="729" max="1" min="1"/>
-    <drop chance="200000" itemid="4041" max="1" min="1"/>
-    <drop chance="200000" itemid="5478" max="1" min="1"/>
+    <drop chance="25000" itemid="5478" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6200,9 +6179,9 @@
     <drop chance="700000" itemid="57" max="11950" min="5878"/>
    </category>
    <category id="-1">
-    <drop chance="800000" itemid="1875" max="3" min="1"/>
-    <drop chance="10000" itemid="3957" max="1" min="1"/>
-    <drop chance="100000" itemid="5522" max="1" min="1"/>
+    <drop chance="5000" itemid="3957" max="1" min="1"/>
+    <drop chance="25000" itemid="5522" max="1" min="1"/>
+    <drop chance="50000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6260,6 +6239,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="7904" min="4128"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6323,9 +6304,9 @@
     <drop chance="700000" itemid="57" max="7936" min="3881"/>
    </category>
    <category id="-1">
-    <drop chance="700000" itemid="1875" max="3" min="1"/>
     <drop chance="50000" itemid="4041" max="1" min="1"/>
-    <drop chance="35000" itemid="5488" max="1" min="1"/>
+    <drop chance="25000" itemid="5488" max="1" min="1"/>
+    <drop chance="50000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6384,11 +6365,7 @@
     <drop chance="700000" itemid="57" max="8164" min="4003"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="5145" max="1" min="1"/>
-    <drop chance="5000" itemid="5151" max="1" min="1"/>
-    <drop chance="5000" itemid="5167" max="1" min="1"/>
-    <drop chance="5000" itemid="5277" max="1" min="1"/>
-    <drop chance="250000" itemid="5495" max="2" min="1"/>
+    <drop chance="25000" itemid="5495" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6450,8 +6427,8 @@
    </category>
    <category id="-1">
     <drop chance="50000" itemid="4043" max="1" min="1"/>
-    <drop chance="25000" itemid="5502" max="1" min="1"/>
     <drop chance="50000" itemid="5550" max="1" min="1"/>
+    <drop chance="25000" itemid="5502" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6519,8 +6496,8 @@
    </category>
    <category id="-1">
     <drop chance="5000" itemid="5272" max="1" min="1"/>
-    <drop chance="250000" itemid="5503" max="1" min="1"/>
-    <drop chance="250000" itemid="5514" max="1" min="1"/>
+    <drop chance="25000" itemid="5514" max="1" min="1"/>
+    <drop chance="25000" itemid="5503" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6579,6 +6556,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8638" min="4423"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -6646,6 +6625,10 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="11140" min="5464"/>
    </category>
+   <category id="-1">
+    <drop chance="5000" itemid="5282" max="1" min="1"/>
+    <drop chance="25000" itemid="5522" max="1" min="1"/>
+   </category>
   </drops>
  </npc>
  <npc id="22121" name="Spiked Stakato Shaman" title="">
@@ -6706,6 +6689,11 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8641" min="4283"/>
+   </category>
+   <category id="-1">
+    <drop chance="5000" itemid="1808" max="1" min="1"/>
+    <drop chance="25000" itemid="5527" max="1" min="1"/>
+    <drop chance="25000" itemid="5523" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6770,9 +6758,11 @@
     <drop chance="700000" itemid="57" max="11610" min="5689"/>
    </category>
    <category id="-1">
-    <drop chance="62500" itemid="4040" max="2" min="1"/>
-    <drop chance="125000" itemid="6346" max="3" min="1"/>
+    <drop chance="62500" itemid="4040" max="1" min="1"/>
     <drop chance="5000" itemid="6901" max="1" min="1"/>
+    <drop chance="25000" itemid="5528" max="1" min="1"/>
+    <drop chance="125000" itemid="6346" max="2" min="1"/>
+    <drop chance="50000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6842,12 +6832,12 @@
     <drop chance="700000" itemid="57" max="11760" min="5742"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="3036" max="1" min="1"/>
+    <drop chance="25000" itemid="5529" max="1" min="1"/>
     <drop chance="5000" itemid="3957" max="1" min="1"/>
     <drop chance="5000" itemid="5282" max="1" min="1"/>
-    <drop chance="25000" itemid="5529" max="1" min="1"/>
-    <drop chance="250000" itemid="6342" max="1" min="1"/>
-    <drop chance="125000" itemid="6344" max="1" min="1"/>
+    <drop chance="5000" itemid="3036" max="1" min="1"/>
+    <drop chance="25000" itemid="6342" max="1" min="1"/>
+    <drop chance="25000" itemid="6344" max="1" min="1"/>
     <drop chance="25000" itemid="6346" max="1" min="1"/>
    </category>
   </drops>
@@ -6923,12 +6913,12 @@
     <drop chance="700000" itemid="57" max="9323" min="4553"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="1808" max="1" min="1"/>
-    <drop chance="50000" itemid="1876" max="1" min="1"/>
-    <drop chance="50000" itemid="1895" max="1" min="1"/>
-    <drop chance="500000" itemid="4040" max="1" min="1"/>
-    <drop chance="125000" itemid="5480" max="1" min="1"/>
     <drop chance="25000" itemid="5533" max="1" min="1"/>
+    <drop chance="50000" itemid="1895" max="1" min="1"/>
+    <drop chance="50000" itemid="1876" max="1" min="1"/>
+    <drop chance="50000" itemid="4040" max="1" min="1"/>
+    <drop chance="5000" itemid="1808" max="1" min="1"/>
+    <drop chance="25000" itemid="5480" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -6990,10 +6980,10 @@
     <drop chance="700000" itemid="57" max="9342" min="4562"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="3036" max="1" min="1"/>
     <drop chance="2500" itemid="5157" max="1" min="1"/>
+    <drop chance="5000" itemid="3036" max="1" min="1"/>
     <drop chance="125000" itemid="5481" max="1" min="1"/>
-    <drop chance="120000" itemid="5487" max="1" min="1"/>
+    <drop chance="125000" itemid="5487" max="1" min="1"/>
     <drop chance="25000" itemid="5534" max="1" min="1"/>
     <drop chance="25000" itemid="5537" max="1" min="1"/>
    </category>
@@ -7064,12 +7054,12 @@
     <drop chance="700000" itemid="57" max="9570" min="4672"/>
    </category>
    <category id="-1">
-    <drop chance="645000" itemid="4043" max="2" min="1"/>
-    <drop chance="50000" itemid="4044" max="1" min="1"/>
-    <drop chance="5000" itemid="5162" max="1" min="1"/>
-    <drop chance="78000" itemid="5488" max="1" min="1"/>
+    <drop chance="50000" itemid="4043" max="1" min="1"/>
     <drop chance="25000" itemid="5538" max="1" min="1"/>
-    <drop chance="270000" itemid="5550" max="1" min="1"/>
+    <drop chance="50000" itemid="5550" max="1" min="1"/>
+    <drop chance="5000" itemid="5162" max="1" min="1"/>
+    <drop chance="25000" itemid="5488" max="1" min="1"/>
+    <drop chance="50000" itemid="4044" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7173,11 +7163,11 @@
     <drop chance="700000" itemid="57" max="2814" min="1381"/>
    </category>
    <category id="-1">
-    <drop chance="50000" itemid="1875" max="1" min="1"/>
-    <drop chance="50000" itemid="4041" max="1" min="1"/>
     <drop chance="25000" itemid="6689" max="1" min="1"/>
     <drop chance="25000" itemid="6690" max="1" min="1"/>
+    <drop chance="50000" itemid="4041" max="1" min="1"/>
     <drop chance="5000" itemid="6901" max="1" min="1"/>
+    <drop chance="50000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7247,9 +7237,12 @@
     <drop chance="700000" itemid="57" max="10040" min="4923"/>
    </category>
    <category id="-1">
-    <drop chance="264400" itemid="6698" max="2" min="1"/>
-    <drop chance="302600" itemid="6699" max="2" min="1"/>
-    <drop chance="167000" itemid="6700" max="1" min="1"/>
+    <drop chance="5000" itemid="4043" max="2" min="1"/>
+    <drop chance="5000" itemid="4042" max="2" min="1"/>
+    <drop chance="500" itemid="959" max="1" min="1"/>
+    <drop chance="50000" itemid="6698" max="1" min="1"/>
+    <drop chance="25000" itemid="6700" max="1" min="1"/>
+    <drop chance="50000" itemid="6699" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7312,11 +7305,10 @@
     <drop chance="700000" itemid="57" max="14770" min="7234"/>
    </category>
    <category id="-1">
-    <drop chance="1000" itemid="959" max="1" min="1"/>
-    <drop chance="739100" itemid="1894" max="2" min="1"/>
-    <drop chance="683400" itemid="4039" max="2" min="1"/>
     <drop chance="25000" itemid="6691" max="1" min="1"/>
+    <drop chance="50000" itemid="1894" max="1" min="1"/>
     <drop chance="25000" itemid="6693" max="1" min="1"/>
+    <drop chance="50000" itemid="4039" max="1" min="1"/>
     <drop chance="5000" itemid="6901" max="1" min="1"/>
    </category>
   </drops>
@@ -7388,12 +7380,11 @@
     <drop chance="700000" itemid="57" max="15900" min="7789"/>
    </category>
    <category id="-1">
-    <drop chance="1500" itemid="960" max="1" min="1"/>
-    <drop chance="25000" itemid="6694" max="1" min="1"/>
-    <drop chance="330500" itemid="6704" max="1" min="1"/>
-    <drop chance="319600" itemid="6705" max="1" min="1"/>
-    <drop chance="383000" itemid="6706" max="1" min="1"/>
     <drop chance="5000" itemid="6901" max="1" min="1"/>
+    <drop chance="25000" itemid="6694" max="1" min="1"/>
+    <drop chance="1499" itemid="960" max="1" min="1"/>
+    <drop chance="25000" itemid="6706" max="1" min="1"/>
+    <drop chance="25000" itemid="6705" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7461,11 +7452,11 @@
    </category>
    <category id="-1">
     <drop chance="25000" itemid="1872" max="1" min="1"/>
+    <drop chance="14925" itemid="6695" max="1" min="1"/>
     <drop chance="25000" itemid="4041" max="1" min="1"/>
-    <drop chance="15000" itemid="6695" max="1" min="1"/>
-    <drop chance="78100" itemid="6701" max="1" min="1"/>
-    <drop chance="104100" itemid="6702" max="2" min="1"/>
-    <drop chance="207000" itemid="6703" max="2" min="1"/>
+    <drop chance="50000" itemid="6701" max="1" min="1"/>
+    <drop chance="50000" itemid="6702" max="1" min="1"/>
+    <drop chance="50000" itemid="6703" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7527,6 +7518,10 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="4005" min="1989"/>
+   </category>
+   <category id="-1">
+    <drop chance="25000" itemid="6696" max="1" min="1"/>
+    <drop chance="5000" itemid="6901" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7592,12 +7587,12 @@
     <drop chance="700000" itemid="57" max="10540" min="5144"/>
    </category>
    <category id="-1">
+    <drop chance="7519" itemid="6697" max="1" min="1"/>
     <drop chance="500" itemid="959" max="1" min="1"/>
-    <drop chance="7500" itemid="4044" max="1" min="1"/>
-    <drop chance="7500" itemid="6697" max="1" min="1"/>
-    <drop chance="55000" itemid="6707" max="1" min="1"/>
-    <drop chance="210000" itemid="6708" max="1" min="1"/>
-    <drop chance="175000" itemid="6709" max="1" min="1"/>
+    <drop chance="12500" itemid="6707" max="1" min="1"/>
+    <drop chance="25000" itemid="6709" max="1" min="1"/>
+    <drop chance="25000" itemid="6708" max="1" min="1"/>
+    <drop chance="7519" itemid="4044" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7665,12 +7660,11 @@
     <drop chance="700000" itemid="57" max="16990" min="8288"/>
    </category>
    <category id="-1">
-    <drop chance="50000" itemid="1895" max="1" min="1"/>
     <drop chance="25000" itemid="6691" max="1" min="1"/>
-    <drop chance="25000" itemid="6693" max="1" min="1"/>
+    <drop chance="50000" itemid="1895" max="1" min="1"/>
+    <drop chance="5000" itemid="6901" max="1" min="1"/>
     <drop chance="25000" itemid="6694" max="1" min="1"/>
     <drop chance="25000" itemid="6698" max="1" min="1"/>
-    <drop chance="5000" itemid="6901" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -7770,6 +7764,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1008" min="492"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22138" name="Chapel Guard" title="">
@@ -7823,6 +7819,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1113" min="545"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -7880,9 +7878,8 @@
     <drop chance="700000" itemid="57" max="9265" min="4525"/>
    </category>
    <category id="-1">
-    <drop chance="2500" itemid="3957" max="1" min="1"/>
-    <drop chance="125000" itemid="5515" max="1" min="1"/>
     <drop chance="125000" itemid="5522" max="1" min="1"/>
+    <drop chance="125000" itemid="5515" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -7955,9 +7952,9 @@
     <drop chance="700000" itemid="57" max="9012" min="4415"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="730" max="1" min="1"/>
-    <drop chance="125000" itemid="5488" max="1" min="1"/>
-    <drop chance="250000" itemid="5495" max="1" min="1"/>
+    <drop chance="2500" itemid="730" max="1" min="1"/>
+    <drop chance="125000" itemid="5488" max="2" min="1"/>
+    <drop chance="250000" itemid="5495" max="2" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8022,7 +8019,7 @@
     <drop chance="700000" itemid="57" max="9322" min="4566"/>
    </category>
    <category id="-1">
-    <drop chance="5000" itemid="730" max="1" min="1"/>
+    <drop chance="2500" itemid="730" max="1" min="1"/>
     <drop chance="125000" itemid="5480" max="1" min="1"/>
     <drop chance="125000" itemid="5488" max="1" min="1"/>
    </category>
@@ -8096,9 +8093,9 @@
     <drop chance="700000" itemid="57" max="9387" min="4584"/>
    </category>
    <category id="-1">
+    <drop chance="250000" itemid="5220" max="2" min="1"/>
     <drop chance="2500" itemid="3957" max="1" min="1"/>
-    <drop chance="250000" itemid="5220" max="1" min="1"/>
-    <drop chance="175000" itemid="5495" max="1" min="1"/>
+    <drop chance="166667" itemid="5495" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8172,9 +8169,8 @@
     <drop chance="700000" itemid="57" max="10920" min="5331"/>
    </category>
    <category id="-1">
-    <drop chance="2500" itemid="5157" max="1" min="1"/>
-    <drop chance="175000" itemid="5502" max="1" min="1"/>
-    <drop chance="175000" itemid="5503" max="1" min="1"/>
+    <drop chance="166667" itemid="5502" max="1" min="1"/>
+    <drop chance="166667" itemid="5503" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8241,8 +8237,8 @@
     <drop chance="700000" itemid="57" max="9510" min="4643"/>
    </category>
    <category id="-1">
-    <drop chance="350000" itemid="1894" max="1" min="1"/>
-    <drop chance="222000" itemid="4042" max="1" min="1"/>
+    <drop chance="333333" itemid="1894" max="2" min="1"/>
+    <drop chance="200000" itemid="4042" max="2" min="1"/>
     <drop chance="125000" itemid="5514" max="1" min="1"/>
    </category>
   </drops>
@@ -8306,8 +8302,8 @@
     <drop chance="700000" itemid="57" max="9126" min="4457"/>
    </category>
    <category id="-1">
-    <drop chance="2500" itemid="5162" max="1" min="1"/>
     <drop chance="2500" itemid="5167" max="1" min="1"/>
+    <drop chance="2500" itemid="5162" max="1" min="1"/>
     <drop chance="125000" itemid="5515" max="1" min="1"/>
    </category>
   </drops>
@@ -8365,6 +8361,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="10100" min="4959"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8482,6 +8480,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="6777" min="4304"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22149" name="Ritual Offering" title="">
@@ -8544,8 +8544,8 @@
     <drop chance="700000" itemid="57" max="1800" min="1200"/>
    </category>
    <category id="-1">
-    <drop chance="350000" itemid="1876" max="2" min="1"/>
-    <drop chance="222000" itemid="4042" max="1" min="1"/>
+    <drop chance="200000" itemid="4042" max="1" min="1"/>
+    <drop chance="333333" itemid="1876" max="1" min="1"/>
     <drop chance="125000" itemid="5487" max="1" min="1"/>
    </category>
   </drops>
@@ -8604,6 +8604,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8339" min="4174"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -8664,7 +8666,7 @@
     <drop chance="700000" itemid="57" max="11744" min="5766"/>
    </category>
    <category id="-1">
-    <drop chance="500000" itemid="5549" max="3" min="1"/>
+    <drop chance="125000" itemid="5549" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8719,8 +8721,7 @@
     <drop chance="700000" itemid="57" max="10300" min="5068"/>
    </category>
    <category id="-1">
-    <drop chance="400000" itemid="1889" max="1" min="1"/>
-    <drop chance="175000" itemid="6690" max="1" min="1"/>
+    <drop chance="125000" itemid="1889" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8779,6 +8780,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9946" min="4902"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22154" name="Ritual Sacrifice" title="">
@@ -8835,7 +8838,7 @@
     <drop chance="700000" itemid="57" max="10020" min="4956"/>
    </category>
    <category id="-1">
-    <drop chance="550000" itemid="1895" max="5" min="1"/>
+    <drop chance="125000" itemid="1895" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8895,9 +8898,9 @@
     <drop chance="700000" itemid="57" max="14400" min="7072"/>
    </category>
    <category id="-1">
-    <drop chance="150000" itemid="6704" max="1" min="1"/>
-    <drop chance="222000" itemid="6705" max="1" min="1"/>
+    <drop chance="142857" itemid="6704" max="1" min="1"/>
     <drop chance="125000" itemid="6706" max="1" min="1"/>
+    <drop chance="200000" itemid="6705" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -8960,9 +8963,9 @@
     <drop chance="700000" itemid="57" max="13120" min="6420"/>
    </category>
    <category id="-1">
-    <drop chance="175000" itemid="6688" max="1" min="1"/>
-    <drop chance="175000" itemid="6689" max="1" min="1"/>
-    <drop chance="175000" itemid="6690" max="1" min="1"/>
+    <drop chance="166667" itemid="6689" max="1" min="1"/>
+    <drop chance="166667" itemid="6688" max="1" min="1"/>
+    <drop chance="166667" itemid="6690" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9018,8 +9021,8 @@
     <drop chance="700000" itemid="57" max="12560" min="6190"/>
    </category>
    <category id="-1">
-    <drop chance="800000" itemid="1894" max="1" min="1"/>
-    <drop chance="400000" itemid="4039" max="1" min="1"/>
+    <drop chance="200000" itemid="1894" max="1" min="1"/>
+    <drop chance="125000" itemid="4039" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9086,8 +9089,8 @@
     <drop chance="700000" itemid="57" max="12820" min="6286"/>
    </category>
    <category id="-1">
-    <drop chance="400000" itemid="1877" max="1" min="1"/>
-    <drop chance="300000" itemid="4040" max="1" min="1"/>
+    <drop chance="200000" itemid="1877" max="1" min="1"/>
+    <drop chance="125000" itemid="4040" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9209,7 +9212,6 @@
     <drop chance="700000" itemid="57" max="13140" min="6421"/>
    </category>
    <category id="-1">
-    <drop chance="125000" itemid="6691" max="1" min="1"/>
     <drop chance="125000" itemid="6693" max="1" min="1"/>
     <drop chance="125000" itemid="6694" max="1" min="1"/>
    </category>
@@ -9278,8 +9280,8 @@
     <drop chance="700000" itemid="57" max="12820" min="6285"/>
    </category>
    <category id="-1">
-    <drop chance="800000" itemid="1894" max="1" min="1"/>
-    <drop chance="400000" itemid="4039" max="1" min="1"/>
+    <drop chance="200000" itemid="1894" max="1" min="1"/>
+    <drop chance="125000" itemid="4039" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9338,8 +9340,8 @@
     <drop chance="700000" itemid="57" max="12820" min="6285"/>
    </category>
    <category id="-1">
-    <drop chance="300000" itemid="1877" max="1" min="1"/>
-    <drop chance="400000" itemid="4040" max="1" min="1"/>
+    <drop chance="50000" itemid="1877" max="1" min="1"/>
+    <drop chance="50000" itemid="4040" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9400,8 +9402,8 @@
    </category>
    <category id="-1">
     <drop chance="125000" itemid="6707" max="1" min="1"/>
-    <drop chance="125000" itemid="6708" max="1" min="1"/>
     <drop chance="125000" itemid="6709" max="1" min="1"/>
+    <drop chance="125000" itemid="6708" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9462,9 +9464,8 @@
     <drop chance="700000" itemid="57" max="13140" min="6419"/>
    </category>
    <category id="-1">
-    <drop chance="125000" itemid="6695" max="1" min="1"/>
-    <drop chance="125000" itemid="6696" max="1" min="1"/>
     <drop chance="125000" itemid="6697" max="1" min="1"/>
+    <drop chance="125000" itemid="6696" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9527,8 +9528,8 @@
     <drop chance="700000" itemid="57" max="12570" min="6171"/>
    </category>
    <category id="-1">
-    <drop chance="800000" itemid="1894" max="1" min="1"/>
-    <drop chance="400000" itemid="4039" max="1" min="1"/>
+    <drop chance="200000" itemid="1894" max="1" min="1"/>
+    <drop chance="125000" itemid="4039" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9590,8 +9591,8 @@
     <drop chance="700000" itemid="57" max="12570" min="6161"/>
    </category>
    <category id="-1">
-    <drop chance="300000" itemid="1877" max="1" min="1"/>
-    <drop chance="400000" itemid="4040" max="1" min="1"/>
+    <drop chance="333333" itemid="1877" max="1" min="1"/>
+    <drop chance="125000" itemid="4040" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9653,7 +9654,6 @@
    </category>
    <category id="-1">
     <drop chance="125000" itemid="6710" max="1" min="1"/>
-    <drop chance="125000" itemid="6711" max="1" min="1"/>
     <drop chance="125000" itemid="6712" max="1" min="1"/>
    </category>
   </drops>
@@ -9712,8 +9712,8 @@
    </category>
    <category id="-1">
     <drop chance="125000" itemid="6698" max="1" min="1"/>
-    <drop chance="125000" itemid="6699" max="1" min="1"/>
     <drop chance="125000" itemid="6700" max="1" min="1"/>
+    <drop chance="125000" itemid="6699" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9775,9 +9775,9 @@
     <drop chance="700000" itemid="57" max="15230" min="7442"/>
    </category>
    <category id="-1">
-    <drop chance="800000" itemid="1894" max="1" min="1"/>
-    <drop chance="400000" itemid="4039" max="1" min="1"/>
-    <drop chance="400000" itemid="4040" max="1" min="1"/>
+    <drop chance="200000" itemid="1894" max="1" min="1"/>
+    <drop chance="125000" itemid="4039" max="1" min="1"/>
+    <drop chance="125000" itemid="4040" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9881,9 +9881,9 @@
     <drop chance="700000" itemid="57" max="17500" min="8543"/>
    </category>
    <category id="-1">
+    <drop chance="125000" itemid="7579" max="1" min="1"/>
     <drop chance="125000" itemid="6713" max="1" min="1"/>
     <drop chance="125000" itemid="6714" max="1" min="1"/>
-    <drop chance="125000" itemid="7579" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -9947,7 +9947,6 @@
    </category>
    <category id="-1">
     <drop chance="125000" itemid="6714" max="1" min="1"/>
-    <drop chance="10000" itemid="6901" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -10006,8 +10005,8 @@
     <drop chance="700000" itemid="57" max="12880" min="6297"/>
    </category>
    <category id="-1">
-    <drop chance="800000" itemid="1894" max="1" min="1"/>
-    <drop chance="400000" itemid="4039" max="1" min="1"/>
+    <drop chance="200000" itemid="1894" max="1" min="1"/>
+    <drop chance="125000" itemid="4039" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -10065,8 +10064,8 @@
     <drop chance="700000" itemid="57" max="12820" min="6280"/>
    </category>
    <category id="-1">
-    <drop chance="300000" itemid="1877" max="1" min="1"/>
-    <drop chance="400000" itemid="4040" max="1" min="1"/>
+    <drop chance="333333" itemid="1877" max="1" min="1"/>
+    <drop chance="125000" itemid="4040" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -10119,6 +10118,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="508" min="215"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -10176,6 +10177,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="2200" min="1500"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22188" name="Andreas' Captain of the Royal Guard" title="">
@@ -10226,6 +10229,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="7692" min="6232"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="22189" max="1" min="1"/>
@@ -10274,7 +10279,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="7385" min="4456"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22190" name="Ritual Sacrifice" title="">
@@ -10322,6 +10328,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="7610" min="7411"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10575,6 +10583,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="20910" min="10430"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="22197" max="1" min="1"/>
@@ -10704,6 +10714,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="21090" min="10320"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22199" name="Pterosaur" title="">
@@ -10763,6 +10775,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="36670" min="18270"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10824,6 +10838,11 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9095" min="4460"/>
    </category>
+   <category id="-1">
+    <drop chance="18182" itemid="6695" max="1" min="1"/>
+    <drop chance="500000" itemid="1895" max="5" min="1"/>
+    <drop chance="333333" itemid="4040" max="1" min="1"/>
+   </category>
   </drops>
   <minions>
    <minion id="22201" max="1" min="1"/>
@@ -10883,6 +10902,9 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9089" min="4468"/>
    </category>
+   <category id="-1">
+    <drop chance="18868" itemid="6696" max="1" min="1"/>
+   </category>
   </drops>
  </npc>
  <npc id="22202" name="Ornithomimus" title="">
@@ -10939,6 +10961,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="8279" min="4059"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22203" name="Deinonychus" title="">
@@ -10991,6 +11015,11 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8702" min="4308"/>
+   </category>
+   <category id="-1">
+    <drop chance="333333" itemid="1885" max="1" min="1"/>
+    <drop chance="7937" itemid="6901" max="1" min="1"/>
+    <drop chance="166667" itemid="6698" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -11050,6 +11079,10 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="8729" min="4278"/>
    </category>
+   <category id="-1">
+    <drop chance="250000" itemid="6700" max="1" min="1"/>
+    <drop chance="250000" itemid="6699" max="1" min="1"/>
+   </category>
   </drops>
  </npc>
  <npc id="22205" name="Deinonychus" title="">
@@ -11100,6 +11133,9 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="7199" min="3531"/>
    </category>
+   <category id="-1">
+    <drop chance="1000000" itemid="1875" max="1" min="1"/>
+   </category>
   </drops>
  </npc>
  <npc id="22208" name="Pachycephalosaurus" title="">
@@ -11147,6 +11183,10 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="9334" min="4602"/>
+   </category>
+   <category id="-1">
+    <drop chance="500000" itemid="1894" max="1" min="1"/>
+    <drop chance="250000" itemid="6704" max="1" min="1"/>
    </category>
   </drops>
   <minions>
@@ -11198,6 +11238,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="10140" min="5021"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22210" name="Pachycephalosaurus" title="">
@@ -11247,6 +11289,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="7993" min="3927"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22211" name="Wild Strider" title="">
@@ -11295,6 +11339,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="9173" min="4493"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -11347,7 +11393,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9552" min="4695"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22213" name="Wild Strider" title="">
@@ -11395,6 +11442,9 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="7955" min="3914"/>
+   </category>
+   <category id="-1">
+    <drop chance="500000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11449,8 +11499,8 @@
     <drop chance="700000" itemid="57" max="9052" min="4478"/>
    </category>
    <category id="-1">
-    <drop chance="510000" itemid="1889" max="1" min="1"/>
-    <drop chance="750000" itemid="5549" max="1" min="1"/>
+    <drop chance="500000" itemid="1889" max="1" min="1"/>
+    <drop chance="1000000" itemid="5549" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11505,6 +11555,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="110520" min="55210"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22216" name="Tyrannosaurus" title="">
@@ -11552,6 +11604,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="100100" min="57070"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11603,7 +11657,7 @@
     <drop chance="700000" itemid="57" max="109660" min="55710"/>
    </category>
    <category id="-1">
-    <drop chance="300000" itemid="4042" max="3" min="1"/>
+    <drop chance="333333" itemid="4042" max="3" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11658,6 +11712,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="8612" min="4232"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -11759,7 +11815,7 @@
     <drop chance="700000" itemid="57" max="7871" min="3866"/>
    </category>
    <category id="-1">
-    <drop chance="680000" itemid="1875" max="3" min="1"/>
+    <drop chance="500000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11807,6 +11863,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9017" min="4503"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22222" name="Wild Strider" title="">
@@ -11852,7 +11910,7 @@
     <drop chance="700000" itemid="57" max="8907" min="4400"/>
    </category>
    <category id="-1">
-    <drop chance="630000" itemid="1875" max="1" min="1"/>
+    <drop chance="500000" itemid="1875" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11906,6 +11964,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9023" min="4432"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22224" name="Ornithomimus" title="">
@@ -11954,6 +12014,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="9014" min="4589"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
   <minions>
@@ -12009,6 +12071,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="8702" min="4308"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
   <minions>
    <minion id="22204" max="1" min="1"/>
@@ -12060,7 +12124,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="9915" min="5409"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="22227" name="Wild Strider" title="">
@@ -12106,6 +12171,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="9524" min="4826"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>

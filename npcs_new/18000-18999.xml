@@ -60,7 +60,7 @@
     <drop chance="700000" itemid="57" max="1528" min="765"/>
    </category>
    <category id="-1">
-    <drop chance="10868" itemid="1806" max="1" min="1"/>
+    <drop chance="10870" itemid="1806" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -150,6 +150,8 @@
    <category id="6">
    </category>
    <category id="0">
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -331,10 +333,6 @@
    <category id="0">
    </category>
    <category id="-1">
-    <drop chance="1000000" itemid="1895" max="15" min="3"/>
-    <drop chance="480000" itemid="1895" max="5" min="1"/>
-    <drop chance="421056" itemid="5479" max="3" min="3"/>
-    <drop chance="341460" itemid="1807" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -406,6 +404,8 @@
    <category id="13">
    </category>
    <category id="0">
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -491,7 +491,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="347" min="173"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18011" name="Offering of Branded Archer" title="">
@@ -574,7 +575,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="293" min="148"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18013" name="Offering of Branded Follower" title="">
@@ -622,7 +624,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="293" min="148"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18014" name="Offering of Branded Berserker" title="">
@@ -669,7 +672,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="455" min="228"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18015" name="Offering of Branded Zealot" title="">
@@ -715,7 +719,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="387" min="194"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18016" name="Offering of Branded Marksman" title="">
@@ -795,7 +800,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="387" min="194"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18018" name="Offering of Branded Saint" title="">
@@ -840,7 +846,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="504" min="253"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18019" name="Apostate's Offering Elder" title="">
@@ -925,7 +932,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="611" min="305"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18021" name="Apostate's Offering Archer" title="">
@@ -1008,7 +1016,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="529" min="265"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18023" name="Apostate's Offering Follower" title="">
@@ -1056,7 +1065,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="529" min="265"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18024" name="Apostate's Offering Berserker" title="">
@@ -1103,7 +1113,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="761" min="381"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18025" name="Apostate's Offering Zealot" title="">
@@ -1149,7 +1160,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="669" min="335"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18026" name="Apostate's Offering Marksman" title="">
@@ -1229,7 +1241,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="669" min="335"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18028" name="Apostate's Offering Saint" title="">
@@ -1274,7 +1287,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="829" min="414"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18029" name="Witch's Offering Elder" title="">
@@ -1359,7 +1373,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="972" min="486"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18031" name="Witch's Offering Archer" title="">
@@ -1442,7 +1457,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="863" min="431"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18033" name="Witch's Offering Follower" title="">
@@ -1490,7 +1506,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="863" min="431"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18034" name="Witch's Offering Berserker" title="">
@@ -1537,7 +1554,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1171" min="585"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18035" name="Witch's Offering Zealot" title="">
@@ -1583,7 +1601,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1049" min="525"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18036" name="Witch's Offering Marksman" title="">
@@ -1663,7 +1682,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1049" min="525"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18038" name="Witch's Offering Saint" title="">
@@ -1708,7 +1728,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1257" min="629"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18039" name="Dark Omen Offering Elder" title="">
@@ -1793,7 +1814,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1443" min="721"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18041" name="Dark Omen Offering Archer" title="">
@@ -1876,7 +1898,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1302" min="651"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18043" name="Dark Omen Offering Follower" title="">
@@ -1924,7 +1947,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1302" min="651"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18044" name="Dark Omen Offering Berserker" title="">
@@ -1971,7 +1995,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1697" min="848"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18045" name="Dark Omen Offering Zealot" title="">
@@ -2017,7 +2042,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1541" min="770"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18046" name="Dark Omen Offering Marksman" title="">
@@ -2097,7 +2123,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1541" min="770"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18048" name="Dark Omen Offering Saint" title="">
@@ -2142,7 +2169,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18049" name="Offering of Forbidden Path Elder" title="">
@@ -2227,7 +2255,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18051" name="Offering of Forbidden Path Archer" title="">
@@ -2310,7 +2339,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18053" name="Offering of Forbidden Path Follower" title="">
@@ -2358,7 +2388,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18054" name="Offering of Forbidden Path Berserker" title="">
@@ -2405,7 +2436,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18055" name="Offering of Forbidden Path Zealot" title="">
@@ -2451,7 +2483,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18056" name="Offering of Forbidden Path Marksman" title="">
@@ -2531,7 +2564,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18058" name="Offering of Forbidden Path Saint" title="">
@@ -2576,7 +2610,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18059" name="Offering of Branded Elder" title="">
@@ -2661,7 +2696,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="347" min="173"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18061" name="Offering of Branded Archer" title="">
@@ -2744,7 +2780,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="293" min="148"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18063" name="Offering of Branded Follower" title="">
@@ -2792,7 +2829,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="293" min="148"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18064" name="Offering of Branded Berserker" title="">
@@ -2839,7 +2877,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="455" min="228"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18065" name="Offering of Branded Zealot" title="">
@@ -2885,7 +2924,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="387" min="194"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18066" name="Offering of Branded Marksman" title="">
@@ -2965,7 +3005,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="387" min="194"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18068" name="Offering of Branded Saint" title="">
@@ -3010,7 +3051,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="504" min="253"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18069" name="Apostate's Offering Elder" title="">
@@ -3095,7 +3137,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="611" min="305"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18071" name="Apostate's Offering Archer" title="">
@@ -3178,7 +3221,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="529" min="265"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18073" name="Apostate's Offering Follower" title="">
@@ -3226,7 +3270,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="529" min="265"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18074" name="Apostate's Offering Berserker" title="">
@@ -3273,7 +3318,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="761" min="381"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18075" name="Apostate's Offering Zealot" title="">
@@ -3319,7 +3365,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="669" min="335"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18076" name="Apostate's Offering Marksman" title="">
@@ -3399,7 +3446,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="669" min="335"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18078" name="Apostate's Offering Saint" title="">
@@ -3444,7 +3492,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="829" min="414"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18079" name="Witch's Offering Elder" title="">
@@ -3529,7 +3578,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="972" min="486"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18081" name="Witch's Offering Archer" title="">
@@ -3612,7 +3662,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="863" min="431"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18083" name="Witch's Offering Follower" title="">
@@ -3660,7 +3711,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="863" min="431"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18084" name="Witch's Offering Berserker" title="">
@@ -3707,7 +3759,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1171" min="585"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18085" name="Witch's Offering Zealot" title="">
@@ -3753,7 +3806,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1049" min="525"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18086" name="Witch's Offering Marksman" title="">
@@ -3833,7 +3887,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1049" min="525"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18088" name="Witch's Offering Saint" title="">
@@ -3878,7 +3933,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1257" min="629"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18089" name="Dark Omen Offering Elder" title="">
@@ -3963,7 +4019,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1443" min="721"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18091" name="Dark Omen Offering Archer" title="">
@@ -4046,7 +4103,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1302" min="651"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18093" name="Dark Omen Offering Follower" title="">
@@ -4094,7 +4152,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1302" min="651"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18094" name="Dark Omen Offering Berserker" title="">
@@ -4141,7 +4200,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1697" min="848"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18095" name="Dark Omen Offering Zealot" title="">
@@ -4187,7 +4247,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1541" min="770"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18096" name="Dark Omen Offering Marksman" title="">
@@ -4267,7 +4328,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1541" min="770"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18098" name="Dark Omen Offering Saint" title="">
@@ -4312,7 +4374,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18099" name="Offering of Forbidden Path Elder" title="">
@@ -4397,7 +4460,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18101" name="Offering of Forbidden Path Archer" title="">
@@ -4480,7 +4544,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18103" name="Offering of Forbidden Path Follower" title="">
@@ -4528,7 +4593,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18104" name="Offering of Forbidden Path Berserker" title="">
@@ -4575,7 +4641,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18105" name="Offering of Forbidden Path Zealot" title="">
@@ -4621,7 +4688,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18106" name="Offering of Forbidden Path Marksman" title="">
@@ -4701,7 +4769,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18108" name="Offering of Forbidden Path Saint" title="">
@@ -4746,7 +4815,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1804" min="902"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18109" name="Treasures of the Festival" title="">
@@ -4791,6 +4861,8 @@
     <drop chance="15000" itemid="956" max="1" min="1"/>
     <drop chance="50000" itemid="1060" max="1" min="1"/>
     <drop chance="50000" itemid="1061" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4838,6 +4910,8 @@
     <drop chance="25000" itemid="1832" max="1" min="1"/>
     <drop chance="25000" itemid="1834" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18111" name="Treasures of the Festival" title="">
@@ -4883,6 +4957,8 @@
     <drop chance="2000" itemid="951" max="1" min="1"/>
     <drop chance="18000" itemid="952" max="1" min="1"/>
     <drop chance="50000" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -4930,6 +5006,8 @@
     <drop chance="6993" itemid="948" max="1" min="1"/>
     <drop chance="50000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18113" name="Treasures of the Festival" title="">
@@ -4976,6 +5054,8 @@
     <drop chance="25000" itemid="735" max="1" min="1"/>
     <drop chance="50000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18114" name="Treasures of the Festival" title="">
@@ -5020,6 +5100,8 @@
     <drop chance="15000" itemid="956" max="1" min="1"/>
     <drop chance="50000" itemid="1060" max="1" min="1"/>
     <drop chance="50000" itemid="1061" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5067,6 +5149,8 @@
     <drop chance="25000" itemid="1832" max="1" min="1"/>
     <drop chance="25000" itemid="1834" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18116" name="Treasures of the Festival" title="">
@@ -5112,6 +5196,8 @@
     <drop chance="2000" itemid="951" max="1" min="1"/>
     <drop chance="18000" itemid="952" max="1" min="1"/>
     <drop chance="50000" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -5159,6 +5245,8 @@
     <drop chance="6993" itemid="948" max="1" min="1"/>
     <drop chance="50000" itemid="1539" max="1" min="1"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18118" name="Treasures of the Festival" title="">
@@ -5204,6 +5292,8 @@
     <drop chance="25000" itemid="734" max="1" min="1"/>
     <drop chance="25000" itemid="735" max="1" min="1"/>
     <drop chance="50000" itemid="1539" max="1" min="1"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -10818,6 +10908,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="2743" min="1370"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18257" name="Treasure Chest" title="">
@@ -11143,10 +11235,6 @@
     <drop chance="700000" itemid="57" max="858" min="480"/>
    </category>
    <category id="-1">
-    <drop chance="1000000" itemid="1864" max="1" min="1"/>
-    <drop chance="879656" itemid="1864" max="1" min="1"/>
-    <drop chance="939828" itemid="1869" max="1" min="1"/>
-    <drop chance="94932" itemid="1926" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11193,9 +11281,6 @@
     <drop chance="700000" itemid="57" max="891" min="483"/>
    </category>
    <category id="-1">
-    <drop chance="305968" itemid="2151" max="1" min="1"/>
-    <drop chance="160004" itemid="1928" max="1" min="1"/>
-    <drop chance="525564" itemid="2176" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11242,10 +11327,6 @@
     <drop chance="700000" itemid="57" max="932" min="484"/>
    </category>
    <category id="-1">
-    <drop chance="198352" itemid="1899" max="1" min="1"/>
-    <drop chance="1000000" itemid="1871" max="1" min="1"/>
-    <drop chance="269448" itemid="1871" max="1" min="1"/>
-    <drop chance="50780" itemid="5220" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11292,9 +11373,6 @@
     <drop chance="700000" itemid="57" max="1417" min="708"/>
    </category>
    <category id="-1">
-    <drop chance="885052" itemid="1061" max="1" min="1"/>
-    <drop chance="159772" itemid="1900" max="1" min="1"/>
-    <drop chance="365084" itemid="2250" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11341,9 +11419,6 @@
     <drop chance="700000" itemid="57" max="1465" min="732"/>
    </category>
    <category id="-1">
-    <drop chance="240608" itemid="1901" max="1" min="1"/>
-    <drop chance="186508" itemid="2154" max="1" min="1"/>
-    <drop chance="117108" itemid="1938" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11390,10 +11465,6 @@
     <drop chance="700000" itemid="57" max="1520" min="758"/>
    </category>
    <category id="-1">
-    <drop chance="1000000" itemid="1864" max="6" min="2"/>
-    <drop chance="49668" itemid="1864" max="3" min="1"/>
-    <drop chance="204968" itemid="1880" max="1" min="1"/>
-    <drop chance="180032" itemid="1939" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11440,9 +11511,6 @@
     <drop chance="700000" itemid="57" max="1572" min="789"/>
    </category>
    <category id="-1">
-    <drop chance="197684" itemid="2157" max="1" min="1"/>
-    <drop chance="242352" itemid="1902" max="1" min="1"/>
-    <drop chance="296040" itemid="2158" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11489,11 +11557,6 @@
     <drop chance="700000" itemid="57" max="2519" min="1257"/>
    </category>
    <category id="-1">
-    <drop chance="268516" itemid="1905" max="1" min="1"/>
-    <drop chance="1000000" itemid="1871" max="2" min="2"/>
-    <drop chance="760332" itemid="1871" max="1" min="1"/>
-    <drop chance="1000000" itemid="1866" max="1" min="1"/>
-    <drop chance="840224" itemid="1866" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11540,9 +11603,6 @@
     <drop chance="700000" itemid="57" max="2582" min="1293"/>
    </category>
    <category id="-1">
-    <drop chance="12688" itemid="4553" max="1" min="1"/>
-    <drop chance="300380" itemid="1908" max="1" min="1"/>
-    <drop chance="161836" itemid="2163" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11589,9 +11649,6 @@
     <drop chance="700000" itemid="57" max="2656" min="1330"/>
    </category>
    <category id="-1">
-    <drop chance="131788" itemid="1966" max="1" min="1"/>
-    <drop chance="122360" itemid="2166" max="1" min="1"/>
-    <drop chance="196872" itemid="1967" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11638,11 +11695,6 @@
     <drop chance="700000" itemid="57" max="3909" min="1952"/>
    </category>
    <category id="-1">
-    <drop chance="1000000" itemid="1878" max="1" min="1"/>
-    <drop chance="636268" itemid="1878" max="1" min="1"/>
-    <drop chance="1000000" itemid="1884" max="2" min="2"/>
-    <drop chance="517332" itemid="1884" max="1" min="1"/>
-    <drop chance="9092" itemid="4601" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11689,9 +11741,6 @@
     <drop chance="700000" itemid="57" max="3995" min="1997"/>
    </category>
    <category id="-1">
-    <drop chance="98744" itemid="1984" max="1" min="1"/>
-    <drop chance="76012" itemid="4126" max="1" min="1"/>
-    <drop chance="158840" itemid="1985" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11738,9 +11787,6 @@
     <drop chance="700000" itemid="57" max="4095" min="2049"/>
    </category>
    <category id="-1">
-    <drop chance="55856" itemid="4129" max="1" min="1"/>
-    <drop chance="270704" itemid="4049" max="1" min="1"/>
-    <drop chance="2064" itemid="947" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11787,11 +11833,6 @@
     <drop chance="700000" itemid="57" max="5361" min="2683"/>
    </category>
    <category id="-1">
-    <drop chance="1000000" itemid="1867" max="10" min="2"/>
-    <drop chance="555704" itemid="1867" max="5" min="1"/>
-    <drop chance="1000000" itemid="1872" max="10" min="2"/>
-    <drop chance="555704" itemid="1872" max="5" min="1"/>
-    <drop chance="7932" itemid="4613" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11838,9 +11879,6 @@
     <drop chance="700000" itemid="57" max="5473" min="2736"/>
    </category>
    <category id="-1">
-    <drop chance="226140" itemid="4052" max="1" min="1"/>
-    <drop chance="8516" itemid="5230" max="1" min="1"/>
-    <drop chance="273780" itemid="4053" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11887,9 +11925,6 @@
     <drop chance="700000" itemid="57" max="5576" min="2790"/>
    </category>
    <category id="-1">
-    <drop chance="3864" itemid="5438" max="1" min="1"/>
-    <drop chance="139208" itemid="4054" max="1" min="1"/>
-    <drop chance="94236" itemid="5550" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11936,9 +11971,6 @@
     <drop chance="700000" itemid="57" max="5701" min="2849"/>
    </category>
    <category id="-1">
-    <drop chance="519132" itemid="1874" max="1" min="1"/>
-    <drop chance="65480" itemid="5478" max="1" min="1"/>
-    <drop chance="2884" itemid="5434" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -11986,9 +12018,6 @@
     <drop chance="700000" itemid="57" max="8028" min="4009"/>
    </category>
    <category id="-1">
-    <drop chance="50588" itemid="5479" max="1" min="1"/>
-    <drop chance="3168" itemid="5440" max="1" min="1"/>
-    <drop chance="112844" itemid="5482" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -12036,9 +12065,6 @@
     <drop chance="700000" itemid="57" max="8168" min="4078"/>
    </category>
    <category id="-1">
-    <drop chance="623424" itemid="1875" max="1" min="1"/>
-    <drop chance="81316" itemid="4041" max="1" min="1"/>
-    <drop chance="41960" itemid="5480" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -12086,9 +12112,6 @@
     <drop chance="700000" itemid="57" max="8295" min="4146"/>
    </category>
    <category id="-1">
-    <drop chance="10188" itemid="6901" max="1" min="1"/>
-    <drop chance="45716" itemid="5481" max="1" min="1"/>
-    <drop chance="4528" itemid="1808" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -12136,9 +12159,6 @@
     <drop chance="700000" itemid="57" max="10638" min="5312"/>
    </category>
    <category id="-1">
-    <drop chance="49800" itemid="5487" max="1" min="1"/>
-    <drop chance="368624" itemid="4039" max="1" min="1"/>
-    <drop chance="96164" itemid="4041" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -12186,9 +12206,6 @@
     <drop chance="700000" itemid="57" max="10798" min="5393"/>
    </category>
    <category id="-1">
-    <drop chance="25784" itemid="6688" max="1" min="1"/>
-    <drop chance="25300" itemid="6689" max="1" min="1"/>
-    <drop chance="25836" itemid="6690" max="1" min="1"/>
    </category>
   </drops>
  </npc>
@@ -12234,6 +12251,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="372" min="186"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18288" name="Otherworldly Invader Food" title="">
@@ -12277,6 +12296,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="413" min="207"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12322,6 +12343,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="617" min="308"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18290" name="Dimension Invader Food" title="">
@@ -12365,6 +12388,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="676" min="338"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12410,6 +12435,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="944" min="472"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18292" name="Purgatory Invader Food" title="">
@@ -12453,6 +12480,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1010" min="519"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12498,6 +12527,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1361" min="681"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18294" name="Forbidden Path Invader Food" title="">
@@ -12541,6 +12572,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1457" min="728"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12586,6 +12619,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="1879" min="938"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18296" name="Dark Omen Invader Food" title="">
@@ -12629,6 +12664,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="1993" min="995"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -12674,6 +12711,8 @@
    <category id="0">
     <drop chance="700000" itemid="57" max="2481" min="1239"/>
    </category>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18298" name="Messenger Invader Food" title="">
@@ -12717,6 +12756,8 @@
    </category>
    <category id="0">
     <drop chance="700000" itemid="57" max="2604" min="1301"/>
+   </category>
+   <category id="-1">
    </category>
   </drops>
  </npc>
@@ -13548,7 +13589,8 @@
     <drop chance="58000" itemid="6522" max="1" min="1"/>
     <drop chance="72500" itemid="6525" max="1" min="1"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18320" name="Caught Undine" title="">
@@ -13599,7 +13641,8 @@
     <drop chance="87800" itemid="6522" max="1" min="1"/>
     <drop chance="109800" itemid="6525" max="1" min="1"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18321" name="Caught Rakul" title="">
@@ -13650,7 +13693,8 @@
     <drop chance="110800" itemid="6523" max="1" min="1"/>
     <drop chance="133000" itemid="6526" max="1" min="1"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18322" name="Caught Sea Giant" title="">
@@ -13701,7 +13745,8 @@
     <drop chance="180100" itemid="6523" max="1" min="1"/>
     <drop chance="36000" itemid="6526" max="9" min="3"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18323" name="Caught Sea Horse Soldier" title="">
@@ -13752,7 +13797,8 @@
     <drop chance="202900" itemid="6524" max="1" min="1"/>
     <drop chance="45100" itemid="6527" max="6" min="2"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18324" name="Caught Homunculus" title="">
@@ -13803,7 +13849,8 @@
     <drop chance="244800" itemid="6524" max="1" min="1"/>
     <drop chance="54400" itemid="6527" max="6" min="2"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18325" name="Caught Flava" title="">
@@ -13854,7 +13901,8 @@
     <drop chance="212300" itemid="6524" max="1" min="1"/>
     <drop chance="47200" itemid="6527" max="6" min="2"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18326" name="Caught Gigantic Eye" title="">
@@ -13905,7 +13953,8 @@
     <drop chance="257300" itemid="6524" max="1" min="1"/>
     <drop chance="57200" itemid="6527" max="6" min="2"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18327" name="Freya's Servant" title="">
@@ -14564,7 +14613,8 @@
    <category id="0">
     <drop chance="1000000" itemid="57" max="13" min="7"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18343" name="Gatekeeper Zombie" title="">
@@ -14678,7 +14728,8 @@
    <category id="1">
     <drop chance="250000" itemid="8787" max="1" min="1"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
  <npc id="18346" name="Sprigant" title="">
@@ -14718,7 +14769,8 @@
    <category id="1">
     <drop chance="250000" itemid="8787" max="1" min="1"/>
    </category>
-   <category id="-1"/>
+   <category id="-1">
+   </category>
   </drops>
  </npc>
 </list>
