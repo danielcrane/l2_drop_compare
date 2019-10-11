@@ -11,14 +11,14 @@
   <set name="sp" val="140740"/>
   <set name="hp" val="96596"/>
   <set name="mp" val="300.8"/>
-  <set name="hpRegen" val="208"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="161.240310078"/>
+  <set name="mpRegen" val="0.747258886794"/>
   <set name="pAtk" val="105"/>
   <set name="pDef" val="1252"/>
   <set name="mAtk" val="8"/>
   <set name="mDef" val="229"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="172"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -115,20 +115,20 @@
   <set name="sp" val="1"/>
   <set name="hp" val="591.9"/>
   <set name="mp" val="315.1"/>
-  <set name="hpRegen" val="3.5"/>
+  <set name="hpRegen" val="2.75590551181"/>
   <set name="mpRegen" val="1.5"/>
-  <set name="pAtk" val="89.21"/>
-  <set name="pDef" val="118.72"/>
-  <set name="mAtk" val="59.01"/>
-  <set name="mDef" val="84.16"/>
+  <set name="pAtk" val="82.6771653543"/>
+  <set name="pDef" val="110.236220472"/>
+  <set name="mAtk" val="50.0839288525"/>
+  <set name="mDef" val="78.0307866922"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="257"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="40"/>
   <set name="runSpd" val="60"/>
@@ -150,7 +150,7 @@
   <set name="sp" val="1"/>
   <set name="hp" val="4000"/>
   <set name="mp" val="402.6"/>
-  <set name="hpRegen" val="108"/>
+  <set name="hpRegen" val="87.0967741935"/>
   <set name="mpRegen" val="1.8"/>
   <set name="pAtk" val="637"/>
   <set name="pDef" val="547"/>
@@ -159,11 +159,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="40"/>
   <set name="runSpd" val="130"/>
@@ -185,7 +185,7 @@
   <set name="sp" val="1"/>
   <set name="hp" val="4343"/>
   <set name="mp" val="432.7"/>
-  <set name="hpRegen" val="115"/>
+  <set name="hpRegen" val="91.2698412698"/>
   <set name="mpRegen" val="1.8"/>
   <set name="pAtk" val="178"/>
   <set name="pDef" val="578"/>
@@ -194,11 +194,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="40"/>
   <set name="runSpd" val="230"/>
@@ -220,7 +220,7 @@
   <set name="sp" val="1"/>
   <set name="hp" val="7051"/>
   <set name="mp" val="463.3"/>
-  <set name="hpRegen" val="122"/>
+  <set name="hpRegen" val="95.3125"/>
   <set name="mpRegen" val="1.8"/>
   <set name="pAtk" val="1190"/>
   <set name="pDef" val="610"/>
@@ -229,11 +229,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="40"/>
   <set name="runSpd" val="230"/>
@@ -253,16 +253,16 @@
   <set name="type" val="GrandBoss"/>
   <set name="exp" val="2041407"/>
   <set name="sp" val="153786"/>
-  <set name="hp" val="261551.926"/>
-  <set name="mp" val="1708.8"/>
-  <set name="hpRegen" val="441.65"/>
-  <set name="mpRegen" val="20"/>
-  <set name="pAtk" val="722.31"/>
+  <set name="hp" val="68302.9411765"/>
+  <set name="mp" val="259.009009009"/>
+  <set name="hpRegen" val="196.402877698"/>
+  <set name="mpRegen" val="0.495819560568"/>
+  <set name="pAtk" val="158.391805074"/>
   <set name="pDef" val="1602"/>
-  <set name="mAtk" val="1398.68"/>
+  <set name="mAtk" val="44.1885419599"/>
   <set name="mDef" val="293"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="172"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -271,7 +271,7 @@
   <set name="men" val="80"/>
   <set name="corpseTime" val="10"/>
   <set name="walkSpd" val="50"/>
-  <set name="runSpd" val="110"/>
+  <set name="runSpd" val="0"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="false" clan="curma_core_clan" clanRange="4500" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -340,7 +340,7 @@
  <npc id="29007" name="Death Knight" title="">
   <set name="level" val="50"/>
   <set name="radius" val="12"/>
-  <set name="height" val="31"/>
+  <set name="height" val="30"/>
   <set name="rHand" val="75"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
@@ -348,8 +348,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="13817"/>
   <set name="mp" val="747.8"/>
-  <set name="hpRegen" val="166"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="119.424460432"/>
+  <set name="mpRegen" val="1.3869985093"/>
   <set name="pAtk" val="410"/>
   <set name="pDef" val="801"/>
   <set name="mAtk" val="69"/>
@@ -357,11 +357,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="27"/>
   <set name="runSpd" val="110"/>
@@ -385,8 +385,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="16012"/>
   <set name="mp" val="889.8"/>
-  <set name="hpRegen" val="185"/>
-  <set name="mpRegen" val="2.4"/>
+  <set name="hpRegen" val="128.472222222"/>
+  <set name="mpRegen" val="1.53278278278"/>
   <set name="pAtk" val="470"/>
   <set name="pDef" val="895"/>
   <set name="mAtk" val="715"/>
@@ -394,11 +394,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="100"/>
   <set name="runSpd" val="230"/>
@@ -423,8 +423,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="12544"/>
   <set name="mp" val="665"/>
-  <set name="hpRegen" val="154"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="113.235294118"/>
+  <set name="mpRegen" val="1.41759406465"/>
   <set name="pAtk" val="354"/>
   <set name="pDef" val="747"/>
   <set name="mAtk" val="60"/>
@@ -432,11 +432,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="80"/>
   <set name="runSpd" val="120"/>
@@ -459,8 +459,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="12130"/>
   <set name="mp" val="637.8"/>
-  <set name="hpRegen" val="150"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="111.111111111"/>
+  <set name="mpRegen" val="1.42809476143"/>
   <set name="pAtk" val="337"/>
   <set name="pDef" val="729"/>
   <set name="mAtk" val="58"/>
@@ -468,11 +468,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="70"/>
   <set name="runSpd" val="110"/>
@@ -494,8 +494,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="13389"/>
   <set name="mp" val="720"/>
-  <set name="hpRegen" val="162"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="117.391304348"/>
+  <set name="mpRegen" val="1.39704922314"/>
   <set name="pAtk" val="391"/>
   <set name="pDef" val="783"/>
   <set name="mAtk" val="66"/>
@@ -503,11 +503,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="27"/>
   <set name="runSpd" val="150"/>
@@ -530,8 +530,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="12964"/>
   <set name="mp" val="692.4"/>
-  <set name="hpRegen" val="158"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="115.328467153"/>
+  <set name="mpRegen" val="1.40724666272"/>
   <set name="pAtk" val="372"/>
   <set name="pDef" val="765"/>
   <set name="mAtk" val="63"/>
@@ -539,11 +539,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="20"/>
   <set name="runSpd" val="20"/>
@@ -569,7 +569,7 @@
   <set name="sp" val="1"/>
   <set name="hp" val="11721"/>
   <set name="mp" val="610.8"/>
-  <set name="hpRegen" val="146"/>
+  <set name="hpRegen" val="108.955223881"/>
   <set name="mpRegen" val="2.1"/>
   <set name="pAtk" val="320"/>
   <set name="pDef" val="711"/>
@@ -578,11 +578,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="55"/>
   <set name="runSpd" val="110"/>
@@ -602,16 +602,16 @@
   <set name="type" val="GrandBoss"/>
   <set name="exp" val="2041407"/>
   <set name="sp" val="153786"/>
-  <set name="hp" val="261551.926"/>
-  <set name="mp" val="1708.8"/>
-  <set name="hpRegen" val="441.65"/>
-  <set name="mpRegen" val="20"/>
-  <set name="pAtk" val="722.31"/>
+  <set name="hp" val="136606.722689"/>
+  <set name="mp" val="747.747747748"/>
+  <set name="hpRegen" val="196.402877698"/>
+  <set name="mpRegen" val="0.69349925465"/>
+  <set name="pAtk" val="163.720875152"/>
   <set name="pDef" val="1602"/>
-  <set name="mAtk" val="1398.68"/>
+  <set name="mAtk" val="10.958758406"/>
   <set name="mDef" val="293"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="172"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -699,8 +699,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="6482"/>
   <set name="mp" val="692.4"/>
-  <set name="hpRegen" val="158"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="115.328467153"/>
+  <set name="mpRegen" val="1.40724666272"/>
   <set name="pAtk" val="298"/>
   <set name="pDef" val="765"/>
   <set name="mAtk" val="40"/>
@@ -708,11 +708,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
   <set name="runSpd" val="230"/>
@@ -734,8 +734,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="6694"/>
   <set name="mp" val="720"/>
-  <set name="hpRegen" val="162"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="117.391304348"/>
+  <set name="mpRegen" val="1.39704922314"/>
   <set name="pAtk" val="1058"/>
   <set name="pDef" val="783"/>
   <set name="mAtk" val="1563"/>
@@ -743,11 +743,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
   <set name="runSpd" val="230"/>
@@ -769,8 +769,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="6482"/>
   <set name="mp" val="692.4"/>
-  <set name="hpRegen" val="158"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="115.328467153"/>
+  <set name="mpRegen" val="1.40724666272"/>
   <set name="pAtk" val="298"/>
   <set name="pDef" val="765"/>
   <set name="mAtk" val="40"/>
@@ -778,11 +778,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
   <set name="runSpd" val="230"/>
@@ -804,8 +804,8 @@
   <set name="sp" val="1"/>
   <set name="hp" val="13389"/>
   <set name="mp" val="720"/>
-  <set name="hpRegen" val="162"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="117.391304348"/>
+  <set name="mpRegen" val="1.39704922314"/>
   <set name="pAtk" val="1058"/>
   <set name="pDef" val="783"/>
   <set name="mAtk" val="1563"/>
@@ -813,11 +813,11 @@
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
-  <set name="int" val="21"/>
+  <set name="int" val="41"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
   <set name="runSpd" val="230"/>
@@ -837,16 +837,16 @@
   <set name="type" val="GrandBoss"/>
   <set name="exp" val="262720918"/>
   <set name="sp" val="29116376"/>
-  <set name="hp" val="7500000"/>
-  <set name="mp" val="18000"/>
-  <set name="hpRegen" val="1100"/>
-  <set name="mpRegen" val="99"/>
-  <set name="pAtk" val="4900"/>
-  <set name="pDef" val="3840"/>
-  <set name="mAtk" val="2550"/>
-  <set name="mDef" val="825"/>
+  <set name="hp" val="5500000.0"/>
+  <set name="mp" val="9998.64864865"/>
+  <set name="hpRegen" val="595.238095238"/>
+  <set name="mpRegen" val="71.138996139"/>
+  <set name="pAtk" val="3259.84714874"/>
+  <set name="pDef" val="4800.0"/>
+  <set name="mAtk" val="1699.97121973"/>
+  <set name="mDef" val="439.993564994"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="206"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -1034,7 +1034,7 @@
   </drops>
  </npc>
  <npc id="29020" name="Baium" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="75"/>
   <set name="radius" val="65"/>
   <set name="height" val="174"/>
   <set name="rHand" val="0"/>
@@ -1042,16 +1042,16 @@
   <set name="type" val="GrandBoss"/>
   <set name="exp" val="10253400"/>
   <set name="sp" val="1081544"/>
-  <set name="hp" val="1709400"/>
-  <set name="mp" val="18000"/>
-  <set name="hpRegen" val="750"/>
-  <set name="mpRegen" val="99"/>
-  <set name="pAtk" val="3374.18"/>
-  <set name="pDef" val="3300"/>
-  <set name="mAtk" val="2200"/>
-  <set name="mDef" val="2200"/>
+  <set name="hp" val="332292.857143"/>
+  <set name="mp" val="1507.65765766"/>
+  <set name="hpRegen" val="171.341463415"/>
+  <set name="mpRegen" val="0.848714568227"/>
+  <set name="pAtk" val="1645.83960654"/>
+  <set name="pDef" val="3830.48780488"/>
+  <set name="mAtk" val="277.944016544"/>
+  <set name="mDef" val="1263.73324544"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="206"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -1113,24 +1113,24 @@
   <set name="rHand" val="93"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="6571"/>
   <set name="sp" val="343"/>
   <set name="hp" val="186915"/>
   <set name="mp" val="1475"/>
-  <set name="hpRegen" val="158"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="1395"/>
+  <set name="hpRegen" val="96.9325153374"/>
+  <set name="mpRegen" val="0.853921406069"/>
+  <set name="pAtk" val="394.859754096"/>
   <set name="pDef" val="5108"/>
   <set name="mAtk" val="371"/>
   <set name="mDef" val="1686"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="40"/>
-  <set name="int" val="21"/>
-  <set name="dex" val="30"/>
-  <set name="wit" val="20"/>
-  <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="atkSpd" val="206"/>
+  <set name="str" val="60"/>
+  <set name="int" val="76"/>
+  <set name="dex" val="73"/>
+  <set name="wit" val="70"/>
+  <set name="con" val="57"/>
+  <set name="men" val="80"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="50"/>
   <set name="runSpd" val="170"/>
@@ -1151,15 +1151,15 @@
   <set name="exp" val="4879745"/>
   <set name="sp" val="423589"/>
   <set name="hp" val="360722"/>
-  <set name="mp" val="180000"/>
-  <set name="hpRegen" val="346.8"/>
-  <set name="mpRegen" val="100"/>
-  <set name="pAtk" val="3616"/>
+  <set name="mp" val="889.63963964"/>
+  <set name="hpRegen" val="225.503355705"/>
+  <set name="mpRegen" val="0.740673559466"/>
+  <set name="pAtk" val="2008.72759411"/>
   <set name="pDef" val="1981"/>
   <set name="mAtk" val="1520"/>
-  <set name="mDef" val="966.39"/>
+  <set name="mDef" val="361.871939053"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="206"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -1168,7 +1168,7 @@
   <set name="men" val="80"/>
   <set name="corpseTime" val="300"/>
   <set name="walkSpd" val="42"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="170"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -1270,8 +1270,8 @@
   <set name="sp" val="0"/>
   <set name="hp" val="1828"/>
   <set name="mp" val="832.4"/>
-  <set name="hpRegen" val="6.5"/>
-  <set name="mpRegen" val="2.4"/>
+  <set name="hpRegen" val="4.42176870748"/>
+  <set name="mpRegen" val="1.30208333333"/>
   <set name="pAtk" val="442"/>
   <set name="pDef" val="261"/>
   <set name="mAtk" val="302"/>
@@ -1283,7 +1283,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="25"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="22"/>
   <set name="runSpd" val="150"/>
@@ -1317,8 +1317,8 @@
   <set name="sp" val="0"/>
   <set name="hp" val="1880"/>
   <set name="mp" val="861"/>
-  <set name="hpRegen" val="6.5"/>
-  <set name="mpRegen" val="2.4"/>
+  <set name="hpRegen" val="4.39189189189"/>
+  <set name="mpRegen" val="1.29328547297"/>
   <set name="pAtk" val="461"/>
   <set name="pDef" val="267"/>
   <set name="mAtk" val="315"/>
@@ -1330,7 +1330,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="25"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="70"/>
   <set name="runSpd" val="155"/>
@@ -1362,14 +1362,14 @@
   <set name="type" val="Folk"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1709400"/>
-  <set name="mp" val="18000"/>
-  <set name="hpRegen" val="718"/>
-  <set name="mpRegen" val="99"/>
-  <set name="pAtk" val="1874.18"/>
-  <set name="pDef" val="3300"/>
-  <set name="mAtk" val="1596.95"/>
-  <set name="mDef" val="2200"/>
+  <set name="hp" val="2676.47058824"/>
+  <set name="mp" val="1507.65765766"/>
+  <set name="hpRegen" val="5.18292682927"/>
+  <set name="mpRegen" val="0.848714568227"/>
+  <set name="pAtk" val="873.983739837"/>
+  <set name="pDef" val="318.902439024"/>
+  <set name="mAtk" val="596.900329728"/>
+  <set name="mDef" val="233.46517249"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -1399,20 +1399,20 @@
   <set name="sp" val="0"/>
   <set name="hp" val="1933"/>
   <set name="mp" val="804"/>
-  <set name="hpRegen" val="6.5"/>
-  <set name="mpRegen" val="2.4"/>
+  <set name="hpRegen" val="4.36241610738"/>
+  <set name="mpRegen" val="1.2846057047"/>
   <set name="pAtk" val="420"/>
   <set name="pDef" val="272"/>
   <set name="mAtk" val="328"/>
   <set name="mDef" val="199"/>
   <set name="crit" val="8"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="289"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="25"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="14"/>
   <set name="runSpd" val="140"/>
@@ -1443,20 +1443,20 @@
   <set name="sp" val="0"/>
   <set name="hp" val="1776"/>
   <set name="mp" val="584"/>
-  <set name="hpRegen" val="6.5"/>
-  <set name="mpRegen" val="2.1"/>
+  <set name="hpRegen" val="4.45205479452"/>
+  <set name="mpRegen" val="1.14511986301"/>
   <set name="pAtk" val="371"/>
   <set name="pDef" val="256"/>
   <set name="mAtk" val="289"/>
   <set name="mDef" val="187"/>
   <set name="crit" val="8"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="289"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="25"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="11"/>
   <set name="runSpd" val="140"/>
@@ -1485,16 +1485,16 @@
   <set name="type" val="GrandBoss"/>
   <set name="exp" val="284286178"/>
   <set name="sp" val="27215401"/>
-  <set name="hp" val="7500000"/>
-  <set name="mp" val="1800000"/>
-  <set name="hpRegen" val="1000"/>
-  <set name="mpRegen" val="1000"/>
-  <set name="pAtk" val="8932"/>
-  <set name="pDef" val="3310"/>
-  <set name="mAtk" val="3700"/>
-  <set name="mDef" val="898.7"/>
+  <set name="hp" val="7000000.0"/>
+  <set name="mp" val="9998.64864865"/>
+  <set name="hpRegen" val="689.655172414"/>
+  <set name="mpRegen" val="68.6859273066"/>
+  <set name="pAtk" val="3399.79187361"/>
+  <set name="pDef" val="4597.12643678"/>
+  <set name="mAtk" val="2065.32837359"/>
+  <set name="mDef" val="517.50025888"/>
   <set name="crit" val="1"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="206"/>
   <set name="str" val="60"/>
   <set name="int" val="76"/>
   <set name="dex" val="73"/>
@@ -1695,22 +1695,22 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="4129.70213428133"/>
-  <set name="mp" val="1980.30304497258"/>
-  <set name="hpRegen" val="67.0069943268003"/>
-  <set name="mpRegen" val="3.96"/>
-  <set name="pAtk" val="2670.3603804899"/>
-  <set name="pDef" val="388.150473598966"/>
-  <set name="mAtk" val="812.454942994962"/>
-  <set name="mDef" val="284.031666989471"/>
+  <set name="hp" val="3081.01265823"/>
+  <set name="mp" val="1776.57657658"/>
+  <set name="hpRegen" val="29.0697674419"/>
+  <set name="mpRegen" val="2.17892310916"/>
+  <set name="pAtk" val="2109.49612403"/>
+  <set name="pDef" val="365.11627907"/>
+  <set name="mAtk" val="648.117442425"/>
+  <set name="mDef" val="267.127592709"/>
   <set name="crit" val="8"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="227"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="1"/>
   <set name="runSpd" val="1"/>
@@ -1729,16 +1729,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="RaidBoss"/>
-  <set name="exp" val="2589552"/>
+  <set name="exp" val="2407887"/>
   <set name="sp" val="1226568"/>
-  <set name="hp" val="104586.37"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="170.72"/>
-  <set name="mpRegen" val="9.7"/>
-  <set name="pAtk" val="2512.3"/>
-  <set name="pDef" val="2681.953"/>
-  <set name="mAtk" val="586.96652138195"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="107820.588235"/>
+  <set name="mp" val="1708.55855856"/>
+  <set name="hpRegen" val="103.529411765"/>
+  <set name="mpRegen" val="2.94117647059"/>
+  <set name="pAtk" val="2589.92979908"/>
+  <set name="pDef" val="2764.70588235"/>
+  <set name="mAtk" val="623.811078006"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -1782,14 +1782,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20648.928"/>
-  <set name="mp" val="1607.808"/>
-  <set name="hpRegen" val="33.792"/>
-  <set name="mpRegen" val="3.84"/>
-  <set name="pAtk" val="4864.32"/>
-  <set name="pDef" val="1310.88"/>
-  <set name="mAtk" val="3386.88"/>
-  <set name="mDef" val="479.616"/>
+  <set name="hp" val="21508.8607595"/>
+  <set name="mp" val="1674.77477477"/>
+  <set name="hpRegen" val="20.829900382"/>
+  <set name="mpRegen" val="2.2176022176"/>
+  <set name="pAtk" val="5066.56804734"/>
+  <set name="pDef" val="1365.0887574"/>
+  <set name="mAtk" val="3674.71423213"/>
+  <set name="mDef" val="499.493576417"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -1797,7 +1797,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="38"/>
   <set name="runSpd" val="170"/>
@@ -1819,14 +1819,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="2854.42094757852"/>
-  <set name="mp" val="1607.808"/>
-  <set name="hpRegen" val="48"/>
-  <set name="mpRegen" val="3.84"/>
-  <set name="pAtk" val="4864.32"/>
-  <set name="pDef" val="1310.88"/>
-  <set name="mAtk" val="3386.88"/>
-  <set name="mDef" val="479.616"/>
+  <set name="hp" val="2972.78481013"/>
+  <set name="mp" val="1674.77477477"/>
+  <set name="hpRegen" val="29.5857988166"/>
+  <set name="mpRegen" val="2.2176022176"/>
+  <set name="pAtk" val="5066.56804734"/>
+  <set name="pDef" val="1365.0887574"/>
+  <set name="mAtk" val="3674.71423213"/>
+  <set name="mDef" val="499.493576417"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -1834,7 +1834,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="13"/>
   <set name="runSpd" val="60"/>
@@ -1852,16 +1852,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="RaidBoss"/>
-  <set name="exp" val="2554272"/>
+  <set name="exp" val="2434088"/>
   <set name="sp" val="1257012"/>
-  <set name="hp" val="105872.34"/>
-  <set name="mp" val="1708.14"/>
-  <set name="hpRegen" val="171.99"/>
-  <set name="mpRegen" val="9.8"/>
-  <set name="pAtk" val="2593.57"/>
-  <set name="pDef" val="2742.236"/>
-  <set name="mAtk" val="611.11393355078"/>
-  <set name="mDef" val="501.662"/>
+  <set name="hp" val="108032.773109"/>
+  <set name="mp" val="1742.79279279"/>
+  <set name="hpRegen" val="102.631578947"/>
+  <set name="mpRegen" val="2.92397660819"/>
+  <set name="pAtk" val="2646.49965105"/>
+  <set name="pDef" val="2797.66081871"/>
+  <set name="mAtk" val="636.273948365"/>
+  <set name="mDef" val="511.827617091"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -1905,14 +1905,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="6682.718"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="6293.5257924"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="6889.21568627"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="6688.36350269"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -1920,7 +1920,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="38"/>
   <set name="runSpd" val="170"/>
@@ -1942,14 +1942,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="5024.6"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="3539.6658"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="5179.90196078"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="3761.87485134"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -1957,7 +1957,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="13"/>
   <set name="runSpd" val="60"/>
@@ -1975,16 +1975,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="RaidBoss"/>
-  <set name="exp" val="2526048"/>
+  <set name="exp" val="2466262"/>
   <set name="sp" val="1289662"/>
-  <set name="hp" val="214199.37"/>
-  <set name="mp" val="1759.626"/>
-  <set name="hpRegen" val="345.51"/>
-  <set name="mpRegen" val="9.9"/>
-  <set name="pAtk" val="5351.94"/>
-  <set name="pDef" val="2802.591"/>
-  <set name="mAtk" val="635.498613944512"/>
-  <set name="mDef" val="512.721"/>
+  <set name="hp" val="216362.605042"/>
+  <set name="mp" val="1777.02702703"/>
+  <set name="hpRegen" val="202.906976744"/>
+  <set name="mpRegen" val="2.90697674419"/>
+  <set name="pAtk" val="5405.78045746"/>
+  <set name="pDef" val="2830.81395349"/>
+  <set name="mAtk" val="648.347936732"/>
+  <set name="mDef" val="517.756128221"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -2029,8 +2029,8 @@
   <set name="sp" val="1322688"/>
   <set name="hp" val="108266.5"/>
   <set name="mp" val="1812"/>
-  <set name="hpRegen" val="174"/>
-  <set name="mpRegen" val="10"/>
+  <set name="hpRegen" val="100.578034682"/>
+  <set name="mpRegen" val="2.8901734104"/>
   <set name="pAtk" val="2759.5"/>
   <set name="pDef" val="2863"/>
   <set name="mAtk" val="660.073042542101"/>
@@ -2080,14 +2080,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="6682.718"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="6293.5257924"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="6889.21568627"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="6688.36350269"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -2095,7 +2095,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="38"/>
   <set name="runSpd" val="170"/>
@@ -2117,14 +2117,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="5024.6"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="3539.6658"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="5179.90196078"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="3761.87485134"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -2132,7 +2132,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="38"/>
   <set name="runSpd" val="170"/>
@@ -2152,16 +2152,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="RaidBoss"/>
-  <set name="exp" val="2476656"/>
+  <set name="exp" val="2535975"/>
   <set name="sp" val="1356048"/>
-  <set name="hp" val="218741.76"/>
-  <set name="mp" val="1865.268"/>
-  <set name="hpRegen" val="349.46"/>
-  <set name="mpRegen" val="10.1"/>
-  <set name="pAtk" val="5688.32"/>
-  <set name="pDef" val="2923.243"/>
-  <set name="mAtk" val="684.787299379049"/>
-  <set name="mDef" val="534.795"/>
+  <set name="hp" val="216575.630252"/>
+  <set name="mp" val="1846.3963964"/>
+  <set name="hpRegen" val="198.850574713"/>
+  <set name="mpRegen" val="2.87356321839"/>
+  <set name="pAtk" val="5631.94740079"/>
+  <set name="pDef" val="2894.25287356"/>
+  <set name="mAtk" val="671.259920874"/>
+  <set name="mDef" val="529.408719064"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -2210,14 +2210,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="10049.2"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="14158.6632"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="10359.8039216"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="15047.4994054"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -2225,7 +2225,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="13"/>
   <set name="runSpd" val="60"/>
@@ -2246,14 +2246,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="5024.6"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="3539.6658"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="5179.90196078"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="3761.87485134"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -2261,7 +2261,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="13"/>
   <set name="runSpd" val="60"/>
@@ -2281,14 +2281,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="5024.6"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="3539.6658"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="5179.90196078"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="3761.87485134"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -2296,7 +2296,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="38"/>
   <set name="runSpd" val="170"/>
@@ -2318,14 +2318,14 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="20917.08"/>
-  <set name="mp" val="1657.536"/>
-  <set name="hpRegen" val="34.92"/>
-  <set name="mpRegen" val="3.88"/>
-  <set name="pAtk" val="6682.718"/>
-  <set name="pDef" val="1340.9765"/>
-  <set name="mAtk" val="6293.5257924"/>
-  <set name="mDef" val="490.626"/>
+  <set name="hp" val="21563.9240506"/>
+  <set name="mp" val="1708.10810811"/>
+  <set name="hpRegen" val="21.1764705882"/>
+  <set name="mpRegen" val="2.20455749868"/>
+  <set name="pAtk" val="6889.21568627"/>
+  <set name="pDef" val="1382.35294118"/>
+  <set name="mAtk" val="6688.36350269"/>
+  <set name="mDef" val="505.564387917"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -2333,7 +2333,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="38"/>
   <set name="runSpd" val="170"/>
@@ -2347,33 +2347,33 @@
   </skills>
  </npc>
  <npc id="29045" name="Frintezza" title="">
-  <set name="level" val="85"/>
+  <set name="level" val="90"/>
   <set name="radius" val="45"/>
   <set name="height" val="42.7"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="1470000"/>
   <set name="sp" val="13232"/>
-  <set name="hp" val="428076.229929773"/>
-  <set name="mp" val="23423.9034583234"/>
-  <set name="hpRegen" val="2484.3"/>
-  <set name="mpRegen" val="3.15"/>
-  <set name="pAtk" val="2641.63342970569"/>
-  <set name="pDef" val="4218.55484265502"/>
-  <set name="mAtk" val="971.856593649426"/>
-  <set name="mDef" val="3093.6078479881"/>
+  <set name="hp" val="500542.405063"/>
+  <set name="mp" val="1674.77477477"/>
+  <set name="hpRegen" val="4.74860335196"/>
+  <set name="mpRegen" val="1.55518647139"/>
+  <set name="pAtk" val="4274.67411546"/>
+  <set name="pDef" val="3471.50837989"/>
+  <set name="mAtk" val="457.613652025"/>
+  <set name="mDef" val="2109.31601993"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="43"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="31"/>
+  <set name="runSpd" val="0"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="frintessa_clan" clanRange="0" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2382,33 +2382,33 @@
   </skills>
  </npc>
  <npc id="29046" name="Scarlet van Halisha" title="">
-  <set name="level" val="80"/>
+  <set name="level" val="85"/>
   <set name="radius" val="45"/>
   <set name="height" val="90.7"/>
   <set name="rHand" val="8204"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="1554518.0975573"/>
-  <set name="mp" val="11026.9882971101"/>
-  <set name="hpRegen" val="155.43"/>
-  <set name="mpRegen" val="109"/>
-  <set name="pAtk" val="3135.90530099925"/>
-  <set name="pDef" val="1342.97453242915"/>
-  <set name="mAtk" val="1442.51644402476"/>
-  <set name="mDef" val="2089.07149518896"/>
+  <set name="hp" val="39.8734177215"/>
+  <set name="mp" val="39.6396396396"/>
+  <set name="hpRegen" val="4.88505747126"/>
+  <set name="mpRegen" val="1.59987573781"/>
+  <set name="pAtk" val="1.91570881226"/>
+  <set name="pDef" val="22.9885057471"/>
+  <set name="mAtk" val="1.51026347875"/>
+  <set name="mDef" val="16.0505332919"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="43"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="230"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="240"/>
-  <set name="runSpd" val="111"/>
+  <set name="runSpd" val="80"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="frintessa_clan" clanRange="2000" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2417,33 +2417,33 @@
   </skills>
  </npc>
  <npc id="29047" name="Scarlet van Halisha" title="">
-  <set name="level" val="80"/>
+  <set name="level" val="90"/>
   <set name="radius" val="92"/>
   <set name="height" val="112.8"/>
   <set name="rHand" val="8222"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
-  <set name="exp" val="284286178"/>
-  <set name="sp" val="27215401"/>
-  <set name="hp" val="2042432.67633202"/>
-  <set name="mp" val="23156.6754239312"/>
-  <set name="hpRegen" val="155.43"/>
-  <set name="mpRegen" val="109"/>
-  <set name="pAtk" val="8890.29152833288"/>
-  <set name="pDef" val="1566.80362116734"/>
-  <set name="mAtk" val="8989.0725799934"/>
-  <set name="mDef" val="2193.5250699484"/>
+  <set name="exp" val="148"/>
+  <set name="sp" val="4"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="76.5765765766"/>
+  <set name="hpRegen" val="4.74860335196"/>
+  <set name="mpRegen" val="1.55518647139"/>
+  <set name="pAtk" val="6.052141527"/>
+  <set name="pDef" val="27.374301676"/>
+  <set name="mAtk" val="1.90275946788"/>
+  <set name="mDef" val="19.1252705219"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="43"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="230"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="250"/>
-  <set name="runSpd" val="155"/>
+  <set name="runSpd" val="110"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="frintessa_clan" clanRange="2000" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2454,28 +2454,28 @@
  <npc id="29048" name="Evil Spirit" title="">
   <set name="level" val="87"/>
   <set name="radius" val="40"/>
-  <set name="height" val="100"/>
+  <set name="height" val="1"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="82844.5126642967"/>
-  <set name="mp" val="2177.28986625269"/>
-  <set name="hpRegen" val="1.03"/>
-  <set name="mpRegen" val="1.03"/>
-  <set name="pAtk" val="1637.21079615435"/>
-  <set name="pDef" val="1637.38608949103"/>
-  <set name="mAtk" val="1151.5428303933"/>
-  <set name="mDef" val="1091.59072648368"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="39.6396396396"/>
+  <set name="hpRegen" val="4.82954545455"/>
+  <set name="mpRegen" val="1.5816953317"/>
+  <set name="pAtk" val="1.89393939394"/>
+  <set name="pDef" val="22.7272727273"/>
+  <set name="mAtk" val="1.47613433248"/>
+  <set name="mDef" val="15.8681408681"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="230"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="10"/>
   <set name="runSpd" val="1"/>
@@ -2489,28 +2489,28 @@
  <npc id="29049" name="Evil Spirit" title="">
   <set name="level" val="87"/>
   <set name="radius" val="40"/>
-  <set name="height" val="100"/>
+  <set name="height" val="1"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="82844.5126642967"/>
-  <set name="mp" val="2177.28986625269"/>
-  <set name="hpRegen" val="1.03"/>
-  <set name="mpRegen" val="1.03"/>
-  <set name="pAtk" val="1637.21079615435"/>
-  <set name="pDef" val="1637.38608949103"/>
-  <set name="mAtk" val="1151.5428303933"/>
-  <set name="mDef" val="1091.59072648368"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.82954545455"/>
+  <set name="mpRegen" val="1.5816953317"/>
+  <set name="pAtk" val="1.89393939394"/>
+  <set name="pDef" val="22.7272727273"/>
+  <set name="mAtk" val="1.47613433248"/>
+  <set name="mDef" val="15.8681408681"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="230"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="10"/>
   <set name="runSpd" val="1"/>
@@ -2528,27 +2528,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="12996.4412419667"/>
-  <set name="mp" val="20560.2695810843"/>
-  <set name="hpRegen" val="1.01"/>
-  <set name="mpRegen" val="3.03"/>
-  <set name="pAtk" val="1556.78628597682"/>
-  <set name="pDef" val="642.236873936287"/>
-  <set name="mAtk" val="1073.71405840992"/>
-  <set name="mDef" val="428.157916018841"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="39.6396396396"/>
+  <set name="hpRegen" val="4.88505747126"/>
+  <set name="mpRegen" val="1.59987573781"/>
+  <set name="pAtk" val="1.91570881226"/>
+  <set name="pDef" val="22.9885057471"/>
+  <set name="mAtk" val="1.51026347875"/>
+  <set name="mDef" val="16.0505332919"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="230"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="200"/>
+  <set name="runSpd" val="50"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="frintessa_clan" clanRange="2000" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2566,27 +2566,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="12996.4412419667"/>
-  <set name="mp" val="20560.2695810843"/>
-  <set name="hpRegen" val="1.01"/>
-  <set name="mpRegen" val="3.03"/>
-  <set name="pAtk" val="1556.78628597682"/>
-  <set name="pDef" val="642.236873936287"/>
-  <set name="mAtk" val="1073.71405840992"/>
-  <set name="mDef" val="428.157916018841"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.88505747126"/>
+  <set name="mpRegen" val="1.59987573781"/>
+  <set name="pAtk" val="1.91570881226"/>
+  <set name="pDef" val="22.9885057471"/>
+  <set name="mAtk" val="20136.8463834"/>
+  <set name="mDef" val="4659.83224604"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="909"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="200"/>
+  <set name="runSpd" val="50"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="6000" canMove="true" clan="frintessa_clan" clanRange="2000" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2600,28 +2600,28 @@
  <npc id="29052" name="Follower Dummy" title="">
   <set name="level" val="99"/>
   <set name="radius" val="1"/>
-  <set name="height" val="35"/>
+  <set name="height" val="58"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="3960.03406422627"/>
-  <set name="mp" val="2056.8288406974"/>
-  <set name="hpRegen" val="8.585"/>
-  <set name="mpRegen" val="3.03"/>
-  <set name="pAtk" val="1216.23928591939"/>
-  <set name="pDef" val="3864.96881246637"/>
-  <set name="mAtk" val="838.839108132747"/>
-  <set name="mDef" val="2826.6352584085"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="1"/>
   <set name="walkSpd" val="10"/>
   <set name="runSpd" val="1"/>
@@ -2635,29 +2635,29 @@
  </npc>
  <npc id="29053" name="Follower Dummy" title="">
   <set name="level" val="99"/>
-  <set name="radius" val="1"/>
+  <set name="radius" val="58"/>
   <set name="height" val="58"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="5448.83722464782"/>
-  <set name="mp" val="2036.46419871029"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="1456.32495032888"/>
-  <set name="pDef" val="383.421920892449"/>
-  <set name="mAtk" val="994.481156766258"/>
-  <set name="mDef" val="280.571522036227"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="10"/>
   <set name="runSpd" val="1"/>
@@ -2678,25 +2678,25 @@
   <set name="type" val="RaidBoss"/>
   <set name="exp" val="5879"/>
   <set name="sp" val="590"/>
-  <set name="hp" val="568382.4"/>
-  <set name="mp" val="4071.06"/>
-  <set name="hpRegen" val="357"/>
-  <set name="mpRegen" val="8.1"/>
-  <set name="pAtk" val="4510"/>
-  <set name="pDef" val="2554"/>
-  <set name="mAtk" val="3279"/>
-  <set name="mDef" val="467.22"/>
+  <set name="hp" val="856170.886076"/>
+  <set name="mp" val="1345.94594595"/>
+  <set name="hpRegen" val="5.18292682927"/>
+  <set name="mpRegen" val="1.69742913645"/>
+  <set name="pAtk" val="733.739837398"/>
+  <set name="pDef" val="313.414634146"/>
+  <set name="mAtk" val="430.681144444"/>
+  <set name="mDef" val="209.294660514"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="230"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="79"/>
-  <set name="runSpd" val="220"/>
+  <set name="runSpd" val="110"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2713,27 +2713,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="2444.46819"/>
-  <set name="mp" val="1345.8"/>
-  <set name="hpRegen" val="7.5"/>
-  <set name="mpRegen" val="2.7"/>
-  <set name="pAtk" val="688.86373"/>
-  <set name="pDef" val="295.91597"/>
-  <set name="mAtk" val="470.40463"/>
-  <set name="mDef" val="216.53847"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.67032967033"/>
+  <set name="mpRegen" val="1.52955152955"/>
+  <set name="pAtk" val="1.8315018315"/>
+  <set name="pDef" val="21.978021978"/>
+  <set name="mAtk" val="18405.4812554"/>
+  <set name="mDef" val="4455.004455"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="909"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="50"/>
-  <set name="runSpd" val="120"/>
+  <set name="runSpd" val="0"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="6000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2750,25 +2750,25 @@
   <set name="type" val="RaidBoss"/>
   <set name="exp" val="177"/>
   <set name="sp" val="5"/>
-  <set name="hp" val="79149.92"/>
-  <set name="mp" val="1036.8"/>
-  <set name="hpRegen" val="147.5576413"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="5.70469798658"/>
   <set name="mpRegen" val="2.4"/>
-  <set name="pAtk" val="1277.936184"/>
-  <set name="pDef" val="1981.2"/>
-  <set name="mAtk" val="434.6017877"/>
-  <set name="mDef" val="362.44"/>
+  <set name="pAtk" val="8.38926174497"/>
+  <set name="pDef" val="34.8993288591"/>
+  <set name="mAtk" val="3.43263344615"/>
+  <set name="mDef" val="24.7898905617"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="230"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="80"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="ice_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2787,27 +2787,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="7721.463"/>
-  <set name="mp" val="1007"/>
-  <set name="hpRegen" val="57.96894"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="3603.6036036"/>
+  <set name="hpRegen" val="5.74324324324"/>
   <set name="mpRegen" val="2.4"/>
-  <set name="pAtk" val="1181.243"/>
-  <set name="pDef" val="971.28"/>
-  <set name="mAtk" val="386.9314"/>
-  <set name="mDef" val="355.36"/>
+  <set name="pAtk" val="2.25225225225"/>
+  <set name="pDef" val="27.027027027"/>
+  <set name="mAtk" val="2.08750625834"/>
+  <set name="mDef" val="18.8702215729"/>
   <set name="crit" val="1"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="230"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="50"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="ice_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2826,27 +2826,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="3860.731"/>
-  <set name="mp" val="1007"/>
-  <set name="hpRegen" val="57.96894"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="3603.6036036"/>
+  <set name="hpRegen" val="5.74324324324"/>
   <set name="mpRegen" val="2.4"/>
-  <set name="pAtk" val="1181.241"/>
-  <set name="pDef" val="971.28"/>
-  <set name="mAtk" val="386.9314"/>
-  <set name="mDef" val="355.36"/>
+  <set name="pAtk" val="2.25225225225"/>
+  <set name="pDef" val="27.027027027"/>
+  <set name="mAtk" val="2.08750625834"/>
+  <set name="mDef" val="18.8702215729"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="230"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="70"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="50"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="ice_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2867,25 +2867,25 @@
   <set name="type" val="RaidBoss"/>
   <set name="exp" val="30"/>
   <set name="sp" val="2"/>
-  <set name="hp" val="66183.96803"/>
-  <set name="mp" val="1007"/>
-  <set name="hpRegen" val="124.2191592"/>
+  <set name="hp" val="221518.987342"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="5.74324324324"/>
   <set name="mpRegen" val="2.4"/>
-  <set name="pAtk" val="1063.76651"/>
-  <set name="pDef" val="1942.56"/>
-  <set name="mAtk" val="313.7963651"/>
-  <set name="mDef" val="355.36"/>
+  <set name="pAtk" val="2.25225225225"/>
+  <set name="pDef" val="27.027027027"/>
+  <set name="mAtk" val="2.08750625834"/>
+  <set name="mDef" val="18.8702215729"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="230"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="140"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="50"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="ice_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2906,24 +2906,24 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Gatekeeper"/>
-  <set name="exp" val="0"/>
+  <set name="exp" val="440000"/>
   <set name="sp" val="40000"/>
-  <set name="hp" val="2444.46819"/>
-  <set name="mp" val="1345.8"/>
-  <set name="hpRegen" val="7.5"/>
-  <set name="mpRegen" val="2.7"/>
-  <set name="pAtk" val="688.86373"/>
-  <set name="pDef" val="295.91597"/>
-  <set name="mAtk" val="470.40463"/>
-  <set name="mDef" val="216.53847"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="5.34591194969"/>
+  <set name="mpRegen" val="1.75080741118"/>
+  <set name="pAtk" val="4716.98113208"/>
+  <set name="pDef" val="3144.65408805"/>
+  <set name="mAtk" val="3617.3202866"/>
+  <set name="mDef" val="3399.62604114"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="50"/>
   <set name="runSpd" val="120"/>
@@ -2941,27 +2941,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="RaidBoss"/>
-  <set name="exp" val="372044"/>
+  <set name="exp" val="440000"/>
   <set name="sp" val="40000"/>
-  <set name="hp" val="115708.195"/>
-  <set name="mp" val="2051.19"/>
-  <set name="hpRegen" val="364.87"/>
-  <set name="mpRegen" val="3.21"/>
-  <set name="pAtk" val="3134.565"/>
-  <set name="pDef" val="3161.7216"/>
-  <set name="mAtk" val="1241.64405"/>
-  <set name="mDef" val="578.3992"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.82954545455"/>
+  <set name="mpRegen" val="1.5816953317"/>
+  <set name="pAtk" val="4261.36363636"/>
+  <set name="pDef" val="2840.90909091"/>
+  <set name="mAtk" val="2952.26866495"/>
+  <set name="mDef" val="3071.25307125"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="210"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="500" canMove="true" clan="andreas_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -2982,26 +2982,26 @@
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
-  <set name="sp" val="40000"/>
-  <set name="hp" val="15283.32804"/>
-  <set name="mp" val="1994.708"/>
-  <set name="hpRegen" val="145.856"/>
-  <set name="mpRegen" val="3.18"/>
-  <set name="pAtk" val="8120.810308"/>
-  <set name="pDef" val="1550.2288"/>
-  <set name="mAtk" val="8457.09203048"/>
-  <set name="mDef" val="567.1848"/>
+  <set name="sp" val="0"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="3603.6036036"/>
+  <set name="hpRegen" val="4.85714285714"/>
+  <set name="mpRegen" val="1.59073359073"/>
+  <set name="pAtk" val="4285.71428571"/>
+  <set name="pDef" val="2857.14285714"/>
+  <set name="mAtk" val="2986.10527887"/>
+  <set name="mDef" val="3088.8030888"/>
   <set name="crit" val="1"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
-  <set name="runSpd" val="200"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="500" canMove="true" clan="andreas_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3019,26 +3019,26 @@
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
-  <set name="sp" val="40000"/>
-  <set name="hp" val="22740.48"/>
-  <set name="mp" val="1939.14"/>
-  <set name="hpRegen" val="145.32"/>
-  <set name="mpRegen" val="3.15"/>
-  <set name="pAtk" val="5913.6"/>
-  <set name="pDef" val="1519.518"/>
-  <set name="mAtk" val="4557.735"/>
-  <set name="mDef" val="555.954"/>
+  <set name="sp" val="0"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="3603.6036036"/>
+  <set name="hpRegen" val="4.85714285714"/>
+  <set name="mpRegen" val="1.59073359073"/>
+  <set name="pAtk" val="4285.71428571"/>
+  <set name="pDef" val="2857.14285714"/>
+  <set name="mAtk" val="2986.10527887"/>
+  <set name="mDef" val="3088.8030888"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="58"/>
-  <set name="runSpd" val="200"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="500" canMove="true" clan="andreas_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3051,32 +3051,32 @@
  </npc>
  <npc id="29065" name="Sailren" title="Sealed Evil Power">
   <set name="level" val="87"/>
-  <set name="radius" val="100"/>
-  <set name="height" val="82.1"/>
+  <set name="radius" val="132"/>
+  <set name="height" val="85"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="689061.278161977"/>
-  <set name="mp" val="2051.19"/>
-  <set name="hpRegen" val="264.824069962994"/>
-  <set name="mpRegen" val="3.21"/>
-  <set name="pAtk" val="3316.12759363386"/>
-  <set name="pDef" val="1185.643995"/>
-  <set name="mAtk" val="1426.64874503057"/>
-  <set name="mDef" val="578.3992"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.82954545455"/>
+  <set name="mpRegen" val="1.5816953317"/>
+  <set name="pAtk" val="4261.36363636"/>
+  <set name="pDef" val="2840.90909091"/>
+  <set name="mAtk" val="2952.26866495"/>
+  <set name="mDef" val="3071.25307125"/>
   <set name="crit" val="1"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="41"/>
-  <set name="runSpd" val="185"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3097,27 +3097,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
-  <set name="exp" val="230931687"/>
-  <set name="sp" val="25593295"/>
-  <set name="hp" val="6100000"/>
-  <set name="mp" val="1800000"/>
-  <set name="hpRegen" val="1100"/>
-  <set name="mpRegen" val="1000"/>
-  <set name="pAtk" val="4900"/>
-  <set name="pDef" val="3456"/>
-  <set name="mAtk" val="2550"/>
-  <set name="mDef" val="862.5"/>
+  <set name="exp" val="0"/>
+  <set name="sp" val="0"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="5.05952380952"/>
+  <set name="mpRegen" val="1.65701415701"/>
+  <set name="pAtk" val="4464.28571429"/>
+  <set name="pDef" val="2976.19047619"/>
+  <set name="mAtk" val="3240.131596"/>
+  <set name="mDef" val="3217.5032175"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="14"/>
   <set name="walkSpd" val="50"/>
-  <set name="runSpd" val="186"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3127,33 +3127,33 @@
   </skills>
  </npc>
  <npc id="29067" name="Antharas" title="">
-  <set name="level" val="79"/>
+  <set name="level" val="99"/>
   <set name="radius" val="300"/>
   <set name="height" val="300"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
-  <set name="exp" val="262720918"/>
-  <set name="sp" val="29116376"/>
-  <set name="hp" val="6800000"/>
-  <set name="mp" val="1800000"/>
-  <set name="hpRegen" val="1100"/>
-  <set name="mpRegen" val="1000"/>
-  <set name="pAtk" val="4900"/>
-  <set name="pDef" val="3456"/>
-  <set name="mAtk" val="2550"/>
-  <set name="mDef" val="862.5"/>
+  <set name="exp" val="0"/>
+  <set name="sp" val="0"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="14"/>
   <set name="walkSpd" val="50"/>
-  <set name="runSpd" val="186"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3163,33 +3163,33 @@
   </skills>
  </npc>
  <npc id="29068" name="Antharas" title="Earth Dragon">
-  <set name="level" val="79"/>
+  <set name="level" val="99"/>
   <set name="radius" val="300"/>
   <set name="height" val="300"/>
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="GrandBoss"/>
-  <set name="exp" val="317892324"/>
-  <set name="sp" val="31824199"/>
-  <set name="hp" val="7500000"/>
-  <set name="mp" val="1800000"/>
-  <set name="hpRegen" val="1830"/>
-  <set name="mpRegen" val="1000"/>
-  <set name="pAtk" val="4900"/>
-  <set name="pDef" val="3456"/>
-  <set name="mAtk" val="2550"/>
-  <set name="mDef" val="862.5"/>
+  <set name="exp" val="0"/>
+  <set name="sp" val="0"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="14"/>
   <set name="walkSpd" val="50"/>
-  <set name="runSpd" val="186"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3207,25 +3207,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="401551.696720203"/>
-  <set name="mp" val="1809"/>
-  <set name="hpRegen" val="76.71"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="3584.56902102981"/>
-  <set name="pDef" val="1071.29474264312"/>
-  <set name="mAtk" val="1386.66000087809"/>
-  <set name="mDef" val="522.626863116263"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="5.08982035928"/>
+  <set name="mpRegen" val="1.66693639748"/>
+  <set name="pAtk" val="4491.01796407"/>
+  <set name="pDef" val="2994.01197605"/>
+  <set name="mAtk" val="3279.05174676"/>
+  <set name="mDef" val="3236.76970384"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="180"/>
-  <set name="runSpd" val="180"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3236,7 +3236,7 @@
   </skills>
  </npc>
  <npc id="29070" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="37"/>
   <set name="height" val="28"/>
   <set name="rHand" val="0"/>
@@ -3244,25 +3244,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1353.6766"/>
-  <set name="mp" val="1809"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="1094.11758465172"/>
-  <set name="pDef" val="357.098247547707"/>
-  <set name="mAtk" val="4902.24"/>
-  <set name="mDef" val="261.308998696584"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="250"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3270,7 +3270,7 @@
   </skills>
  </npc>
  <npc id="29071" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="37"/>
   <set name="height" val="28"/>
   <set name="rHand" val="0"/>
@@ -3278,25 +3278,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1000"/>
-  <set name="mp" val="1607.4"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="855.81387"/>
-  <set name="pDef" val="332.70061"/>
-  <set name="mAtk" val="584.40994"/>
-  <set name="mDef" val="243.45587"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="245"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3304,7 +3304,7 @@
   </skills>
  </npc>
  <npc id="29072" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="37"/>
   <set name="height" val="28"/>
   <set name="rHand" val="0"/>
@@ -3312,25 +3312,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1000"/>
-  <set name="mp" val="1607.4"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="855.81387"/>
-  <set name="pDef" val="332.70061"/>
-  <set name="mAtk" val="584.40994"/>
-  <set name="mDef" val="243.45587"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="255"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3338,7 +3338,7 @@
   </skills>
  </npc>
  <npc id="29073" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="37"/>
   <set name="height" val="28"/>
   <set name="rHand" val="0"/>
@@ -3346,25 +3346,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1000"/>
-  <set name="mp" val="1607.4"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="855.81387"/>
-  <set name="pDef" val="332.70061"/>
-  <set name="mAtk" val="584.40994"/>
-  <set name="mDef" val="243.45587"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="247"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3372,7 +3372,7 @@
   </skills>
  </npc>
  <npc id="29074" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="37"/>
   <set name="height" val="28"/>
   <set name="rHand" val="0"/>
@@ -3380,25 +3380,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1000"/>
-  <set name="mp" val="1607.4"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="855.81387"/>
-  <set name="pDef" val="332.70061"/>
-  <set name="mAtk" val="584.40994"/>
-  <set name="mDef" val="243.45587"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="252"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3406,7 +3406,7 @@
   </skills>
  </npc>
  <npc id="29075" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="37"/>
   <set name="height" val="28"/>
   <set name="rHand" val="0"/>
@@ -3414,25 +3414,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1000"/>
-  <set name="mp" val="1607.4"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="855.81387"/>
-  <set name="pDef" val="332.70061"/>
-  <set name="mAtk" val="584.40994"/>
-  <set name="mDef" val="243.45587"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="243"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3440,7 +3440,7 @@
   </skills>
  </npc>
  <npc id="29076" name="Dragon Bomber" title="">
-  <set name="level" val="78"/>
+  <set name="level" val="99"/>
   <set name="radius" val="42"/>
   <set name="height" val="34.5"/>
   <set name="rHand" val="0"/>
@@ -3448,25 +3448,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="1353.6766"/>
-  <set name="mp" val="1809"/>
-  <set name="hpRegen" val="8.5"/>
-  <set name="mpRegen" val="3"/>
-  <set name="pAtk" val="1094.11758465172"/>
-  <set name="pDef" val="357.098247547707"/>
-  <set name="mAtk" val="4902.24"/>
-  <set name="mDef" val="261.308998696584"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="200"/>
-  <set name="runSpd" val="250"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="1000" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3480,27 +3480,27 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="RaidBoss"/>
-  <set name="exp" val="2272000"/>
-  <set name="sp" val="918808"/>
-  <set name="hp" val="961780.70191152"/>
-  <set name="mp" val="2051.19"/>
-  <set name="hpRegen" val="369.61370264709"/>
-  <set name="mpRegen" val="3.21"/>
-  <set name="pAtk" val="6129.55481158677"/>
-  <set name="pDef" val="1185.643995"/>
-  <set name="mAtk" val="4888.35447858044"/>
-  <set name="mDef" val="578.3992"/>
+  <set name="exp" val="0"/>
+  <set name="sp" val="0"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.82954545455"/>
+  <set name="mpRegen" val="1.5816953317"/>
+  <set name="pAtk" val="4261.36363636"/>
+  <set name="pDef" val="2840.90909091"/>
+  <set name="mAtk" val="2952.26866495"/>
+  <set name="mDef" val="3071.25307125"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3523,25 +3523,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="480890.35095576"/>
-  <set name="mp" val="2051.19"/>
-  <set name="hpRegen" val="147.845481058836"/>
-  <set name="mpRegen" val="3.21"/>
-  <set name="pAtk" val="3064.77740579339"/>
-  <set name="pDef" val="1185.643995"/>
-  <set name="mAtk" val="1222.08861964511"/>
-  <set name="mDef" val="578.3992"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.82954545455"/>
+  <set name="mpRegen" val="1.5816953317"/>
+  <set name="pAtk" val="4261.36363636"/>
+  <set name="pDef" val="2840.90909091"/>
+  <set name="mAtk" val="2952.26866495"/>
+  <set name="mDef" val="3071.25307125"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
-  <set name="str" val="60"/>
-  <set name="int" val="76"/>
-  <set name="dex" val="73"/>
-  <set name="wit" val="70"/>
-  <set name="con" val="57"/>
-  <set name="men" val="80"/>
+  <set name="atkSpd" val="273"/>
+  <set name="str" val="40"/>
+  <set name="int" val="21"/>
+  <set name="dex" val="30"/>
+  <set name="wit" val="20"/>
+  <set name="con" val="43"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="60"/>
-  <set name="runSpd" val="160"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="solina_clan" clanRange="1000" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3553,7 +3553,7 @@
   </skills>
  </npc>
  <npc id="29097" name="Splendor Disciple" title="Raid Fighter">
-  <set name="level" val="86"/>
+  <set name="level" val="99"/>
   <set name="radius" val="13"/>
   <set name="height" val="47"/>
   <set name="rHand" val="0"/>
@@ -3561,25 +3561,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="37734.3404839904"/>
-  <set name="mp" val="1994.708"/>
-  <set name="hpRegen" val="145.013611476234"/>
-  <set name="mpRegen" val="3.18"/>
-  <set name="pAtk" val="6012.14777485147"/>
-  <set name="pDef" val="581.336118"/>
-  <set name="mAtk" val="4732.4064449491"/>
-  <set name="mDef" val="567.1848"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.52127659574"/>
+  <set name="mpRegen" val="1.4807360552"/>
+  <set name="pAtk" val="3989.36170213"/>
+  <set name="pDef" val="2659.57446809"/>
+  <set name="mAtk" val="2587.41155969"/>
+  <set name="mDef" val="2875.21564117"/>
   <set name="crit" val="4"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="solina_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>
@@ -3598,25 +3598,25 @@
   <set name="type" val="Monster"/>
   <set name="exp" val="0"/>
   <set name="sp" val="0"/>
-  <set name="hp" val="50564.0162485472"/>
-  <set name="mp" val="1994.708"/>
-  <set name="hpRegen" val="145.013611476234"/>
-  <set name="mpRegen" val="3.18"/>
-  <set name="pAtk" val="6012.14777485147"/>
-  <set name="pDef" val="581.336118"/>
-  <set name="mAtk" val="4732.4064449491"/>
-  <set name="mDef" val="567.1848"/>
+  <set name="hp" val="253164.556962"/>
+  <set name="mp" val="9008.10810811"/>
+  <set name="hpRegen" val="4.85714285714"/>
+  <set name="mpRegen" val="1.59073359073"/>
+  <set name="pAtk" val="4285.71428571"/>
+  <set name="pDef" val="2857.14285714"/>
+  <set name="mAtk" val="2986.10527887"/>
+  <set name="mDef" val="3088.8030888"/>
   <set name="crit" val="1"/>
-  <set name="atkSpd" val="253"/>
+  <set name="atkSpd" val="273"/>
   <set name="str" val="40"/>
   <set name="int" val="21"/>
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="30"/>
-  <set name="runSpd" val="190"/>
+  <set name="runSpd" val="120"/>
   <set name="dropHerbGroup" val="0"/>
   <ai aggro="0" canMove="true" clan="solina_clan" clanRange="300" seedable="false" spsCount="0" spsRate="0" ssCount="0" ssRate="0" type="DEFAULT"/>
   <skills>

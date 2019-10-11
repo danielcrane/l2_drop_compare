@@ -50,8 +50,8 @@
   <set name="sp" val="0"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
-  <set name="hpRegen" val="7.5"/>
-  <set name="mpRegen" val="2.7"/>
+  <set name="hpRegen" val="4.71698113208"/>
+  <set name="mpRegen" val="1.57516006573"/>
   <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
@@ -63,7 +63,7 @@
   <set name="dex" val="30"/>
   <set name="wit" val="20"/>
   <set name="con" val="43"/>
-  <set name="men" val="20"/>
+  <set name="men" val="10"/>
   <set name="corpseTime" val="7"/>
   <set name="walkSpd" val="50"/>
   <set name="runSpd" val="120"/>
