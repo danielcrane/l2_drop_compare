@@ -1122,9 +1122,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -1157,9 +1157,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -1192,9 +1192,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -1227,9 +1227,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -1262,9 +1262,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -6506,13 +6506,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -8766,9 +8766,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -8801,9 +8801,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -8836,9 +8836,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -8871,9 +8871,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -8906,9 +8906,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -8941,9 +8941,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -8976,9 +8976,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -9011,9 +9011,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10461,9 +10461,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10496,9 +10496,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10531,9 +10531,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10566,9 +10566,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10601,9 +10601,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10636,9 +10636,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10671,9 +10671,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -10706,9 +10706,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -21233,9 +21233,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -21268,9 +21268,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -21303,9 +21303,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="1987.67258383"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="8"/>
   <set name="atkSpd" val="227"/>
@@ -21338,9 +21338,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -21443,9 +21443,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -21478,9 +21478,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -21583,9 +21583,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -21618,9 +21618,9 @@
   <set name="mp" val="1674.8"/>
   <set name="hpRegen" val="5.02958579882"/>
   <set name="mpRegen" val="1.64720933952"/>
-  <set name="pAtk" val="894.477317554"/>
+  <set name="pAtk" val="970.537548504614"/>
   <set name="pDef" val="341.375"/>
-  <set name="mAtk" val="610.495655179"/>
+  <set name="mAtk" val="662.751329129412"/>
   <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -27177,13 +27177,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1421.00103"/>
   <set name="mp" val="747.8"/>
   <set name="hpRegen" val="3.95683453237"/>
   <set name="mpRegen" val="0.69349925465"/>
-  <set name="pAtk" val="336.027474317"/>
+  <set name="pAtk" val="305.54906"/>
   <set name="pDef" val="200.23844"/>
   <set name="mAtk" val="208.6504"/>
   <set name="mDef" val="146.5258"/>
@@ -27212,16 +27212,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="FriendlyMonster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1420.58823529"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.25443786982"/>
   <set name="mpRegen" val="0.570392878085"/>
-  <set name="pAtk" val="276.377626805"/>
-  <set name="pDef" val="164.49704142"/>
-  <set name="mAtk" val="141.093777762"/>
-  <set name="mDef" val="120.475505091"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27247,16 +27247,16 @@
   <set name="rHand" val="291"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1420.58823529"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.95683453237"/>
   <set name="mpRegen" val="0.69349925465"/>
-  <set name="pAtk" val="336.027474317"/>
-  <set name="pDef" val="200.0"/>
-  <set name="mAtk" val="208.569918051"/>
-  <set name="mDef" val="146.477412664"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27282,16 +27282,16 @@
   <set name="rHand" val="291"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1420.58823529"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.95683453237"/>
   <set name="mpRegen" val="0.69349925465"/>
-  <set name="pAtk" val="336.027474317"/>
-  <set name="pDef" val="200.0"/>
-  <set name="mAtk" val="208.569918051"/>
-  <set name="mDef" val="146.477412664"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27317,16 +27317,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="FriendlyMonster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1420.58823529"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.25443786982"/>
   <set name="mpRegen" val="0.570392878085"/>
-  <set name="pAtk" val="276.377626805"/>
-  <set name="pDef" val="164.49704142"/>
-  <set name="mAtk" val="141.093777762"/>
-  <set name="mDef" val="120.475505091"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27352,16 +27352,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Monster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1420.58823529"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.95683453237"/>
   <set name="mpRegen" val="0.69349925465"/>
-  <set name="pAtk" val="336.027474317"/>
-  <set name="pDef" val="200.0"/>
-  <set name="mAtk" val="208.569918051"/>
-  <set name="mDef" val="146.477412664"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27387,16 +27387,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="FriendlyMonster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1563.02521008"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.25443786982"/>
   <set name="mpRegen" val="0.570392878085"/>
-  <set name="pAtk" val="251.296661553"/>
-  <set name="pDef" val="164.49704142"/>
-  <set name="mAtk" val="141.093777762"/>
-  <set name="mDef" val="120.475505091"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27422,16 +27422,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="FriendlyMonster"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1563.02521008"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.25443786982"/>
   <set name="mpRegen" val="0.570392878085"/>
-  <set name="pAtk" val="251.296661553"/>
-  <set name="pDef" val="164.49704142"/>
-  <set name="mAtk" val="141.093777762"/>
-  <set name="mDef" val="120.475505091"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27457,7 +27457,7 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1562.65822785"/>
   <set name="mp" val="747.8"/>
@@ -27492,16 +27492,16 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="3000"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="226"/>
   <set name="hp" val="1563.02521008"/>
   <set name="mp" val="747.747747748"/>
   <set name="hpRegen" val="3.25443786982"/>
   <set name="mpRegen" val="0.570392878085"/>
-  <set name="pAtk" val="251.296661553"/>
-  <set name="pDef" val="164.49704142"/>
-  <set name="mAtk" val="141.093777762"/>
-  <set name="mDef" val="120.475505091"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="60"/>
@@ -27527,13 +27527,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -27562,13 +27562,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -27597,13 +27597,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -27632,13 +27632,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -27667,13 +27667,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -27702,7 +27702,7 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="1"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
@@ -27743,10 +27743,10 @@
   <set name="mp" val="401.801801802"/>
   <set name="hpRegen" val="2.83018867925"/>
   <set name="mpRegen" val="1.04255198595"/>
-  <set name="pAtk" val="100.628930818"/>
-  <set name="pDef" val="106.289308176"/>
-  <set name="mAtk" val="53.6569175846"/>
-  <set name="mDef" val="77.6247946059"/>
+  <set name="pAtk" val="688.86373"/>
+  <set name="pDef" val="295.91597"/>
+  <set name="mAtk" val="470.40463"/>
+  <set name="mDef" val="216.53847"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -27778,10 +27778,10 @@
   <set name="mp" val="401.801801802"/>
   <set name="hpRegen" val="3.10344827586"/>
   <set name="mpRegen" val="1.14321217769"/>
-  <set name="pAtk" val="110.344827586"/>
-  <set name="pDef" val="116.551724138"/>
-  <set name="mAtk" val="64.5184558124"/>
-  <set name="mDef" val="85.119602361"/>
+  <set name="pAtk" val="405.96455"/>
+  <set name="pDef" val="228.40135"/>
+  <set name="mAtk" val="277.22116"/>
+  <set name="mDef" val="167.1342"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -27807,7 +27807,7 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
@@ -27842,13 +27842,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -27877,13 +27877,13 @@
   <set name="rHand" val="0"/>
   <set name="lHand" val="0"/>
   <set name="type" val="Folk"/>
-  <set name="exp" val="490"/>
+  <set name="exp" val="0"/>
   <set name="sp" val="10"/>
   <set name="hp" val="2444.46819"/>
   <set name="mp" val="1345.8"/>
   <set name="hpRegen" val="4.71698113208"/>
   <set name="mpRegen" val="1.57516006573"/>
-  <set name="pAtk" val="699.685534591"/>
+  <set name="pAtk" val="688.86373"/>
   <set name="pDef" val="295.91597"/>
   <set name="mAtk" val="470.40463"/>
   <set name="mDef" val="216.53847"/>
@@ -29493,9 +29493,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29528,9 +29528,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29563,9 +29563,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29598,9 +29598,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29633,9 +29633,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29668,9 +29668,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29703,9 +29703,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29738,9 +29738,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -29773,9 +29773,9 @@
   <set name="mp" val="1846.8"/>
   <set name="hpRegen" val="4.88505747126"/>
   <set name="mpRegen" val="1.59987573781"/>
-  <set name="pAtk" val="982.75862069"/>
+  <set name="pAtk" val="1188.87259499001"/>
   <set name="pDef" val="361.78814"/>
-  <set name="mAtk" val="671.060405726"/>
+  <set name="mAtk" val="811.84586495282"/>
   <set name="mDef" val="264.74086"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
@@ -32014,10 +32014,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32049,10 +32049,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32084,10 +32084,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32119,10 +32119,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32154,10 +32154,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32189,10 +32189,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32224,10 +32224,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
@@ -32259,10 +32259,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.43786982249"/>
   <set name="mpRegen" val="1.48195532811"/>
-  <set name="pAtk" val="647.928994083"/>
-  <set name="pDef" val="278.106508876"/>
-  <set name="mAtk" val="416.247037622"/>
-  <set name="mDef" val="203.635588251"/>
+  <set name="pAtk" val="970.537548504614"/>
+  <set name="pDef" val="341.375"/>
+  <set name="mAtk" val="662.751329129412"/>
+  <set name="mDef" val="249.80341"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>

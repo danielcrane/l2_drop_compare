@@ -958,10 +958,10 @@
   <set name="mp" val="1345.04504505"/>
   <set name="hpRegen" val="4.49101796407"/>
   <set name="mpRegen" val="1.49970329611"/>
-  <set name="pAtk" val="655.688622754"/>
-  <set name="pDef" val="281.437125749"/>
-  <set name="mAtk" val="426.276727079"/>
-  <set name="mDef" val="206.074337811"/>
+  <set name="pAtk" val="890.50085998804"/>
+  <set name="pDef" val="332.70061"/>
+  <set name="mAtk" val="608.096657928153"/>
+  <set name="mDef" val="243.45587"/>
   <set name="crit" val="4"/>
   <set name="atkSpd" val="253"/>
   <set name="str" val="40"/>
